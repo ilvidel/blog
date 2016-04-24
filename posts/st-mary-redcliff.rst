@@ -13,7 +13,9 @@ hay en Bristol, pero cuando he llegado estaban en misa. He esperado un
 rato fuera, pero tardaban mucho, así que he pensado que para esperar
 fuera, pues esperaba dentro.
 
-.. image:: /galleries/stmary/patio.jpg
+.. figure:: /galleries/stmary/patio.jpg
+
+   Vista de la fachada desde el patio.
 
 He entrado y me he sentado en la parte de atrás, y he observado cómo
 era la misa. Ha sido curioso porque la mayor parte del tiempo se la
@@ -70,7 +72,9 @@ decía que sólo quedaba una de las originales, las demás se rompieron
 durante las guerras y tuvieron que ser restauradas (es lo que tiene el
 cristal y las explosiones, no se llevan bien).
 
-.. image:: /galleries/stmary/vidriera2.jpg
+.. figure:: /galleries/stmary/vidriera2.jpg
+
+   Capilla oeste y vidriera.
 
 Otra cosa bastante curiosa que había allí era un hueso de la mandíbula
 de una ballena. Una bastante pequeña, la verdad, pero bueno. En la
@@ -82,8 +86,13 @@ viajando por el norte; pero se topó con América, claro. En el viaje de
 vuelta, el tipo se tajo de vuelta esta mandíbula de ballena. No sé qué
 pinta en la iglesia, no lo explican, pero ahí está.
 
-.. thumbnail:: /galleries/stmary/maqueta-matthew.jpg
-.. thumbnail:: /galleries/stmary/mandibula-ballena.jpg
+.. figure:: /galleries/stmary/maqueta-matthew.jpg
+
+   Maqueta del Matthew
+
+.. figure:: /galleries/stmary/mandibula-ballena.jpg
+
+   Hueso de la mandíbula de una ballena
 
 Fuera, en el jardín, había una cosa que me llamó también mucho la
 atención: un trozo de vía del tranvía incrustado en el césped. Antes
@@ -93,7 +102,9 @@ mundial, una bomba hizo volar ese trozo de vía por encima de las casas
 colindantes y acabó empotrado así en el suelo. Y lo dejaron ahí de
 recuerdo.
 
-.. image:: /galleries/stmary/tranvia.jpg
+.. figure:: /galleries/stmary/tranvia.jpg
+
+   Trozo de vía clavado en el suelo, y placa conmemorativa.
 
 .. _matthew: https://en.wikipedia.org/wiki/Matthew_(ship)
 .. _péndulo: https://es.wikipedia.org/wiki/P%C3%A9ndulo
