@@ -93,21 +93,21 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        # ('/index.html', 'Home', 'icon-home'),
-        # ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-        # ('/categories/index.html', 'Tags', 'icon-tags'),
-        # ('/rss.xml', 'RSS', 'icon-rss'),
-        ('/index.html', 'Inicio'),
-        ('/archive.html', 'Archivo'),
-        ('/categories/', 'Etiquetas'),
-        ('/rss.xml', 'Canal RSS'),
+        ('/index.html', 'Home', 'icon-home'),
+        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        ('/categories/index.html', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
+        # ('/index.html', 'Inicio'),
+        # ('/archive.html', 'Archivo'),
+        # ('/categories/', 'Etiquetas'),
+        # ('/rss.xml', 'Canal RSS'),
     ),
 }
 
 # Name of the theme to use.
 THEME = 'bootstrap3'
-THEME = 'zen'
 THEME = 'material-theme'
+THEME = 'zen'
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
@@ -606,7 +606,7 @@ GITHUB_COMMIT_SOURCE = True
 # Default is:
 GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-THUMBNAIL_SIZE = 256
+THUMBNAIL_SIZE = 420
 # MAX_IMAGE_SIZE = 1280
 USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
