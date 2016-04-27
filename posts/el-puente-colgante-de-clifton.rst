@@ -7,6 +7,10 @@
 .. description: Excursión al puente colgante de Clifton
 .. type: text
 
+.. image:: /galleries/clifton-bridge/03_puente.jpg
+   :align: center
+   :width: 50%
+
 Hoy he hecho una pequeña excursión: me he cogido un autobús y he ido a
 visitar el puente colgante de Clifton. Fue inaugurado en 1864 para
 poder cruzar el desfiladero del río Avon, y unir el barrio de Clifton
@@ -56,6 +60,19 @@ impresionante, al parecer los ingenieros lo estudian durante la
 carrera y dicen que lo podrían haber hecho con 3 veces menos
 material. Así que no se va a caer, no.
 
+La verdad es que el puente es bastante impresionante. Fijaos en el
+tamaño de las dos estructuras que hay a cada extremo (no sé el nombre
+técnico, que me perdonen los arquitectos e ingenieros de caminos),
+comparadas con los coches y la gente. Muy imponente. Uno de los
+principales impulsores del puente, además de su diseñador, fue un tal
+Brunel, que por aquí es una especie de héroe local. Hay muchas cosas
+que llevan su nombre, bien porque las construyera él, o en su
+honor. Claro que cuando te puedes ahorrar el dinero de la mano de obra
+siendo esclavista, la perspectiva cambia. Pero bueno, es lo que había
+por entonces.
+
+.. _Brunel: https://es.wikipedia.org/wiki/Isambard_Kingdom_Brunel
+
 .. figure:: /galleries/clifton-bridge/04_puente.jpg
 
    Vista del puente, con un globo aerostático que pasaba por allí.
@@ -73,7 +90,7 @@ espejo. Lo instaló allí William West (un artistilla local)
 en 1829. Los artistas usaban la cámara obscura de forma habitual, para
 pintar de forma más realista. Vamos, lo que viene siendo calcar.
 
-.. _cámara oscura: https://es.wikipedia.org/wiki/C%C3%A1mara_oscura
+.. _cámara obscura: https://es.wikipedia.org/wiki/C%C3%A1mara_oscura
 .. figure:: /galleries/clifton-bridge/10_torre.jpg
 
    Torre del observatorio.
