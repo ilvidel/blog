@@ -1,10 +1,10 @@
 .. title: El Puente Colgante de Clifton
 .. slug: el-puente-colgante-de-clifton
-.. date: 2016-05-10 0:37:52 UTC+02:00
+.. date: 2016-05-01 10:37:52 UTC+02:00
 .. tags: puente, cámara oscura, cueva
 .. category: turismo
 .. link:
-.. description: Excursión al puente colgante de Clifton
+.. description: Excursión al Puente Colgante de Clifton
 .. type: text
 
 .. image:: /galleries/clifton-bridge/03_puente.jpg
