@@ -1,5 +1,5 @@
 .. title: St. Mary Redcliffe
-.. slug: st-mary-redcliff
+.. slug: st-mary-redcliffe
 .. date: 2016-04-17 15:45:38 UTC+02:00
 .. tags: tusismo, iglesia, catedral
 .. category: turismo
