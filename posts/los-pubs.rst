@@ -26,7 +26,9 @@ estuvimos un buen rato hablando con el australiano. Un tipo bastante
 interesante y que, la verdad sea dicha, hablaba por los codos. Así es
 más fácil tener una conversación, jajaja.
 
-.. image:: /images/llandoger.jpg
+.. figure:: /images/llandoger.jpg
+
+   El *Llandoger Trow*, en King street
 
 Otro pub que hay por aquí y que es bastante famoso, es el `Llandoger
 Trow`_. Es famoso no por su cerveza, si no por su historia, ya que ha
@@ -61,6 +63,8 @@ pensando ya tiempo, pero siempre me da mucha pereza salir de casa sin
 desayunar ni ná. Y temprano, claro, porque a las 10 o las 11 aquí no son
 horas de desayunar. Me tocará ir un día de diario).
 
-.. image:: /images/yurt-lush.jpg
+.. figure:: /images/yurt-lush.jpg
+
+   El *Yurt Lush*, que parece una cabaña
 
 .. _buenos desayunos: https://eatdrinkbristolfashion.co.uk/yurt-lush/menus
