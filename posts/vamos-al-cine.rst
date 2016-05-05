@@ -15,6 +15,8 @@ porque no comprendía el chiste (referencias a cosas
 americanas/inglesas que no conozco), y otros porque directamente no
 entendía una mierda de lo que decía.
 
+.. TEASER_END
+
 Pero bueno, eso no es el tema. A lo que iba es al cine en sí, a la
 experiencia. Aquí no es como en España, que hay un oligopolio y todas
 las salas se ponen de acuerdo en los precios y no se hacen la

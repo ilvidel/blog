@@ -14,6 +14,8 @@ es por la marea, y que hay una cosa bastante chula que se llama *ola
 de marea*. Aquí lo llaman *the Severn bore* (lo de Severn es por el
 río). Veréis cómo va la cosa:
 
+.. TEASER_END
+
 .. image:: /images/bristol-channel.png
 
 Si miráis el mapa de Inglaterra, veréis un gran canal en el

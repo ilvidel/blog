@@ -18,6 +18,8 @@ oficina. Vamos a remediar eso; aunque hay cosas que no puedo contar,
 por aquello de la confidencialidad. De hecho creo que ni siquiera
 puedo hacer fotos de dentro de la oficina.
 
+.. TEASER_END
+
 El lugar en sí mola bastante. Es un espacio abierto con un montón de
 puestos de trabajo, pero sin «cajoneras» de esas que no te dejan ver
 al compañero. Estamos agrupados normalmente de 6 en 6 (tres en frente

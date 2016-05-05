@@ -13,6 +13,8 @@ hay en Bristol, pero cuando he llegado estaban en misa. He esperado un
 rato fuera, pero tardaban mucho, así que he pensado que para esperar
 fuera, pues esperaba dentro.
 
+.. TEASER_END
+
 .. figure:: /galleries/stmary/patio.jpg
 
    Vista de la fachada desde el patio.

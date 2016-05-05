@@ -18,6 +18,8 @@ laberinto. Pero al final llegamos, y nos estaban esperando su mujer y
 más españoles, que están también trabajando en Bristol. Así que, para
 celebrar la llegada, unas pintas.
 
+.. TEASER_END
+
 Al día siguiente, o mejor dicho, la noche siguiente, fuimos a otro
 pub, esta vez más céntrico y junto al río. *The Brew Dog*. Allí
 conocimos a un chico y una chica griegos, un italiano, un rumano, y un

@@ -18,6 +18,8 @@ desayuno continental clásico, que se suele tomar el fin de semana, que
 tienes más tiempo. A veces, incluso fuera de casa, por darte un
 capricho o para no cocinar.
 
+.. TEASER_END
+
 Durante la jornada laboral no suelen comer mucho. La mayoría suele
 hacerse con una cosa bastante popular llamada **meal deal**. Es una
 especie de oferta 3x2 o algo así: consiste en que puedes elegir un

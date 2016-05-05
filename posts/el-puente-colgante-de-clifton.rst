@@ -21,6 +21,8 @@ partes: además del puente, allí me encontré con una cámara oscura y
 una cueva que se podía visitar. Así que, como dijo *Jack el
 Destripador*, vayamos por partes.
 
+.. TEASER_END
+
 .. _puente colgante de Clifton: http://www.cliftonbridge.org.uk/visit
 .. _wikipedia: https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge
 
