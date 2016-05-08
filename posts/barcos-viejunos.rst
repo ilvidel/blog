@@ -1,6 +1,6 @@
 .. title: Barcos Viejunos
 .. slug: barcos-viejunos
-.. date: 2016-05-10 17:49:35 UTC+01:00
+.. date: 2016-05-08 12:00:00 UTC+01:00
 .. tags: barcos, puerto, matthew, ss great britain
 .. category: turismo
 .. link:
@@ -27,6 +27,7 @@ en el golfo pérsico y ha vuelto en Diciembre. Normalmente amarra en
 Portsmouth, pero ahora está en Bristol -no sé por qué-.
 
 .. figure:: /galleries/barcos/HMS_Atherstone.jpg
+   :width: 100%
 
    El HMS Atherstone en el puerto de Bristol.
 
@@ -41,6 +42,7 @@ mercancía del barco al tren (o viceversa). Ahora también las utiliza
 un tren, aunque un poco distinto:
 
 .. figure:: /galleries/barcos/tren-turistico.jpg
+   :width: 100%
 
    Tren turístico por el puerto.
 
@@ -48,10 +50,10 @@ un tren, aunque un poco distinto:
 Continuando con el paseo, y de manera totalmente inesperada, me
 encontré con la réplica del *Matthew* (cuya existencia conocimos
 durante la visita a la iglesia de `St. Mary Redcliffe`_, si
-recordáis). Allí aprendimos que fue el barco que Jhon Cabbot utilizó
-para ir a América en 1497, llegando a Terranova --y empezando la colonización
-de Norteamérica, mientras Colón andaba por el caribe y América
-Central.
+recordáis). Allí aprendimos que fue el barco que John Cabbot utilizó
+para ir a América en 1497, llegando a Terranova --y empezando la
+colonización de Norteamérica, mientras Colón andaba por el caribe y
+América Central.
 
 
 El Matthew
@@ -70,7 +72,17 @@ manga. Cuando uno piensa en cruzar el océano en un barco, suele pensar
 en un barco... hermoso. Grandote. Robusto. Y este es un barquito, un
 cascarón de nuez que se balanceaba con el poco movimiento del agua
 tranquila del río. Y aún así, cruza el océano en 50 días. A vela. No
-sé, es bastante impresionante pensar eso y verlo en persona.
+sé, es bastante impresionante pensar eso y verlo en persona. Cuando
+piensas en el viaje de Colón, no te haces realmente una idea de lo que
+tuvo que ser eso; había que echarle unas pelotas muy gordas. Y más,
+sin saber lo que iban a tardar. Que ahora dices, bueno, pues cojo
+provisiones y apechusques para 50 días. Pero Colón no sabía lo que iba
+a tardar (que me corrija algún historiador). O los vikingos, que se
+supone que `llegaron mucho antes a América`_ (aunque con eso de ser
+tan brutos, no se pararon a escribir la historia ni hacer mapas, así
+que no está muy claro).
+
+.. _llegaron mucho antes a América: _https://es.wikipedia.org/wiki/Asentamientos_vikingos_en_Am%C3%A9rica
 
 Te permiten deambular por -casi- todo el barco, bajar a la bodega, ver
 dónde duermen, cómo funciona el timón... Muy chulo. Hay varios
@@ -80,6 +92,8 @@ verdad, o los han puesto ahora en la réplica en plan decorativo/para
 los turistas.
 
 .. figure:: /galleries/barcos/TheMatthew_08.jpg
+   :width: 60%
+   :align: center
 
    Cubierta del Matthew
 
@@ -128,12 +142,19 @@ y fue vendido a la *Compañía de las Islas Malvinas*, donde permaneció
 durante 51 años, utilizado exclusivamente como almacén de carbón. Qué
 triste, y qué desperdicio. Supongo que en ese año la compañía cerró, o
 algo así, y se deshicieron del barco agujereando el casco para
-abandonarlo a su hundimiento y corrosión. En los años 70, los
-británicos se empeñaron en traerlo de nuevo a casa, y organizaron una
-operación de rescate para ponerlo de nuevo a flote y traerlo a Bristol
-remolcado en un pontón_. Podéis ver la historia en un documental de la
-BBC en youtube: `Chronicle - The Great Iron Ship`_ Os lo recomiendo
-(aunque está en inglés, claro).
+abandonarlo a su hundimiento y corrosión.
+
+.. figure:: http://blogs.ukoln.ac.uk/cultural-heritage/files/2010/05/ssGreatBritain-2.jpg
+   :width: 100%
+
+   El SS Great Britain, corroído y oxidado, durante la operación de
+   rescate, circa 1970
+
+En los años 70, los británicos se empeñaron en traerlo de nuevo a
+casa, y organizaron una operación de rescate para ponerlo de nuevo a
+flote y traerlo a Bristol remolcado en un pontón_. Podéis ver la
+historia en un documental de la BBC en youtube: `Chronicle - The Great
+Iron Ship`_ Os lo recomiendo (aunque está en inglés, claro).
 
 Ahora está totalmente restaurado, tal y como era en sus viajes
 iniciales de pasajeros. El casco estaba muy corroído, así que
@@ -143,6 +164,7 @@ flotación y tiene un sistema de ventilación que inyecta aire seco,
 para contrarrestar la alta humedad habitual del ambiente.
 
 .. figure:: /galleries/barcos/SSGB_04.jpg
+   :width: 100%
 
    Debajo del casco. El «techo» de cristal sería el nivel del
    agua. Podéis ver los tubos de aire seco a lo largo de la quilla.
@@ -156,6 +178,7 @@ timón, otra innovación que ahora incorporan todos los barcos y que
 comenzó con éste.
 
 .. figure:: /galleries/barcos/SSGB_06.jpg
+   :width: 100%
 
    Timón y hélice original de 6 aspas (bueno, réplica). La original
    perdió 5 aspas y fue sustituida en el tercer viaje por una nueva de 4 aspas.
@@ -178,7 +201,7 @@ me hizo volver a dejar la cazadora), bajé a la cubierta de paseo. Aquí
 se encuentra el camarote del capitán, así como los de los pasajeros de
 primera clase -en la parte de popa- y los de «segunda» en la parte de
 proa. Los camarotes son muy muy angostos, así como las camas. Supongo
-que por aquella época nadie pasaba del 1.60, por que si no, lo llevaba
+que por aquella época nadie pasaba de 1.60, por que si no, lo llevaba
 muy mal para dormir.
 
 .. thumbnail:: /galleries/barcos/SSGB_23.jpg
