@@ -1,6 +1,6 @@
 .. title: La Oficina
 .. slug: la-oficina
-.. date: 2016-05-20 08:00:00 UTC+01:00
+.. date: 2016-05-25 08:00:00 UTC+01:00
 .. tags: oficina
 .. category: personal
 .. link:
@@ -12,9 +12,9 @@
    :width: 50%
    :align: center
 
-Acabo de caer en la cuenta de que llevo ya dos meses trabajando aquí y
-no os he contado apenas nada sobre cómo es el trabajo y la
-oficina. Vamos a remediar eso; aunque hay cosas que no puedo contar,
+Acabo de caer en la cuenta de que llevo ya tres meses trabajando aquí
+y no os he contado apenas nada sobre cómo es el trabajo y la
+oficina. Vamos a remediar eso, aunque hay cosas que no puedo contar,
 por aquello de la confidencialidad. De hecho creo que ni siquiera
 puedo hacer fotos de dentro de la oficina.
 
@@ -23,14 +23,20 @@ puedo hacer fotos de dentro de la oficina.
 El lugar en sí mola bastante. Es un espacio abierto con un montón de
 puestos de trabajo, pero sin «cajoneras» de esas que no te dejan ver
 al compañero. Estamos agrupados normalmente de 6 en 6 (tres en frente
-y tres a la espalda. Mmmm no sé si se entiende, pero no se me ocurre
+y tres a la espalda. Mmmm... no sé si se entiende, pero no se me ocurre
 cómo explicarlo mejor. Es un edificio de esos con todo ventanal, sin
 pared exterior, así que entra mucha luz y tiene unas vistas muy
 chulas. Justo enfrente tenemos la estación de tren, y me gusta ver los
 trenes yendo y viniendo, sobre todo los mercancías. En otro lado
 tenemos un descampado bastate hermoso, pero va a durar poco. A
 principios de abril comenzaron unas obras, y parece ser que nos van a
-levantar un hotel, así que se nos fastidió la vista.
+levantar un hotel, así que se nos fastidió la vista. Pero ya tenéis
+sitio cerca para verme trabajar desde la ventana cuando vengáis a
+visitarme, jajaja.
+
+.. figure:: /images/office01.jpg
+
+   Libros de superhéroes para colorear, en la zona de sofás
 
 Hay algunos espacios para reuniones de dos o tres personas, y dos o
 tres salas más grandes. Tenemos también cuatro sofás bastante hermosos
@@ -41,10 +47,18 @@ departamentos, y comentamos lo que hemos hecho durante la semana. De
 esta forma todo el mundo tiene una idea aproximada de todo lo que está
 pasando.
 
+.. figure:: /images/office02.jpg
+
+   Juego de damas, edición de bolsillo
+
 Los martes tengo una reunión parecida, pero sólo para los de mi
 equipo. Además de resumir lo que hemos hecho, comentamos dudas o
 cualquier otra cosa. Esta la hacemos por videoconferencia, porque
 estamos repartidos entre Bristol, Boston, San Francisco y Toronto.
+
+.. figure:: /images/office03.jpg
+
+   Catering de comilona por la incorporación de un nuevo miembro
 
 Los viernes, además, hay un espacio que llaman *Friday Talk*. Después
 de la reunión de sofá, si alguien quiere, puede dar una especie de
@@ -72,3 +86,7 @@ poco de *IT guy* para el resto de gente de la empresa: dar de
 alta/baja usuarios, asignar permisos... Y por si fuera poco,
 intentamos desarrollar nuestras propias herramientas, para poder hacer
 todas estas cosas un poco más automáticamente y menos manual.
+
+Está muy bien porque aprendo muchas cosas nuevas, tanto herramientas
+como conceptos, aunque por otro lado hay muchísimo trabajo y siempre
+estamos hasta arriba. Pero bueno, así es la nube.
