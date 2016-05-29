@@ -9,7 +9,7 @@
 
 .. image:: /galleries/arnos-vale-cemetery/ArnosVale_07.jpg
    :align: center
-   :width: 75%
+   :width: 50%
 
 Un par de días antes de ir a España, estaba harto de estar encerrado
 en casa. Era un domingo por la tarde, de esos que no te apetece hacer
@@ -33,6 +33,7 @@ hasta poco después de la Segunda Guerra Mundial, porque creo que son
 las tumbas más recientes que hay.
 
 .. figure:: /galleries/arnos-vale-cemetery/ArnosVale_20.jpg
+
    Este se ha tomado en serio lo de criar malvas.
 
 El problema es que no ha tenido un mantenimiento en
@@ -55,6 +56,5 @@ en persona, pasear por los caminos entre las tumbas y los árboles, y
 disfrutarlo en persona. Os dejo un vídeo, y como siempre, algunas
 fotos en la galería_.
 
-.. _galería:: /galleries/arnos-vale-cemetery/
-
+.. _galería: /galleries/arnos-vale-cemetery/
 .. youtube:: Mkn8ieBKET4
