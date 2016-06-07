@@ -82,7 +82,7 @@ supone que `llegaron mucho antes a América`_ (aunque con eso de ser
 tan brutos, no se pararon a escribir la historia ni hacer mapas, así
 que no está muy claro).
 
-.. _llegaron mucho antes a América: _https://es.wikipedia.org/wiki/Asentamientos_vikingos_en_Am%C3%A9rica
+.. _llegaron mucho antes a América: https://es.wikipedia.org/wiki/Asentamientos_vikingos_en_Am%C3%A9rica
 
 Te permiten deambular por -casi- todo el barco, bajar a la bodega, ver
 dónde duermen, cómo funciona el timón... Muy chulo. Hay varios
