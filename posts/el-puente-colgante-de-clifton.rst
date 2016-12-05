@@ -12,7 +12,7 @@
    :width: 50%
 
 Hoy he hecho una pequeña excursión: me he cogido un autobús y he ido a
-visitar el puente colgante de Clifton. Fue inaugurado en 1864 para
+visitar el `puente colgante de Clifton`_. Fue inaugurado en 1864 para
 poder cruzar el desfiladero del río Avon, y unir el barrio de Clifton
 (Bristol) con el de Leigh Woods (North Somerset), y es uno de los
 símbolos de Bristol. Pero bueno, todos estos datos los podéis leer en
@@ -46,8 +46,6 @@ barbacoas en el parque, pero claro, como viven en la humedad y la
 lluvia… También me encontré ¡una furgoneta de los helados!
 
 .. figure:: /galleries/clifton-bridge/ice-cream-wagon.jpg
-   :scale: 50 %
-   :alt: ¡El carrito de los helados!
 
    El carrito de los helados, en mitad del parque.
 
