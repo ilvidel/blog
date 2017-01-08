@@ -1,12 +1,13 @@
 ---
+
 title: La Oficina
 slug: la-oficina
 date: 2016-05-25
-tags: oficina
-category: personal
+tags: ["oficina"]
+categories:
+  - personal
 description: Día a día en la oficina
 ---
-
 
 .. figure:: https://upload.wikimedia.org/wikipedia/en/9/96/IBM_Cloudant_logo.png
    :width: 50%

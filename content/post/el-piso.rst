@@ -1,9 +1,11 @@
 ---
+
 title: El Piso
 slug: el-piso
 date: 2016-04-19
-tags: bristol, piso
-category: personal
+tags: ["bristol", "piso"]
+categories:
+  - personal
 description: Mi primer piso en Bristol
 ---
 

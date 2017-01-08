@@ -1,9 +1,11 @@
 ---
+
 title: St. Mary Redcliffe
 slug: st-mary-redcliffe
 date: 2016-04-17
-tags: tusismo, iglesia, catedral
-category: turismo
+tags: ["turismo", "iglesia", "catedral"]
+categories:
+  - turismo
 description: Visita a la iglesia de St Mary, en Redcliffe
 ---
 

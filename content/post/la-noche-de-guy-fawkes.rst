@@ -2,11 +2,11 @@
 title: La Noche de Guy Fawkes
 slug: la-noche-de-guy-fawkes
 date: 2016-11-05
-tags: guy fawkes, fuegos artificiales, fiesta
-category: turismo
+tags: ["guy fawkes", "fuegos artificiales", "fiesta"]
+categories:
+  - turismo
 description: Un vistazo a la celebración de la noche de Guy Fawkes
 ---
-
 
 .. figure:: /images/guy-fawkes-mask.png
    :width: 75%
@@ -14,7 +14,7 @@ description: Un vistazo a la celebración de la noche de Guy Fawkes
 
 | Remember, remember
 | the fifth of November,
-| Gunpowder treason and plot.
+| Gunpowder, treason and plot.
 | We see no reason
 | Why gunpowder treason
 | Should ever be forgot!
@@ -113,8 +113,9 @@ Celebración
 -----------
 
 Hoy en día, se conmemora el hecho de que los cogieran y el rey salvara
-la vida. Por ello se queman efigies de Guy Fawkes en sitios públicos y
-se lanzan fuegos artificiales.
+la vida (ya sabemos que los británicos son bastante monárquicos, en
+general). Por ello se queman efigies de Guy Fawkes en sitios públicos
+y se lanzan fuegos artificiales.
 
 El sábado 5 fui a arbitrar a Cardiff, y en el camino de vuelta pudimos
 ver muchos fuegos artificiales por todas partes. Además de los

@@ -1,12 +1,13 @@
 ---
+type: index
 title: El Almacén del M-Shed
 slug: m-shed
 date: 2016-12-04
-tags: almacén, museo, trastos
-category: turismo
+tags: ["almacén", "museo", "trastos"]
+categories:
+  - turismo
 description: Visita "entre bastidores" al M-Shed
 ---
-
 
 .. image:: https://media-cdn.tripadvisor.com/media/photo-s/06/a6/b7/e8/m-shed.jpg
    :width: 60%

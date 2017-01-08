@@ -1,9 +1,11 @@
 ---
+
 title: El Cementerio de Arnos Vale
 slug: el-cementerio-de-arnos-vale
 date: 2016-05-29
-tags: cementerio, arnos vale, bristol
-category: turismo
+tags: ["cementerio", "arnos vale", "bristol"]
+categories:
+  - turismo
 description: Un paseo interesante por el cementerio de Arnos Vale.
 ---
 

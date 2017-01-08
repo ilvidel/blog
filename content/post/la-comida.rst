@@ -1,9 +1,11 @@
 ---
+
 title: La Comida
 slug: la-comida
 date: 2016-04-24
-tags: comida
-category: varios
+tags: ["comida"]
+categories:
+  - varios
 description:
 ---
 

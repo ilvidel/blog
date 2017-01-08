@@ -1,9 +1,11 @@
 ---
+
 title: Emigrante
 slug: emigrante
 date: 2016-04-10
-tags:
-category: personal
+tags: ["emigrante"]
+categories:
+  - personal
 description: Post inicial del blog
 ---
 

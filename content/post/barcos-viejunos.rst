@@ -1,9 +1,11 @@
 ---
+
 title: Barcos Viejunos
 slug: barcos-viejunos
 date: 2016-05-08
-tags: barcos, puerto, matthew, ss great britain
-category: turismo
+tags: ["barcos", "puerto", "matthew", "ss great britain"]
+categories:
+  - turismo
 description: Un paseo por el puerto de Bristol y algunos de sus barcos.
 ---
 
@@ -54,7 +56,9 @@ América Central.
 
 
 El Matthew
-----------
+---
+
+-------
 
 .. figure:: https://www.bristolmuseums.org.uk/wp-content/uploads/2015/12/Matthew-740x416.jpg
    :align: center
@@ -105,7 +109,9 @@ hacerlo. Eso es así. `Fotos del Matthew`_ en Flickr.
 
 
 El SS Great Britain
--------------------
+---
+
+----------------
 
 .. raw:: html
 

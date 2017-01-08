@@ -1,9 +1,11 @@
 ---
+
 title: Cosillas de Bristol
 slug: cosillas-de-bristol
 date: 2016-04-13
-tags: bristol, chimeneas, gaviotas, comida
-category: personal
+tags: ["bristol", "chimeneas", "gaviotas", "comida"]
+categories:
+  - personal
 description: Pensamientos aleatorios sobre cosas en Bristol
 ---
 

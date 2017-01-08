@@ -1,9 +1,11 @@
 ---
+
 title: La Ola de Marea
 slug: la-ola-de-marea
 date: 2016-04-26
-tags: ola marea bristol rio
-category: turismo
+tags: ["ola", "marea", "bristol", "rio"]
+categories:
+  - turismo
 description:
 ---
 

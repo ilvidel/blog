@@ -1,9 +1,11 @@
 ---
+
 title: Stonehenge
 slug: stonehenge
 date: 2016-06-07
-tags: stonehenge, piedras
-category: turismo
+tags: ["stonehenge", "piedras"]
+categories:
+  - turismo
 description: Excursión a Stonehenge, uno de esos sitios que hay que visitar.
 ---
 
@@ -150,7 +152,9 @@ estaban los palos.
    :width: 100%
 
 Un poco de astronomía
----------------------
+---
+
+------------------
 
 Voy a intentar describiros lo que queda del monumento, y cómo está
 alineado con el sol. Si miras el plano de Stonehenge, lo primero que

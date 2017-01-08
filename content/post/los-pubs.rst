@@ -1,10 +1,11 @@
 ---
+
 title: Los Pubs
 slug: los-pubs
 date: 2016-05-03
-tags: bristol, pubs, pintas
-category: ocio
-description:
+tags: ["bristol", "pubs", "pintas"]
+category:
+  - ocio
 ---
 
 Nada más aterrizar, mi *hamijo* Cleto me recogió en el aeropuerto y me
