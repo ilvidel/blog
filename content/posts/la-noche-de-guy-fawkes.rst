@@ -1,15 +1,15 @@
-.. title: La Noche de Guy Fawkes
-.. slug: la-noche-de-guy-fawkes
-.. date: 2016-11-05 15:49:53 UTC
-.. tags: guy fawkes, fuegos artificiales, fiesta
-.. category: turismo
-.. link:
-.. description: Un vistazo a la celebración de la noche de Guy Fawkes
-.. type: text
+---
+title: La Noche de Guy Fawkes
+slug: la-noche-de-guy-fawkes
+date: 2016-11-05
+tags: guy fawkes, fuegos artificiales, fiesta
+category: turismo
+description: Un vistazo a la celebración de la noche de Guy Fawkes
+---
 
 
-.. image:: /images/guy-fawkes-mask.png
-   :width: 50%
+.. figure:: /images/guy-fawkes-mask.png
+   :width: 75%
    :align: center
 
 | Remember, remember
@@ -133,4 +133,4 @@ las 7 de la tarde, claro), bebiendo algo de vino y/o cerveza y
 charlando. Luego hicimos los *marshmellows* en una estufa (no había
 sitio para hacer hoguera) y hasta tuvimos pirotecnia.
 
-.. youtube:: QzclTMdElnM
+{{< youtube QzclTMdElnM >}}

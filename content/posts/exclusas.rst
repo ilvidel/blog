@@ -1,15 +1,15 @@
-.. title: El Canal de Bristol
-.. slug: exclusas
-.. date: 2016-08-29 18:47:53 UTC+01:00
-.. tags: exclusas, barcos
-.. category: turismo
-.. link:
-.. description: Funcionamiento de las exclusas del canal
-.. type: text
+---
+title: El Canal de Bristol
+slug: exclusas
+date: 2016-08-29
+tags: exclusas, barcos
+category: turismo
+description: Funcionamiento de las exclusas del canal
+---
 
 
-.. image:: /images/mapa-exclusas.png
-   :width: 50%
+.. figure:: /images/mapa-exclusas.png
+   :width: 100%
    :align: center
 
 El post de hoy va a ser corto, al menos en texto. He ido a ver cómo
@@ -25,4 +25,4 @@ entrada y salida de barcos al río. ¿Y cómo lo hacen? Pues con un
 sistema de exclusas, igual que el del canal de Panamá, solo que en
 reducido. Os dejo el vídeo donde se ve el funcionamiento.
 
-.. youtube:: -MWsEC-31UU
+{{< youtube -MWsEC-31UU >}}

@@ -1,15 +1,15 @@
-.. title: Barcos Viejunos
-.. slug: barcos-viejunos
-.. date: 2016-05-08 12:00:00 UTC+01:00
-.. tags: barcos, puerto, matthew, ss great britain
-.. category: turismo
-.. link:
-.. description: Un paseo por el puerto de Bristol y algunos de sus barcos.
-.. type: text
+---
+title: Barcos Viejunos
+slug: barcos-viejunos
+date: 2016-05-08
+tags: barcos, puerto, matthew, ss great britain
+category: turismo
+description: Un paseo por el puerto de Bristol y algunos de sus barcos.
+---
 
-.. image:: /galleries/barcos/gruas.jpg
-   :width: 50%
-   :align: center
+.. raw:: html
+
+   <a data-flickr-embed="true" href="https://www.flickr.com/photos/149690786@N07/32051319211/in/dateposted-public/" title="gruas"><img src="https://c4.staticflickr.com/1/591/32051319211_380cbca0e9_z.jpg" width="640" height="360" alt="gruas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Hoy os traigo un publirreportaje sobre maquinaria gigante, barcos y
 avances técnicos en el siglo XVIII. Si es que yo tenía que haber
@@ -26,10 +26,9 @@ encontré fue el `HSM Atherstone`_ un buscaminas que ha pasado 3 años
 en el golfo pérsico y ha vuelto en Diciembre. Normalmente amarra en
 Portsmouth, pero ahora está en Bristol -no sé por qué-.
 
-.. figure:: /galleries/barcos/HMS_Atherstone.jpg
-   :width: 100%
+.. raw:: html
 
-   El HMS Atherstone en el puerto de Bristol.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051191740/in/album-72157677325015296/" title="HMS Atherstone"><img src="https://c5.staticflickr.com/6/5630/31051191740_50d0f6fff8_z.jpg" width="640" height="361" alt="HMS Atherstone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 El puerto es un lugar muy chulo para pasear. Es bastante antiguo, y
 puedes imaginar cómo era en su época dorada. En la imagen de cabecera
@@ -41,11 +40,9 @@ utilizaba el ferrocarril, de forma que podían pasar directamente la
 mercancía del barco al tren (o viceversa). Ahora también las utiliza
 un tren, aunque un poco distinto:
 
-.. figure:: /galleries/barcos/tren-turistico.jpg
-   :width: 100%
+.. raw:: html
 
-   Tren turístico por el puerto.
-
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31420058495/in/album-72157677325015296/" title="Tren turístico del puerto"><img src="https://c8.staticflickr.com/6/5670/31420058495_a3e74cdd4c_z.jpg" width="640" height="360" alt="Tren turístico del puerto"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Continuando con el paseo, y de manera totalmente inesperada, me
 encontré con la réplica del *Matthew* (cuya existencia conocimos
@@ -59,7 +56,7 @@ América Central.
 El Matthew
 ----------
 
-.. image:: https://www.bristolmuseums.org.uk/wp-content/uploads/2015/12/Matthew-740x416.jpg
+.. figure:: https://www.bristolmuseums.org.uk/wp-content/uploads/2015/12/Matthew-740x416.jpg
    :align: center
    :width: 50%
 
@@ -91,11 +88,9 @@ siglo XV/XVI. Hay incluso pequeños cañones que no sé si serán de
 verdad, o los han puesto ahora en la réplica en plan decorativo/para
 los turistas.
 
-.. figure:: /galleries/barcos/TheMatthew_08.jpg
-   :width: 60%
-   :align: center
+.. raw:: html
 
-   Cubierta del Matthew
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30597855674/in/album-72157677325015406/" title="TheMatthew_08"><img src="https://c3.staticflickr.com/6/5755/30597855674_6f638b0245_z.jpg" width="480" height="640" alt="TheMatthew_08"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Estuve hablando con uno de los miembros de la tripulación, que son
 todos voluntarios y mantienen el barco gracias a los donativos. Me
@@ -104,14 +99,17 @@ el barco es completamente funcional! Hacen viajes con público por el
 puerto, otros por el desfiladero del Avon (por debajo del `Puente
 Colgante de Clifton`_), y a veces cruzan el charco (este último no sé
 para qué). Posiblemente algún finde haga uno de los viajes. Hay que
-hacerlo. Eso es así. Fotitos de todo en la galería_.
+hacerlo. Eso es así. `Fotos del Matthew`_ en Flickr.
+
+.. _Fotos del Matthew: https://www.flickr.com/photos/149690786@N07/albums/72157677325015406
 
 
 El SS Great Britain
 -------------------
 
-.. thumbnail:: /galleries/barcos/SSGB_08.jpg
-   :align: center
+.. raw:: html
+
+   <a data-flickr-embed="true"  href="https://www.flickr.com/photos/149690786@N07/30599518514/in/album-72157677325015356/" title="P4300054"><img src="https://c3.staticflickr.com/6/5578/30599518514_d1219d5e72_z.jpg" width="640" height="480" alt="P4300054"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Después de esta inesperada e instructiva parada, continué mi periplo
 hasta llegar a mi verdadero destino: el transatlántico `SS Great
@@ -163,11 +161,9 @@ pudriéndose. De hecho, el dique está sellado por debajo de la línea de
 flotación y tiene un sistema de ventilación que inyecta aire seco,
 para contrarrestar la alta humedad habitual del ambiente.
 
-.. figure:: /galleries/barcos/SSGB_04.jpg
-   :width: 100%
+.. raw:: html
 
-   Debajo del casco. El «techo» de cristal sería el nivel del
-   agua. Podéis ver los tubos de aire seco a lo largo de la quilla.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31420836745/in/album-72157677325015356/" title="P4300044"><img src="https://c2.staticflickr.com/6/5545/31420836745_25fe4ce53e_z.jpg" width="640" height="360" alt="P4300044"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Pasear alrededor del casco te permite ver que, aunque está muy
 restaurado, aún tiene muchos agujeros y zonas corroídas, con lo que te
@@ -177,11 +173,9 @@ primer barco que se construyó así. También se puede ver la hélice y el
 timón, otra innovación que ahora incorporan todos los barcos y que
 comenzó con éste.
 
-.. figure:: /galleries/barcos/SSGB_06.jpg
-   :width: 100%
+.. raw:: html
 
-   Timón y hélice original de 6 aspas (bueno, réplica). La original
-   perdió 5 aspas y fue sustituida en el tercer viaje por una nueva de 4 aspas.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051669070/in/album-72157677325015356/" title="P4300048"><img src="https://c7.staticflickr.com/6/5551/31051669070_e4a9500da9_z.jpg" width="640" height="360" alt="P4300048"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Después de ver el dique y el casco, subí a la cubierta principal. Un
 poco sosa, la verdad, aunque supongo que diseñada para ser elegante y
@@ -191,10 +185,13 @@ cierto). Hay réplicas de pequeños establos/cuadras para transporte de
 animales. Por lo visto también hacen actividades para los niños, y les
 dejan subir a los mástiles por las tablas de jarcias.
 
-.. thumbnail:: /galleries/barcos/SSGB_34.jpg
-   :width: 49%
-.. thumbnail:: /galleries/barcos/SSGB_33.jpg
-   :width: 49%
+.. raw:: html
+
+   <a data-flickr-embed="true" href="https://www.flickr.com/photos/149690786@N07/31051611190/in/album-72157677325015356/" title="P4300068"><img src="https://c7.staticflickr.com/6/5808/31051611190_142506508e_z.jpg" width="640" height="480" alt="P4300068"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+.. raw:: html
+
+   <a data-flickr-embed="true" href="https://www.flickr.com/photos/149690786@N07/31306178001/in/album-72157677325015356/" title="P4300071"><img src="https://c2.staticflickr.com/6/5539/31306178001_96e45e86a5_z.jpg" width="640" height="480" alt="P4300071"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Como se puso a llover (y eso que al salir de casa hacía un soletón que
 me hizo volver a dejar la cazadora), bajé a la cubierta de paseo. Aquí
@@ -204,10 +201,13 @@ proa. Los camarotes son muy muy angostos, así como las camas. Supongo
 que por aquella época nadie pasaba de 1.60, por que si no, lo llevaba
 muy mal para dormir.
 
-.. thumbnail:: /galleries/barcos/SSGB_23.jpg
-   :width: 49%
-.. thumbnail:: /galleries/barcos/SSGB_26.jpg
-   :width: 49%
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/149690786@N07/31420769685/in/album-72157677325015356/" title="P4300075"><img src="https://c6.staticflickr.com/6/5465/31420769685_2e2a2751be_z.jpg" width="640" height="480" alt="P4300075"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/149690786@N07/31304605921/in/album-72157677325015356/" title="P4300079"><img src="https://c2.staticflickr.com/6/5608/31304605921_6f989804cc_z.jpg" width="480" height="640" alt="P4300079"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Por cierto, esos señores que se ven en las fotos son muñecos. El barco
 no sólo está restaurado, sino también ambientado como si estuviera en
@@ -222,24 +222,27 @@ la zona media, alrededor del motor, está la cocina y la panadería, y
 algunos armarios para guardar equipaje. En la popa está la bodega de
 carga, donde se almacenaban tanto la carga como los animales.
 
-.. thumbnail:: /galleries/barcos/SSGB_31.jpg
-   :width: 49%
-.. thumbnail:: /galleries/barcos/SSGB_28.jpg
-   :width: 49%
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30597917764/in/album-72157677325015356/" title="P4300082"><img src="https://c5.staticflickr.com/6/5716/30597917764_4d652a9806_z.jpg" width="640" height="480" alt="P4300082"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31274530092/in/album-72157677325015356/" title="P4300085"><img src="https://c5.staticflickr.com/6/5544/31274530092_a34a972711_z.jpg" width="480" height="640" alt="P4300085"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Para terminar, os dejo un pequeño vídeo con algunas cosillas que he
 grabado (nada realmente coherente, la verdad). Por supuesto, podéis
-ver más fotos en la galería_. Os agradezco que comentéis en twitter o
+ver más fotos en Flickr_. Os agradezco que comentéis en twitter o
 me digáis algo directamente, para saber que me leéis y que os gusta (o
 no).
 
-.. youtube:: PhXsHx4fo9o
+{{< youtube PhXsHx4fo9o >}}
 
 .. _Chronicle - The Great Iron Ship: https://www.youtube.com/watch?v=yUyo025f63M
 .. _pontón: https://es.wikipedia.org/wiki/Pont%C3%B3n
 .. _dique seco: https://es.wikipedia.org/wiki/Dique_seco
 .. _SS Great Britain: https://es.wikipedia.org/wiki/SS_Great_Britain
-.. _galería: /galleries/barcos/
+.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015356
 .. _HSM Atherstone: https://en.wikipedia.org/wiki/HMS_Atherstone_(M38)
 .. _St. Mary Redcliffe: /posts/st-mary-redcliffe
 .. _Puente Colgante de Clifton: /posts/el-puente-colgante-de-clifton

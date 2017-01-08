@@ -1,11 +1,15 @@
-.. title: El Almacén del M-Shed
-.. slug: el-almacen-del-m-shed
-.. date: 2016-12-04 11:26:28 UTC
-.. tags: almacén, museo, trastos
-.. category: turismo
-.. link:
-.. description: Visita "entre bastidores" al M-Shed
-.. type: text
+---
+title: El Almacén del M-Shed
+slug: m-shed
+date: 2016-12-04
+tags: almacén, museo, trastos
+category: turismo
+description: Visita "entre bastidores" al M-Shed
+---
+
+
+.. image:: https://media-cdn.tripadvisor.com/media/photo-s/06/a6/b7/e8/m-shed.jpg
+   :width: 60%
 
 *M-Shed* es el nombre de un museo/galería que hay en el puerto de
 Bristol. El museo está ubicado en varias de las antiguas naves de
@@ -44,10 +48,9 @@ algo del almacén (más adelante veremos un ejemplo). Si alguien no sabe
 a qué grúas me refiero, que eche un vistazo al post
 `Barcos Viejunos`_.
 
- .. figure:: https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_c.jpg
-	:width: 100%
+.. raw:: html
 
-	Puerto de Bristol en 1960, descargando mercancías.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276712642/in/album-72157677325015396/" title="PB240300"><img src="https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_z.jpg" width="640" height="361" alt="PB240300"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Vimos también un montón de bicis y motocicletas antiguas. Algunas en
 un estado aceptable, otras sólo en el chasis. Al parecer, había una
@@ -55,10 +58,9 @@ fábrica de motos, la Douglas, que se hizo muy famosa durante la
 primera guerra mundial, ya que fabricó miles de motos para el
 ejército.
 
- .. figure:: https://c1.staticflickr.com/6/5523/30599995824_42446a7b12_c.jpg
-	:width: 100%
+.. raw:: html
 
-	Motocicleta Douglas de los años 60. Aún funciona.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276712642/in/album-72157677325015396/" title="PB240300"><img src="https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_z.jpg" width="640" height="361" alt="PB240300"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Esto es una calesa utilizada en actos oficiales por el Alcalde, o por
 algún mandatario de más alto rango, si se tercia. Se dice que la
@@ -73,20 +75,18 @@ falta. Para sacarla, utilizan las grúas del puerto. El ayuntamiento ya
 no posee cuadras ni caballos y si alguna vez necesitan usarla,
 alquilan los caballos.
 
- .. figure:: https://c7.staticflickr.com/6/5708/30599983814_98f2c1fba1_c.jpg
-	:width: 100%
+.. raw:: html
 
-	Calesa del siglo XIX, con el escudo de Bristol en la puerta.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30599983814/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5708/30599983814_98f2c1fba1_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Otra de las curiosidades más llamativas es esta pequeña sonda. Se
 fabricó aquí, en la Universidad de Bristol, y es un prototipo de sonda
 para medir rayos cósmicos. Esta en concreto no llegó a utilizarse -por
 ser un prototipo-, pero la NASA sí que utilizó otras basadas en esta.
 
- .. figure:: https://c7.staticflickr.com/6/5836/31276675542_7333ec2cd5_c.jpg
-	:width: 100%
+.. raw:: html
 
-	Sonda
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276675542/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5836/31276675542_7333ec2cd5_z.jpg" width="640" height="360" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En la nave había un montón de restos del pasado industrial aeronáutico
 de Bristol, pero la más curiosa era esta rueda del `Bristol
@@ -99,11 +99,9 @@ cubo de 2 metros de lado (2x2x2). Cuando viajo a España con EasyJet mi
 espacio debe de ser, a ojo, algo así como 0.6x0.8x1.8 (y eso siendo
 generoso) es decir, menos de 1m³.
 
- .. figure:: https://c7.staticflickr.com/6/5493/31276672902_31d253c99f_c.jpg
-	:width: 100%
+.. raw:: html
 
-	Rueda del Bristol Brabazon.
-
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276672902/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5493/31276672902_31d253c99f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 No voy a poner más cosas, porque podría estar escribiendo horas. En el
 álbum_ hay más fotos (iré poniendo comentarios, aún no he tenido

@@ -1,11 +1,11 @@
-.. title: St. Mary Redcliffe
-.. slug: st-mary-redcliffe
-.. date: 2016-04-17 15:45:38 UTC+02:00
-.. tags: tusismo, iglesia, catedral
-.. category: turismo
-.. link:
-.. description: Visita a la iglesia de St Mary, en Redcliffe
-.. type: text
+---
+title: St. Mary Redcliffe
+slug: st-mary-redcliffe
+date: 2016-04-17
+tags: tusismo, iglesia, catedral
+category: turismo
+description: Visita a la iglesia de St Mary, en Redcliffe
+---
 
 Acabo de llegar de misa. Y no, no es que me haya vuelto creyente ni
 practicante de repente. He ido a ver una de las muchas iglesias que
@@ -15,9 +15,9 @@ fuera, pues esperaba dentro.
 
 .. TEASER_END
 
-.. figure:: /galleries/stmary/patio.jpg
+.. raw:: html
 
-   Vista de la fachada desde el patio.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276182362/in/album-72157677325015346/" title="patio"><img src="https://c3.staticflickr.com/6/5705/31276182362_beca388b20_z.jpg" width="640" height="480" alt="patio"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 He entrado y me he sentado en la parte de atrás, y he observado cómo
 era la misa. Ha sido curioso porque la mayor parte del tiempo se la
@@ -31,29 +31,29 @@ en los asientos con sus túnicas y todo. Y el órgano se usa
 también -por lo visto es uno de los mejores de UK-. Muy medieval
 todo. En el púlpito no he visto a nadie, no sé si lo usarán.
 
-.. youtube:: 65Opo9hF0ko
+{{< youtube 65Opo9hF0ko >}}
 
 Una vez que ha terminado la ceremonia, he cogido una guía y me he dado
 una vuelta por la iglesia. Saben que es un lugar turístico, así que
 tienen una especie de centro de información y tienda de recuerdos en
 la parte más alejada del altar. La iglesia no os la cuento,
 porque... bueno, pues es más o menos como todas las de su estilo. Del
-siglo XIV, estilo gótico, etc, etc. Podéis ver la galería_. Sí que tenía
-algunas cosas curiosas, como por ejemplo un péndulo caótico, que es
-una cosa que normalmente encuentras en algún tipo de museo o
-exhibición científica, no en una iglesia.
+siglo XIV, estilo gótico, etc, etc. Podéis ver las fotos en
+Flickr_. Sí que tenía algunas cosas curiosas, como por ejemplo un
+`péndulo caótico`_, que es una cosa que normalmente encuentras en algún
+tipo de museo o exhibición científica, no en una iglesia.
 
 Este, además, era bastante curioso. Para quien no lo sepa... bueno, un
 péndulo_ sabemos todos lo que es, ¿no?. Una de las propiedades de un
 péndulo es que es un sistema determinista; es decir, sabiendo las
 condiciones iniciales, se puede predecir cuál será su estado
 (posición) en cualquier momento dado, aplicando una serie de
-ecuaciones. Por el contrario, un `péndulo caótico`_, no es determinista,
+ecuaciones. Por el contrario, un péndulo caótico, no es determinista,
 no se puede predecir cuál será su comportamiento. Un ejemplo de esto
 es el `péndulo doble`_, bastante sencillo e intuitivo. El que hay en
 la iglesia es un poco más complejo (ver vídeo).
 
-.. youtube:: jL0lZXQJvS0
+{{< youtube jL0lZXQJvS0 >}}
 
 El tubo que oscila tiene una abertura en el centro, por la que entra
 agua. El agua se desplaza por el interior del tubo y sale por los
@@ -74,9 +74,9 @@ decía que sólo quedaba una de las originales, las demás se rompieron
 durante las guerras y tuvieron que ser restauradas (es lo que tiene el
 cristal y las explosiones, no se llevan bien).
 
-.. figure:: /galleries/stmary/vidriera2.jpg
+.. raw:: html
 
-   Capilla oeste y vidriera.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31274550292/in/album-72157677325015346/" title="vidriera2"><img src="https://c5.staticflickr.com/6/5758/31274550292_27733282f2_z.jpg" width="640" height="480" alt="vidriera2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Otra cosa bastante curiosa que había allí era un hueso de la mandíbula
 de una ballena. Una bastante pequeña, la verdad, pero bueno. En la
@@ -88,13 +88,13 @@ viajando por el norte; pero se topó con América, claro. En el viaje de
 vuelta, el tipo se tajo de vuelta esta mandíbula de ballena. No sé qué
 pinta en la iglesia, no lo explican, pero ahí está.
 
-.. figure:: /galleries/stmary/maqueta-matthew.jpg
+.. raw:: html
 
-   Maqueta del Matthew
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31384905836/in/album-72157677325015346/" title="Sin título"><img src="https://c5.staticflickr.com/6/5509/31384905836_8f6e3d258a_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-.. figure:: /galleries/stmary/mandibula-ballena.jpg
+.. raw:: html
 
-   Hueso de la mandíbula de una ballena
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31306149191/in/album-72157677325015346/" title="Sin título"><img src="https://c8.staticflickr.com/6/5501/31306149191_12fb5e2f59_z.jpg" width="480" height="640" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Fuera, en el jardín, había una cosa que me llamó también mucho la
 atención: un trozo de vía del tranvía incrustado en el césped. Antes
@@ -104,12 +104,19 @@ mundial, una bomba hizo volar ese trozo de vía por encima de las casas
 colindantes y acabó empotrado así en el suelo. Y lo dejaron ahí de
 recuerdo.
 
-.. figure:: /galleries/stmary/tranvia.jpg
+.. raw:: html
 
-   Trozo de vía clavado en el suelo, y placa conmemorativa.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30599429004/in/album-72157677325015346/" title="tranvia"><img src="https://c5.staticflickr.com/6/5683/30599429004_12f65705df_z.jpg" width="640" height="480" alt="tranvia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 .. _matthew: https://en.wikipedia.org/wiki/Matthew_(ship)
 .. _péndulo: https://es.wikipedia.org/wiki/P%C3%A9ndulo
 .. _péndulo doble: https://es.wikipedia.org/wiki/Doble_p%C3%A9ndulo
 .. _péndulo caótico: https://es.wikipedia.org/wiki/P%C3%A9ndulo_ca%C3%B3tico
-.. _galería: /galleries/stmary/
+.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015346
+
+
+Podéis ver todas las fotos en Flickr:
+
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/albums/72157677325015346" title="St Mary Redcliff"><img src="https://c3.staticflickr.com/6/5705/31276182362_beca388b20_z.jpg" width="640" height="480" alt="St Mary Redcliff"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

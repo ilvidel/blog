@@ -1,15 +1,15 @@
-.. title: El Puente Colgante de Clifton
-.. slug: el-puente-colgante-de-clifton
-.. date: 2016-05-01 10:37:52 UTC+02:00
-.. tags: puente, cámara oscura, cueva
-.. category: turismo
-.. link:
-.. description: Excursión al Puente Colgante de Clifton
-.. type: text
+---
+title: El Puente Colgante de Clifton
+slug: puente
+date: 2016-05-01
+tags: puente, cámara oscura, cueva
+category: turismo
+description: Excursión al Puente Colgante de Clifton
+---
 
-.. image:: /galleries/clifton-bridge/03_puente.jpg
-   :align: center
-   :width: 50%
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31052027870/in/album-72157677325015386/" title="p3250071"><img src="https://c7.staticflickr.com/6/5645/31052027870_30588722d7_z.jpg" width="640" height="480" alt="p3250071"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Hoy he hecho una pequeña excursión: me he cogido un autobús y he ido a
 visitar el `puente colgante de Clifton`_. Fue inaugurado en 1864 para
@@ -73,9 +73,9 @@ por entonces.
 
 .. _Brunel: https://es.wikipedia.org/wiki/Isambard_Kingdom_Brunel
 
-.. figure:: /galleries/clifton-bridge/04_puente.jpg
+.. raw:: html
 
-   Vista del puente, con un globo aerostático que pasaba por allí.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051827610/in/album-72157677325015386/" title="p3250099"><img src="https://c3.staticflickr.com/6/5515/31051827610_bcca9bf4cf_z.jpg" width="640" height="480" alt="p3250099"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 La Cámara Obscura
@@ -91,9 +91,10 @@ en 1829. Los artistas usaban la cámara obscura de forma habitual, para
 pintar de forma más realista. Vamos, lo que viene siendo calcar.
 
 .. _cámara obscura: https://es.wikipedia.org/wiki/C%C3%A1mara_oscura
-.. figure:: /galleries/clifton-bridge/10_torre.jpg
 
-   Torre del observatorio.
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30599858784/in/album-72157677325015386/" title="p3250076"><img src="https://c1.staticflickr.com/6/5589/30599858784_43b0b00659_z.jpg" width="640" height="480" alt="p3250076"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 La luz entra por la lente y el espejo la redirige y la proyecta sobre
 una superficie plana y blanca. Cuando abres la puerta de la habitación
@@ -103,9 +104,9 @@ cámaras de fotos. El aparato tiene una manivela que puedes ir girando
 para apuntar a uno u otro lado, de forma que puedes ver todo el
 entorno.
 
-.. figure:: /galleries/clifton-bridge/13_vistas.jpg
+.. raw:: html
 
-   Vista desde lo alto de la torre.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051881450/in/album-72157677325015386/" title="p3250092"><img src="https://c3.staticflickr.com/6/5545/31051881450_688b6c2b6e_z.jpg" width="640" height="480" alt="p3250092"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 La `Torre Tavira`_ en Cádiz, alberga una cámara obscura también, por
 si queréis visitarla. Hice un vídeo dentro de la cámara para
@@ -116,6 +117,7 @@ Clifton`_ hay más información.
 
 .. _observatorio de Clifton: http://www.cliftonobservatory.com/
 .. _Torre Tavira: https://es.wikipedia.org/wiki/Torre_Tavira
+
 .. figure:: http://www.cliftonobservatory.com/wp-content/uploads/2015/05/count_christoph-Instagram.jpg
 
    Imagen proyectada sobre la mesa de la cámara obscura.
@@ -131,6 +133,8 @@ han encontrado restos de cerámicas de la época, y en el siglo XVII
 (17, para los de la ESO / LOGSE) sirvió de refugio a un ermitaño (¿quizá
 el `pobre Miguel`_?)
 
+.. _pobre Miguel: https://youtu.be/p8OJX_IaE44?t=1m5s
+
 La cueva en realidad tampoco es gran cosa, al menos la parte que se
 puede visitar, creo recordar que había un camino cerrado. Desde el
 edificio del observatorio bajas por una serie de escaleras, bastante
@@ -143,9 +147,12 @@ escaleras y rezando para que no baje nadie mientras tú subes. Cuando
 por fin sales tienes agujetas en las piernas. Es parte de la
 visita. Os dejo un vídeo de la bajada.
 
-.. _pobre Miguel: https://youtu.be/p8OJX_IaE44?t=1m5s
-.. youtube:: QKTGzJcGeB4
+{{< youtube QKTGzJcGeB4 >}}
 
-Podéis ver más fotos en la galería_.
+Podéis ver más fotos en Flickr_:
 
-.. _galería: /galleries/clifton-bridge/
+.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015386
+
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/albums/72157677325015386" title="Suspension Bridge"><img src="https://c2.staticflickr.com/6/5631/30614043433_200d4f7886_z.jpg" width="640" height="480" alt="Suspension Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

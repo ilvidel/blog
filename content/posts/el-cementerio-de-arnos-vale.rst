@@ -1,15 +1,16 @@
-.. title: El Cementerio de Arnos Vale
-.. slug: el-cementerio-de-arnos-vale
-.. date: 2016-05-29 20:12:06 UTC+01:00
-.. tags: cementerio, arnos vale, bristol
-.. category: turismo
-.. link:
-.. description: Un paseo interesante por el cementerio de Arnos Vale.
-.. type: text
+---
+title: El Cementerio de Arnos Vale
+slug: el-cementerio-de-arnos-vale
+date: 2016-05-29
+tags: cementerio, arnos vale, bristol
+category: turismo
+description: Un paseo interesante por el cementerio de Arnos Vale.
+---
 
-.. image:: /galleries/arnos-vale-cemetery/ArnosVale_07.jpg
-   :align: center
-   :width: 50%
+.. raw:: html
+
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31046574680/in/album-72157673477840983/" title="P5070095"><img src="https://c1.staticflickr.com/6/5737/31046574680_9482a9f548_z.jpg" width="480" height="640" alt="P5070095"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 Un par de días antes de ir a España, estaba harto de estar encerrado
 en casa. Era un domingo por la tarde, de esos que no te apetece hacer
@@ -32,9 +33,9 @@ de la ESO ya deberían haber aprendido esto) y debió de estar en activo
 hasta poco después de la Segunda Guerra Mundial, porque creo que son
 las tumbas más recientes que hay.
 
-.. figure:: /galleries/arnos-vale-cemetery/ArnosVale_20.jpg
+.. raw:: html
 
-   Este se ha tomado en serio lo de criar malvas.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30594402974/in/album-72157673477840983/" title="P5070109"><img src="https://c7.staticflickr.com/6/5512/30594402974_2209248b83_z.jpg" width="640" height="480" alt="P5070109"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 El problema es que no ha tenido un mantenimiento en
 condiciones. Tampoco estaba organizado como los cementerios que
@@ -43,9 +44,9 @@ monte, tiraban una piedra y donde caía, ahí iba la tumba. La parte
 buena (al menos, para mí) es que esa dejadez ha hecho que la
 naturaleza se adueñe de las tumbas, y crezca por todas partes.
 
-.. figure:: /galleries/arnos-vale-cemetery/ArnosVale_28.jpg
+.. raw:: html
 
-   Ni la tumba del arquitecto del cementerio se libra.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31415646435/in/album-72157673477840983/" title="P5070123"><img src="https://c4.staticflickr.com/6/5521/31415646435_4da86a0a2b_z.jpg" width="640" height="480" alt="P5070123"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Muchas lápidas están rotas o destartaladas, llenas de enredaderas,
 raíces, etc, lo que seguro que por la noche le da un aspecto muy
@@ -54,7 +55,8 @@ interesante, mwhaahahahaaa…
 Tampoco hay mucho más que describir, la verdad. Lo mejor es ir a verlo
 en persona, pasear por los caminos entre las tumbas y los árboles, y
 disfrutarlo en persona. Os dejo un vídeo, y como siempre, algunas
-fotos en la galería_.
+fotos en Flickr_.
 
-.. _galería: /galleries/arnos-vale-cemetery/
-.. youtube:: Mkn8ieBKET4
+.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157673477840983"
+
+{{< youtube Mkn8ieBKET4 >}}

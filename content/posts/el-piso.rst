@@ -1,11 +1,11 @@
-.. title: El Piso
-.. slug: el-piso
-.. date: 2016-04-19 0:30:40 UTC+02:00
-.. tags: bristol, piso
-.. category: personal
-.. link:
-.. description: Mi primer piso en Bristol
-.. type: text
+---
+title: El Piso
+slug: el-piso
+date: 2016-04-19
+tags: bristol, piso
+category: personal
+description: Mi primer piso en Bristol
+---
 
 El piso que he cogido quizá no haya sido de los mejores que podía
 elegir -aunque había algo de prisa, la verdad-. Por un lado está bien;
@@ -45,7 +45,7 @@ bien caliente. Así que te toca abrir la ventana y que se escape el
 calor (porque en esta casa respetamos las leyes de la termodinámica y
 sabemos que el frío no entra, es el calor el que se va).
 
-.. youtube:: Rpc2i6tMX2k
+{{< youtube Rpc2i6tMX2k >}}
 
 Otra cosa: los enchufes e interruptores. No sé quién lo planifica,
 pero ese día faltó a clase seguro. En la cocina no hay ni un enchufe
@@ -69,4 +69,4 @@ aproximadamente, así que menos aire que calentar. También es bastante
 luminoso, y además, como da a dos lados, da el sol tanto por la mañana
 como por la tarde (bueno, eso cuando hay sol, claro).
 
-.. youtube:: vj6Bd0RZswM
+{{< youtube vj6Bd0RZswM >}}

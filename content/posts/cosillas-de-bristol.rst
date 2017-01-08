@@ -1,11 +1,11 @@
-.. title: Cosillas de Bristol
-.. slug: cosillas-de-bristol
-.. date: 2016-04-13 0:28:21 UTC+02:00
-.. tags: bristol, chimeneas, gaviotas, comida
-.. category: personal
-.. link:
-.. description: Pensamientos aleatorios sobre cosas en Bristol
-.. type: text
+---
+title: Cosillas de Bristol
+slug: cosillas-de-bristol
+date: 2016-04-13
+tags: bristol, chimeneas, gaviotas, comida
+category: personal
+description: Pensamientos aleatorios sobre cosas en Bristol
+---
 
 Hoy no voy a hablar de nada concreto, simplemente algunos comentarios
 sobre varias cosas sueltas que he ido viendo.
@@ -125,12 +125,10 @@ eso, para abrir las pestañas de las otras dos clavijas.
 
 .. _como ya conté: /posts/el-piso
 
-.. image:: http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2007/07/24/plug_sillitoe_2.jpg
-
+.. figure:: http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2007/07/24/plug_sillitoe_2.jpg
+   :width: 100%
 
 Bueno, perdonad el post tan desorganizado y desestructurado, pero eran
 muchas cosas sueltas, demasiado pequeñas para un post por sí mismas. Y
 demasiado dispares para juntar unas pocas en un post. Así que las he
 juntado todas y ha salido este pastiche.
-
-.. youtube:: ag_1DuH3PU0

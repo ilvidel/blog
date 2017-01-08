@@ -1,11 +1,11 @@
-.. title: La Comida
-.. slug: la-comida
-.. date: 2016-04-24 14:00:11 UTC+02:00
-.. tags: comida
-.. category: varios
-.. link:
-.. description:
-.. type: text
+---
+title: La Comida
+slug: la-comida
+date: 2016-04-24
+tags: comida
+category: varios
+description:
+---
 
 La comida aquí es algo bastante curioso. Primero, el horario. Creo que
 esto ya lo conté en otra entrada, pero bueno, me repito un poco y así
@@ -67,6 +67,8 @@ puesto distinto. De momento tengo dos favoritos: uno que preparan
 hamburguesas rústicas de venado en pan *brioche*, y otro que hacen
 *wraps* vegetarianos de falafel.
 
-.. thumbnail:: /images/market1.jpg
+.. figure:: /images/market1.jpg
+   :width: 80%
 
-.. thumbnail:: /images/market2.jpg
+.. figure:: /images/market2.jpg
+   :width: 80%

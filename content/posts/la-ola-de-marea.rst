@@ -1,11 +1,11 @@
-.. title: La Ola de Marea
-.. slug: la-ola-de-marea
-.. date: 2016-04-26 0:33:40 UTC+02:00
-.. tags: ola marea bristol rio
-.. category: turismo
-.. link:
-.. description:
-.. type: text
+---
+title: La Ola de Marea
+slug: la-ola-de-marea
+date: 2016-04-26
+tags: ola marea bristol rio
+category: turismo
+description:
+---
 
 Hoy he ido a trabajar por el camino que bordea el río. No sé si anoche
 llovió río arriba o qué ha pasado, pero el río venia llenico,
@@ -16,7 +16,8 @@ río). Veréis cómo va la cosa:
 
 .. TEASER_END
 
-.. image:: /images/bristol-channel.png
+.. figure:: /images/bristol-channel.png
+   :width: 100%
 
 Si miráis el mapa de Inglaterra, veréis un gran canal en el
 suroeste. Ese es el río Severn. Cuando sube la marea, la corriente va
@@ -25,7 +26,8 @@ se forma una ola. Al ir estrechándose, el agua no se puede comprimir,
 así que va hacia donde tiene sitio: para arriba. De esa forma, poco a
 poco se va formando una ola. Es una única ola, que remonta el río.
 
-.. image:: http://i.dailymail.co.uk/i/pix/2014/03/03/article-0-1BFEF0A400000578-800_964x994.jpg
+.. figure:: http://i.dailymail.co.uk/i/pix/2014/03/03/article-0-1BFEF0A400000578-800_964x994.jpg
+   :width: 100%
 
 Como las mareas no son todas iguales, la ola es unas veces más alta y
 otras más baja. Hay algunas páginas web en las que se puede ver la
@@ -34,5 +36,5 @@ alcanzarán (les ponen de 1 a 5 estrellas). Por lo visto, las grandes
 suenan bastante a medida que avanzan, y llegan incluso a desbordar
 cuando golpean la rivera en los meandros.
 
-.. youtube:: eVKuLwvGFk4
-.. youtube:: IKA39LQOIck
+{{< youtube eVKuLwvGFk4 >}}
+{{< youtube IKA39LQOIck >}}

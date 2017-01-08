@@ -1,11 +1,11 @@
-.. title: Vamos al Cine
-.. slug: vamos-al-cine
-.. date: 2016-05-21 10:00:00 UTC+01:00
-.. tags: cine bristol
-.. category: ocio
-.. link:
-.. description: La experiencia de ir al cine por primera vez en Bristol.
-.. type: text
+---
+title: Vamos al Cine
+slug: vamos-al-cine
+date: 2016-05-21
+tags: cine bristol
+category: ocio
+description: La experiencia de ir al cine por primera vez en Bristol.
+---
 
 Hoy he ido al cine por primera vez en Bristol. A ver una película en
 versión original, claro -y sin subtítulos-. La peli era Deadpool, y
@@ -64,7 +64,8 @@ pensando unos instantes, valorando si no molestarlos y sentarme en
 otro lado, ya que hay tanto sitio libre. Total, la peli debe de estar
 a punto de comenzar…
 
-.. thumbnail:: /images/odeon_screen.jpg
+.. figure:: /images/odeon_screen.jpg
+   :width: 100%
 
 Ambos se debieron percatar de que mi sitio estaba por ahí, y la mujer
 recogió los abrigos, mientras el hombre se levantaba y me preguntaba

@@ -1,16 +1,15 @@
-.. title: Stonehenge
-.. slug: stonehenge
-.. date: 2016-06-07 21:28:09 UTC+01:00
-.. tags: stonehenge, piedras
-.. category: turismo
-.. link:
-.. description: Excursión a Stonehenge, uno de esos sitios que hay que visitar.
-.. type: text
+---
+title: Stonehenge
+slug: stonehenge
+date: 2016-06-07
+tags: stonehenge, piedras
+category: turismo
+description: Excursión a Stonehenge, uno de esos sitios que hay que visitar.
+---
 
+.. raw:: html
 
-.. image:: /galleries/stonehenge/Stonehenge_13.jpg
-   :width: 50%
-   :align: center
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31050069100/in/album-72157677325015326/" title="P5280169"><img src="https://c5.staticflickr.com/6/5647/31050069100_f6739fb212_z.jpg" width="640" height="361" alt="P5280169"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Como ya sabéis algunos de vosotros, hace unos días fui a visitar
 Stonehenge. Está a unos 70 Km de Bristol, así que tenía dos opciones:
@@ -54,9 +53,9 @@ pastel. Que, por cierto, como tenía hambre y no había echado nada para
 comer, compré algo: un sándwich, una bebida y un postre, 9
 libras. Tela. Ya pueden estar bien los chinatos esos.
 
-.. figure:: /galleries/stonehenge/Stonehenge_01.jpg
+.. raw:: html
 
-   Chalé adosado de la época.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051513260/in/album-72157677325015326/" title="Sin título"><img src="https://c5.staticflickr.com/6/5331/31051513260_89129cb1f5_z.jpg" width="640" height="400" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Junto al centro de visitantes hay una reproducción de un pequeño
 poblado de la época. Puedes meterte en las casas a ver cómo eran por
@@ -78,16 +77,18 @@ reventado. Todos se calmaron, algunos turistas pusieron cara de
 decepción, y una tipa del complejo me dio las gracias. Ya me podía
 haber dado una entrada gratis, leche.
 
+.. _dinamómetro: https://es.wikipedia.org/wiki/Dinamómetro
+.. _menhir: https://es.wikipedia.org/wiki/Menhir
+
 Bueno, pues me puse a hacer 20 minutazos de cola para comprar la
 entrada, me gasté las 16 libras (bueno, 11, porque te descuentan las
 £5 que pagas por usar el parking), cogí los mapas y esas cosas que te
 dan, y me dispuse a ir andando hacia los peñascos. Total, no tenía
 prisa y hacía buen tiempo.
 
-.. figure:: /galleries/stonehenge/Stonehenge_20.jpg
+.. raw:: html
 
-   Un miembro de la Guardia de la Noche, vigilando que nadie se ponga
-   tonto.
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31304755271/in/album-72157677325015326/" title="Sin título"><img src="https://c8.staticflickr.com/6/5473/31304755271_93298ddb9f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Me puse a andar por el campo, y llegué a un cartelito que te contaba
 que allí había algo. Una cosa que llaman el «Long Cursus», una zanja
@@ -100,9 +101,9 @@ patatas. Todo el parque está lleno de cosas así, cartelitos que dicen
 no lo puedes ver sin helicóptero. Pero buenos dineros nos has pagao
 por la entrada». Decepcionante.
 
-.. figure:: /galleries/stonehenge/Stonehenge_05.jpg
+.. raw:: html
 
-   Cartel «informativo»
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276147722/in/album-72157677325015326/" title="Sin título"><img src="https://c3.staticflickr.com/6/5793/31276147722_9b7473e419_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Bueno, en realidad para «ver» esas cosas no hace falta la
 entrada. Sólo es para acercarte a las piedras. Si no tienes entrada,
@@ -115,7 +116,10 @@ pueblo de al lado, Salisbury, tienen una s̶̶e̶c̶t̶a̶ grupo de druidas y
 todo. Chalaos. Os dejo un vídeo que he encontrado de un amanecer en el
 solsticio (avanzad hasta el minuto 4:15).
 
+{{< youtube rgKJpDDnECI >}}
+
 .. figure:: http://www1.pictures.zimbio.com/gi/Druids+Celebrate+Winter+Solstice+Stonehenge+_U01Wts24JLl.jpg
+   :width: 100%
 
    El druida *Peinadomodernix* diciendo que, para ser verano, todavía
    hace fresco.
@@ -124,21 +128,15 @@ solsticio (avanzad hasta el minuto 4:15).
    :width: 100%
 
    Un juicio por herejía. Al parecer, el pecador fue a cagar entre
-   unos arbustos y se fue sin darle las gracias al matojo, por las
+   unos arbustos y se fue sin darle las gracias al matojo por las
    hojas para limpiarse.
 
-.. youtube:: rgKJpDDnECI?t=4m15s
 
 Una vez llegas allí y enseñas la entrada para que te dejen acercarte,
 puedes entretenerte un rato leyendo los cartelitos, y dando vueltas
 alrededor de los peñascos. Pa echar el rato, está bien; siempre y
 cuando haga buen día. Te llevas una manta y unas tortillas de atún, y
 te apañas una merienda-cena.
-
-.. figure:: /galleries/stonehenge/Stonehenge_19.jpg
-
-   Vista alineada con la Piedra de Estación sureste, que marca el
-   inicio del invierno.
 
 Otra de las cosas que hay por el lugar es *Woodhenge* que, como su
 nombre indica, viene a ser lo mismo pero con madera. Se supone que
@@ -149,8 +147,7 @@ reproducciones), sólo hay unos tochos de cemento para marcar dónde
 estaban los palos.
 
 .. figure:: /images/woodhenge-expectativa.jpg
-
-
+   :width: 100%
 
 Un poco de astronomía
 ---------------------
@@ -164,6 +161,7 @@ rato pensándolo y no lo veía. Así que he estado haciendo un poco de
 investigación astronómica.
 
 .. figure:: /images/stonehenge-plano.jpg
+   :width: 100%
 
    En azul, el lugar que ocupa ahora el camino (como véis, el túmulo
    norte se lo han cargado). Se supone que hay una avenida que sale
@@ -178,6 +176,7 @@ mires. Concretamente en Stonehenge, en el solsticio de verano, el sol
 sale a unos 50°. Claro, ahora entiendo el temario:
 
 .. figure:: /images/stonehenge-solsticios.jpg
+   :width: 100%
 
    Las piedras en negro son las que aún están en pie. El resto están
    caídas o, en su mayoría, desaparecidas en combate.
@@ -189,9 +188,7 @@ vía procesional, que daba entrada, junto con el altar y el círculo
 interior (herradura, más bien) se alineaban con el amanecer en el
 solsticio de verano.
 
-Muchas más fotos apasionantes de piedras, como siempre, en la galería_.
+Muchas más fotos apasionantes de piedras, como siempre, en Flickr_.
 
-.. _galería: /galleries/stonehenge/
+.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015326
 .. _azimut: https://es.wikipedia.org/wiki/Acimut
-.. _dinamómetro: https://es.wikipedia.org/wiki/Dinamómetro
-.. _menhir: https://es.wikipedia.org/wiki/Menhir

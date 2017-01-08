@@ -1,11 +1,11 @@
-.. title: Emigrante
-.. slug: emigrante
-.. date: 2016-04-10 20:02:27 UTC+02:00
-.. tags:
-.. category: personal
-.. link:
-.. description: Post inicial del blog
-.. type: text
+---
+title: Emigrante
+slug: emigrante
+date: 2016-04-10
+tags:
+category: personal
+description: Post inicial del blog
+---
 
 Soy un emigrante. O un inmigrante, según se mire. Las dos cosas, más
 bien. Me he venido a Bristol a trabajar. Voy a comenzar este *blog*
@@ -14,7 +14,8 @@ estancia en el Reino Unido. Me gustaría que sirviera para que mi gente
 sepa cómo me va y lo que veo y hago por aquí, aunque espero que eso no
 les impida escribirme y/o llamarme de vez en cuando.
 
-.. thumbnail:: /images/embarque.jpg
+.. figure:: /images/embarque.jpg
+   :width: 80%
 
 No sé cuánto aguantaré escribiendo esto, estas cosas me suelen
 aburrir, pero intentaré actualizarlo regularmente. Llevo ya dos meses
