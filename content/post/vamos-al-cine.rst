@@ -1,5 +1,4 @@
 ---
-
 title: Vamos al Cine
 slug: vamos-al-cine
 date: 2016-05-21

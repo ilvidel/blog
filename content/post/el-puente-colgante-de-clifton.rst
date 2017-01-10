@@ -30,9 +30,7 @@ Destripador*, vayamos por partes.
 
 
 El Observatorio y el Puente
----
-
-------------------------
+---------------------------
 
 Cogí un autobús y como buen turista pardillo, me subí a la planta de
 arriba, a sentarme en el ventanal, en primera fila (sí, aquí también
@@ -83,9 +81,7 @@ por entonces.
 
 
 La Cámara Obscura
----
-
---------------
+-----------------
 
 La construcción que os comentaba es un edificio de piedra que alberga
 el centro de visitantes, con su oficina de información, un bar y una
@@ -129,9 +125,7 @@ Clifton`_ hay más información.
    Imagen proyectada sobre la mesa de la cámara obscura.
 
 La Cueva de los Gigantes
----
-
----------------------
+------------------------
 
 Dentro del observatorio también se encuentra la entrada a «La Cueva
 de los Gigantes». Según el folclore popular, en Bristol vivieron hace

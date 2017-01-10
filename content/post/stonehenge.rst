@@ -1,5 +1,4 @@
 ---
-
 title: Stonehenge
 slug: stonehenge
 date: 2016-06-07
@@ -152,9 +151,7 @@ estaban los palos.
    :width: 100%
 
 Un poco de astronomía
----
-
-------------------
+---------------------
 
 Voy a intentar describiros lo que queda del monumento, y cómo está
 alineado con el sol. Si miras el plano de Stonehenge, lo primero que
