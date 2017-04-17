@@ -12,12 +12,14 @@ description: Un vistazo a la celebración de la noche de Guy Fawkes
    :width: 75%
    :align: center
 
-| Remember, remember
-| the fifth of November,
-| Gunpowder, treason and plot.
-| We see no reason
-| Why gunpowder treason
-| Should ever be forgot!
+::
+
+  Remember, remember
+  the fifth of November,
+  Gunpowder, treason and plot.
+  We see no reason
+  Why gunpowder treason
+  Should ever be forgot!
 
 .. TEASER_END
 
