@@ -1,4 +1,4 @@
-baseurl = "https://ilvidel.quijost.com"
+baseurl = "https://ilvidel.quijost.com/"
 title = "Nacheras en Bristol"
 languageCode = "es-ES"
 paginate = "10" # Number of posts per page
