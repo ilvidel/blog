@@ -1,6 +1,6 @@
 baseurl = "https://ilvidel.quijost.com/"
-title = "Nacheras en Bristol"
-languageCode = "es-ES"
+languageCode = "es"
+title = "Viviendo en Bristol"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -9,13 +9,13 @@ googleAnalytics = "UA-56289011-2" # Enable Google Analytics by entering your tra
 [Author]
     name = "Ignacio Díez"
     bio = "Un tonto viviendo en Bristol. Y encima, lo cuenta."
-    avatar = "images/logo.jpg"
+    avatar = "img/avatar.png"
 
 [Params]
     subtitle = "Turismo y Tonterías" # Subtitle of your site
     description = "Curiosidades y otras memeces sobre mi vida en Bristol" # Description of your site
     opengraph = true
-    leftsidebar = true # Move sidebar to the left side if true
+    leftsidebar = false # Move sidebar to the left side if true
     authorbox = true
     post_navigation = true
 
