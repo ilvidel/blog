@@ -7,6 +7,7 @@ tags: ["emigrante"]
 categories:
   - personal
 description: Post inicial del blog
+thumbnail: /img/embarque.jpg
 ---
 
 Soy un emigrante. O un inmigrante, según se mire. Las dos cosas, más
@@ -15,9 +16,6 @@ para ir contando aquí las cosas que me parezcan curiosas de mi
 estancia en el Reino Unido. Me gustaría que sirviera para que mi gente
 sepa cómo me va y lo que veo y hago por aquí, aunque espero que eso no
 les impida escribirme y/o llamarme de vez en cuando.
-
-.. figure:: /images/embarque.jpg
-   :width: 80%
 
 No sé cuánto aguantaré escribiendo esto, estas cosas me suelen
 aburrir, pero intentaré actualizarlo regularmente. Llevo ya dos meses

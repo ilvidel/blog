@@ -7,6 +7,7 @@ tags: ["turismo", "iglesia", "catedral"]
 categories:
   - turismo
 description: Visita a la iglesia de St Mary, en Redcliffe
+thumbnail: "https://c3.staticflickr.com/6/5705/31276182362_beca388b20_z.jpg"
 ---
 
 Acabo de llegar de misa. Y no, no es que me haya vuelto creyente ni
@@ -16,10 +17,6 @@ rato fuera, pero tardaban mucho, así que he pensado que para esperar
 fuera, pues esperaba dentro.
 
 .. TEASER_END
-
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276182362/in/album-72157677325015346/" title="patio"><img src="https://c3.staticflickr.com/6/5705/31276182362_beca388b20_z.jpg" width="640" height="480" alt="patio"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 He entrado y me he sentado en la parte de atrás, y he observado cómo
 era la misa. Ha sido curioso porque la mayor parte del tiempo se la

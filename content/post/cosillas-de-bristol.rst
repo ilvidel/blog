@@ -7,6 +7,7 @@ tags: ["bristol", "chimeneas", "gaviotas", "comida"]
 categories:
   - personal
 description: Pensamientos aleatorios sobre cosas en Bristol
+thumbnail: "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2007/07/24/plug_sillitoe_2.jpg"
 ---
 
 Hoy no voy a hablar de nada concreto, simplemente algunos comentarios
@@ -126,9 +127,6 @@ vertical. Es un poco más larga que las otras dos, precisamente para
 eso, para abrir las pestañas de las otras dos clavijas.
 
 .. _como ya conté: /posts/el-piso
-
-.. figure:: http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2007/07/24/plug_sillitoe_2.jpg
-   :width: 100%
 
 Bueno, perdonad el post tan desorganizado y desestructurado, pero eran
 muchas cosas sueltas, demasiado pequeñas para un post por sí mismas. Y

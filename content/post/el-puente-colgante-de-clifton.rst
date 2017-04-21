@@ -7,11 +7,8 @@ tags: ["puente", "cámara oscura", "cueva"]
 categories:
   - turismo
 description: Excursión al Puente Colgante de Clifton
+thumbnail: "https://c7.staticflickr.com/6/5645/31052027870_30588722d7_z.jpg"
 ---
-
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31052027870/in/album-72157677325015386/" title="p3250071"><img src="https://c7.staticflickr.com/6/5645/31052027870_30588722d7_z.jpg" width="640" height="480" alt="p3250071"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Hoy he hecho una pequeña excursión: me he cogido un autobús y he ido a
 visitar el `puente colgante de Clifton`_. Fue inaugurado en 1864 para

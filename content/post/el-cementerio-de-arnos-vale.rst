@@ -1,5 +1,4 @@
 ---
-
 title: El Cementerio de Arnos Vale
 slug: el-cementerio-de-arnos-vale
 date: 2016-05-29
@@ -7,12 +6,8 @@ tags: ["cementerio", "arnos vale", "bristol"]
 categories:
   - turismo
 description: Un paseo interesante por el cementerio de Arnos Vale.
+thumbnail: "https://c1.staticflickr.com/6/5737/31046574680_9482a9f548_z.jpg"
 ---
-
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31046574680/in/album-72157673477840983/" title="P5070095"><img src="https://c1.staticflickr.com/6/5737/31046574680_9482a9f548_z.jpg" width="480" height="640" alt="P5070095"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 Un par de días antes de ir a España, estaba harto de estar encerrado
 en casa. Era un domingo por la tarde, de esos que no te apetece hacer

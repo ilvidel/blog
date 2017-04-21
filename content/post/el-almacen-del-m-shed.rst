@@ -7,10 +7,8 @@ tags: ["almacén", "museo", "trastos"]
 categories:
   - turismo
 description: Visita "entre bastidores" al M-Shed
+thumbnail: "https://media-cdn.tripadvisor.com/media/photo-s/06/a6/b7/e8/m-shed.jpg"
 ---
-
-.. image:: https://media-cdn.tripadvisor.com/media/photo-s/06/a6/b7/e8/m-shed.jpg
-   :width: 60%
 
 *M-Shed* es el nombre de un museo/galería que hay en el puerto de
 Bristol. El museo está ubicado en varias de las antiguas naves de

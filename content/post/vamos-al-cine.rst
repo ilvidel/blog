@@ -6,6 +6,7 @@ tags: [ "cine", "bristol" ]
 categories:
   - ocio
 description: La experiencia de ir al cine por primera vez en Bristol.
+thumbnail: /img/odeon_screen.jpg
 ---
 
 Hoy he ido al cine por primera vez en Bristol. A ver una película en
@@ -65,7 +66,7 @@ pensando unos instantes, valorando si no molestarlos y sentarme en
 otro lado, ya que hay tanto sitio libre. Total, la peli debe de estar
 a punto de comenzar…
 
-.. figure:: /images/odeon_screen.jpg
+.. figure:: /img/odeon_screen.jpg
    :width: 100%
 
 Ambos se debieron percatar de que mi sitio estaba por ahí, y la mujer

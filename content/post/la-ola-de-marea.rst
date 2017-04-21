@@ -1,5 +1,4 @@
 ---
-
 title: La Ola de Marea
 slug: la-ola-de-marea
 date: 2016-04-26
@@ -7,6 +6,7 @@ tags: ["ola", "marea", "bristol", "rio"]
 categories:
   - turismo
 description:
+thumbnail: http://jamiecooperphotography.co.uk/wp-content/uploads/galleries/post-1047/full/01%20bore.jpg
 ---
 
 Hoy he ido a trabajar por el camino que bordea el río. No sé si anoche
@@ -18,7 +18,7 @@ río). Veréis cómo va la cosa:
 
 .. TEASER_END
 
-.. figure:: /images/bristol-channel.png
+.. figure:: /img/bristol-channel.png
    :width: 100%
 
 Si miráis el mapa de Inglaterra, veréis un gran canal en el

@@ -6,11 +6,8 @@ tags: ["guy fawkes", "fuegos artificiales", "fiesta"]
 categories:
   - turismo
 description: Un vistazo a la celebración de la noche de Guy Fawkes
+thumbnail: /img/guy-fawkes-mask.png
 ---
-
-.. figure:: /images/guy-fawkes-mask.png
-   :width: 75%
-   :align: center
 
 ::
 

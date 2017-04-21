@@ -6,11 +6,8 @@ tags: ["stonehenge", "piedras"]
 categories:
   - turismo
 description: Excursión a Stonehenge, uno de esos sitios que hay que visitar.
+thumbnail: "https://c5.staticflickr.com/6/5647/31050069100_f6739fb212_z.jpg"
 ---
-
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31050069100/in/album-72157677325015326/" title="P5280169"><img src="https://c5.staticflickr.com/6/5647/31050069100_f6739fb212_z.jpg" width="640" height="361" alt="P5280169"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Como ya sabéis algunos de vosotros, hace unos días fui a visitar
 Stonehenge. Está a unos 70 Km de Bristol, así que tenía dos opciones:
@@ -147,7 +144,7 @@ absoluto, para variar. Ahora ni siquiera están los palos (o unas
 reproducciones), sólo hay unos tochos de cemento para marcar dónde
 estaban los palos.
 
-.. figure:: /images/woodhenge-expectativa.jpg
+.. figure:: /img/woodhenge-expectativa.jpg
    :width: 100%
 
 Un poco de astronomía
@@ -161,7 +158,7 @@ entrada, ni las rocas de las estaciones, ni el altar, nada. Estuve allí un
 rato pensándolo y no lo veía. Así que he estado haciendo un poco de
 investigación astronómica.
 
-.. figure:: /images/stonehenge-plano.jpg
+.. figure:: /img/stonehenge-plano.jpg
    :width: 100%
 
    En azul, el lugar que ocupa ahora el camino (como véis, el túmulo
@@ -176,7 +173,7 @@ del año, y también varía según la latitud del sitio en el que lo
 mires. Concretamente en Stonehenge, en el solsticio de verano, el sol
 sale a unos 50°. Claro, ahora entiendo el temario:
 
-.. figure:: /images/stonehenge-solsticios.jpg
+.. figure:: /img/stonehenge-solsticios.jpg
    :width: 100%
 
    Las piedras en negro son las que aún están en pie. El resto están

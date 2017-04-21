@@ -7,11 +7,8 @@ tags: ["barcos", "puerto", "matthew", "ss great britain"]
 categories:
   - turismo
 description: Un paseo por el puerto de Bristol y algunos de sus barcos.
+thumbnail: "https://c4.staticflickr.com/1/591/32051319211_380cbca0e9_z.jpg"
 ---
-
-.. raw:: html
-
-   <a data-flickr-embed="true" href="https://www.flickr.com/photos/149690786@N07/32051319211/in/dateposted-public/" title="gruas"><img src="https://c4.staticflickr.com/1/591/32051319211_380cbca0e9_z.jpg" width="640" height="360" alt="gruas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Hoy os traigo un publirreportaje sobre maquinaria gigante, barcos y
 avances técnicos en el siglo XVIII. Si es que yo tenía que haber

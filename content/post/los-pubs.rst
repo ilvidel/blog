@@ -1,11 +1,11 @@
 ---
-
 title: Los Pubs
 slug: los-pubs
 date: 2016-05-03
 tags: ["bristol", "pubs", "pintas"]
 category:
   - ocio
+thumbnail: /img/llandoger.jpg
 ---
 
 Nada más aterrizar, mi *hamijo* Cleto me recogió en el aeropuerto y me
@@ -28,11 +28,6 @@ australiano. Javi (uno de los españoles del día anterior) y yo
 estuvimos un buen rato hablando con el australiano. Un tipo bastante
 interesante y que, la verdad sea dicha, hablaba por los codos. Así es
 más fácil tener una conversación, jajaja.
-
-.. figure:: /images/llandoger.jpg
-   :width: 100%
-
-   El *Llandoger Trow*, en King street
 
 Otro pub que hay por aquí y que es bastante famoso, es el `Llandoger
 Trow`_. Es famoso no por su cerveza, si no por su historia, ya que ha
@@ -67,7 +62,7 @@ pensando ya tiempo, pero siempre me da mucha pereza salir de casa sin
 desayunar ni ná. Y temprano, claro, porque a las 10 o las 11 aquí no son
 horas de desayunar. Me tocará ir un día de diario).
 
-.. figure:: /images/yurt-lush.jpg
+.. figure:: /img/yurt-lush.jpg
    :width: 100%
 
    El *Yurt Lush*, que parece una cabaña

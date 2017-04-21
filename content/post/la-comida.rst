@@ -7,6 +7,7 @@ tags: ["comida"]
 categories:
   - varios
 description:
+thumbnail: /img/market1.jpg
 ---
 
 La comida aquí es algo bastante curioso. Primero, el horario. Creo que
@@ -69,8 +70,8 @@ puesto distinto. De momento tengo dos favoritos: uno que preparan
 hamburguesas rústicas de venado en pan *brioche*, y otro que hacen
 *wraps* vegetarianos de falafel.
 
-.. figure:: /images/market1.jpg
+.. figure:: /img/market1.jpg
    :width: 80%
 
-.. figure:: /images/market2.jpg
+.. figure:: /img/market2.jpg
    :width: 80%

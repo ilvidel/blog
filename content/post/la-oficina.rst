@@ -7,11 +7,8 @@ tags: ["oficina"]
 categories:
   - personal
 description: Día a día en la oficina
+thumbnail: https://upload.wikimedia.org/wikipedia/en/9/96/IBM_Cloudant_logo.png
 ---
-
-.. figure:: https://upload.wikimedia.org/wikipedia/en/9/96/IBM_Cloudant_logo.png
-   :width: 50%
-   :align: center
 
 Acabo de caer en la cuenta de que llevo ya tres meses trabajando aquí
 y no os he contado apenas nada sobre cómo es el trabajo y la
@@ -35,7 +32,7 @@ levantar un hotel, así que se nos fastidió la vista. Pero ya tenéis
 sitio cerca para verme trabajar desde la ventana cuando vengáis a
 visitarme, jajaja.
 
-.. figure:: /images/office01.jpg
+.. figure:: /img/office01.jpg
    :width: 100%
 
    Libros de superhéroes para colorear, en la zona de sofás
@@ -49,7 +46,7 @@ departamentos, y comentamos lo que hemos hecho durante la semana. De
 esta forma todo el mundo tiene una idea aproximada de todo lo que está
 pasando.
 
-.. figure:: /images/office02.jpg
+.. figure:: /img/office02.jpg
    :width: 100%
 
    Juego de damas, edición de bolsillo
@@ -59,7 +56,7 @@ equipo. Además de resumir lo que hemos hecho, comentamos dudas o
 cualquier otra cosa. Esta la hacemos por videoconferencia, porque
 estamos repartidos entre Bristol, Boston, San Francisco y Toronto.
 
-.. figure:: /images/office03.jpg
+.. figure:: /img/office03.jpg
    :width: 100%
 
    Catering de comilona por la incorporación de un nuevo miembro
