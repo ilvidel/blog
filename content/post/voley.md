@@ -105,15 +105,16 @@ muchas veces nos cuesta encontrar equipos. Estos son torneos a los que
 la gente **quiere** apuntarse, y con esto me refiero a que suele haber
 overbooking.
 
-- Torneo de Veteranos: para mayores de 35 años, cualquier
+- [Torneo de Veteranos][veterans]: para mayores de 35 años, cualquier
   género. Obligatorio tener al menos 2 mujeres en pista. Se celebra a
   finales de Octubre, organizado por la <acronym title="South West
   Volleyball Association">SWVA</acronym>.
-- Torneo de Exeter
 - [Open de Cardiff][cardiff-open]: Este no lo he podido jugar aún,
   este año se ha cancelado por problemas de logística. Normalmente son
   dos días, uno para mujeres y otro para hombres.
-- [Whitefield Tournament][whitefiled]: organizado por el _City of
+- [Exeter Challenge][exeter-challenge]: Otro _open_ de un día, esta
+  vez en Exeter.
+- [Whitefield Tournament][whitefield]: organizado por el _City of
   Bristol_, es el mayor torneo de volley outdoors (hierba) del Reino
   Unido, con 30 redes. Se juega durante 3 días (Viernes a Domingo) a
   finales de Julio. Hay 3 categorías (masculina, femenina y mixta), y
@@ -121,7 +122,7 @@ overbooking.
   número de equipos inscritos.
 
 Como curiosidad, comentar que tanto los South West Champs, como el
-Torneo de Veteranos y el Torneo de Exeter se juegan **por tiempo**. La
+Torneo de Veteranos y el Exeter Challenge se juegan **por tiempo**. La
 cantidad de equipos participantes hace imposible jugar por puntos,
 debido al número de partidos. Se comienza a una hora y se juega un set
 de 20 minutos (en el torneo de veteranos además te dan puntos extra -o
@@ -129,7 +130,8 @@ no- dependiendo de las edades y género de los jugadores). El equipo
 que más puntos tenga (sin diferencia de dos) al final de esos 20
 minutos, gana. Se puede empatar. Está curioso; al principio es un poco
 raro, pero te acostumbras. Lo malo es el ciclo de
-calentar-enfriar-calentar, que no es lo mejor para las rodillas, pero bueno.
+calentar-enfriar-calentar, que no es lo mejor para las rodillas, pero
+bueno.
 
 # Arbitraje
 
@@ -195,12 +197,14 @@ se lleva muy a rajatabla. Por ejemplo, en Febrero y Marzo tengo un par
 de partidos de Div 1 (que sería el equivalente a Superliga-2 en
 España). Yo no debería estar ahí, pero… se ve que falta gente.
 
-[badva]:	    http://badva.org.uk/
-[cardiff-open]: https://en-gb.facebook.com/cardiffopenvolleyball/
-[grupos]:	    http://www.volleyballengland.org/~media/docs/NVL%20League%20Structure%202017-18.pdf
-[normativas]:   http://www.volleyballengland.org/competitions/national_volleyball_league/rules_and_information
-[nvl]:		    http://www.volleyballengland.org/competitions/national_volleyball_league
-[swva]:		    https://www.swva.org.uk
-[teamgb]:	    https://en.wikipedia.org/wiki/Team_GB
-[ve]:		    https://www.volleyballengland.org
-[whitefield]:   http://whitefield.cbvc.org.uk/
+[badva]:	        http://badva.org.uk/
+[cardiff-open]:     https://en-gb.facebook.com/cardiffopenvolleyball/
+[exeter-challenge]: https://www.swva.org.uk/news/the-2017-exeter-challenge
+[grupos]:	        http://www.volleyballengland.org/~media/docs/NVL%20League%20Structure%202017-18.pdf
+[normativas]:       http://www.volleyballengland.org/competitions/national_volleyball_league/rules_and_information
+[nvl]:		        http://www.volleyballengland.org/competitions/national_volleyball_league
+[swva]:		        https://www.swva.org.uk
+[teamgb]:	        https://en.wikipedia.org/wiki/Team_GB
+[ve]:		        https://www.volleyballengland.org
+[veterans]:         https://www.swva.org.uk/sw-vets-tournament
+[whitefield]:       http://whitefield.cbvc.org.uk/
