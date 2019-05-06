@@ -7,7 +7,7 @@ categories:
   - ocio
   - turismo
 description: Paseo en globo aerostático sobre Bristol
-thumbnail: ""
+thumbnail: "img/balloon.jpg"
 ---
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/40823368203/in/dateposted-public/" title="Stuart the Minion Balloon"><img src="https://live.staticflickr.com/65535/40823368203_a753d7d598_z.jpg" width="640" height="400" alt="Stuart the Minion Balloon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
