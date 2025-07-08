@@ -1,8 +1,8 @@
-baseurl = "https://ilvidel.quijost.com/"
+baseurl = "https://ilvidel.github.io/"
 languageCode = "es"
 title = "Viviendo en Bristol"
 paginate = "10" # Number of posts per page
-theme = "mainroad"
+#theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-56289011-2" # Enable Google Analytics by entering your tracking id
 
