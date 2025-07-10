@@ -1,5 +1,4 @@
 ---
-
 title: Barcos Viejunos
 slug: barcos-viejunos
 date: 2016-05-08
@@ -21,9 +20,10 @@ seré feliz.
 El caso es que me he ido a dar una vuelta por el puerto de Bristol. Es
 un puerto fluvial, como el de Sevilla, y es que el río Avon es
 bastante anchote y se puede navegar bien. El primer barco que me
-encontré fue el `HSM Atherstone`_ un buscaminas que ha pasado 3 años
-en el golfo pérsico y ha vuelto en Diciembre. Normalmente amarra en
-Portsmouth, pero ahora está en Bristol -no sé por qué-.
+encontré fue el [HSM Atherstone][atherstone] un buscaminas que ha
+pasado 3 años en el golfo pérsico y ha vuelto en
+Diciembre. Normalmente amarra en Portsmouth, pero ahora está en
+Bristol -no sé por qué-.
 
 .. raw:: html
 
@@ -45,7 +45,7 @@ un tren, aunque un poco distinto:
 
 Continuando con el paseo, y de manera totalmente inesperada, me
 encontré con la réplica del *Matthew* (cuya existencia conocimos
-durante la visita a la iglesia de `St. Mary Redcliffe`_, si
+durante la visita a la iglesia de [St. Mary Redcliffe][stmary], si
 recordáis). Allí aprendimos que fue el barco que John Cabbot utilizó
 para ir a América en 1497, llegando a Terranova --y empezando la
 colonización de Norteamérica, mientras Colón andaba por el caribe y
@@ -74,11 +74,9 @@ tuvo que ser eso; había que echarle unas pelotas muy gordas. Y más,
 sin saber lo que iban a tardar. Que ahora dices, bueno, pues cojo
 provisiones y apechusques para 50 días. Pero Colón no sabía lo que iba
 a tardar (que me corrija algún historiador). O los vikingos, que se
-supone que `llegaron mucho antes a América`_ (aunque con eso de ser
+supone que [llegaron mucho antes a América][america] (aunque con eso de ser
 tan brutos, no se pararon a escribir la historia ni hacer mapas, así
 que no está muy claro).
-
-.. _llegaron mucho antes a América: https://es.wikipedia.org/wiki/Asentamientos_vikingos_en_Am%C3%A9rica
 
 Te permiten deambular por -casi- todo el barco, bajar a la bodega, ver
 dónde duermen, cómo funciona el timón... Muy chulo. Hay varios
@@ -95,10 +93,10 @@ Estuve hablando con uno de los miembros de la tripulación, que son
 todos voluntarios y mantienen el barco gracias a los donativos. Me
 contó un poco de la historia y de los viajes de Cabott, y me dijo que
 el barco es completamente funcional! Hacen viajes con público por el
-puerto, otros por el desfiladero del Avon (por debajo del `Puente
-Colgante de Clifton`_), y a veces cruzan el charco (este último no sé
+puerto, otros por el desfiladero del Avon (por debajo del [Puente
+Colgante de Clifton][puente]), y a veces cruzan el charco (este último no sé
 para qué). Posiblemente algún finde haga uno de los viajes. Hay que
-hacerlo. Eso es así. `Fotos del Matthew`_ en Flickr.
+hacerlo. Eso es así. [Fotos del Matthew][matthew] en Flickr.
 
 .. _Fotos del Matthew: https://www.flickr.com/photos/149690786@N07/albums/72157677325015406
 
@@ -111,12 +109,12 @@ El SS Great Britain
    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/149690786@N07/30599518514/in/album-72157677325015356/" title="P4300054"><img src="https://c3.staticflickr.com/6/5578/30599518514_d1219d5e72_z.jpg" width="640" height="480" alt="P4300054"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Después de esta inesperada e instructiva parada, continué mi periplo
-hasta llegar a mi verdadero destino: el transatlántico `SS Great
-Britain`_. Transformado ahora en barco-museo y aparcado exactamente en
-el mismo `dique seco`_ en el que fue construido en 1843, fue en su
+hasta llegar a mi verdadero destino: el transatlántico [SS Great
+Britain][ssgreatbritain]. Transformado ahora en barco-museo y aparcado exactamente en
+el mismo [dique seco][diqueseco] en el que fue construido en 1843, fue en su
 día, con 100 m de eslora y 15 de manga, el mayor barco transoceánico
-de pasajeros del mundo. Lo diseñó Brunel (el mismo del `Puente
-Colgante de Clifton`_, ya os hablé de él) y fue una especie de
+de pasajeros del mundo. Lo diseñó Brunel (el mismo del [Puente
+Colgante de Clifton][puente], ya os hablé de él) y fue una especie de
 experimento para construir un barco de metal. De hecho, fue el primer
 transatlántico de metal, por eso era el más grande: el casco de metal
 es más duro y más fino que el de madera, lo que le permitía construir
@@ -150,12 +148,12 @@ abandonarlo a su hundimiento y corrosión.
 En los años 70, los británicos se empeñaron en traerlo de nuevo a
 casa, y organizaron una operación de rescate para ponerlo de nuevo a
 flote y traerlo a Bristol remolcado en un pontón_. Podéis ver la
-historia en un documental de la BBC en youtube: `Chronicle - The Great
-Iron Ship`_ Os lo recomiendo (aunque está en inglés, claro).
+historia en un documental de la BBC en youtube: [Chronicle - The Great
+Iron Ship][chronicle] Os lo recomiendo (aunque está en inglés, claro).
 
 Ahora está totalmente restaurado, tal y como era en sus viajes
 iniciales de pasajeros. El casco estaba muy corroído, así que
-decidieron dejarlo en `dique seco`_ para evitar que siguiera
+decidieron dejarlo en [dique seco][diqueseco] para evitar que siguiera
 pudriéndose. De hecho, el dique está sellado por debajo de la línea de
 flotación y tiene un sistema de ventilación que inyecta aire seco,
 para contrarrestar la alta humedad habitual del ambiente.
@@ -231,17 +229,18 @@ carga, donde se almacenaban tanto la carga como los animales.
 
 Para terminar, os dejo un pequeño vídeo con algunas cosillas que he
 grabado (nada realmente coherente, la verdad). Por supuesto, podéis
-ver más fotos en Flickr_. Os agradezco que comentéis en twitter o
+ver más fotos en [Flickr][flickr]. Os agradezco que comentéis en twitter o
 me digáis algo directamente, para saber que me leéis y que os gusta (o
 no).
 
 {{< youtube PhXsHx4fo9o >}}
 
-.. _Chronicle - The Great Iron Ship: https://www.youtube.com/watch?v=yUyo025f63M
-.. _pontón: https://es.wikipedia.org/wiki/Pont%C3%B3n
-.. _dique seco: https://es.wikipedia.org/wiki/Dique_seco
-.. _SS Great Britain: https://es.wikipedia.org/wiki/SS_Great_Britain
-.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015356
-.. _HSM Atherstone: https://en.wikipedia.org/wiki/HMS_Atherstone_(M38)
-.. _St. Mary Redcliffe: /posts/st-mary-redcliffe
-.. _Puente Colgante de Clifton: /posts/el-puente-colgante-de-clifton
+[chronicle]:      https://www.youtube.com/watch?v=yUyo025f63M
+[ponton]:         https://es.wikipedia.org/wiki/Pont%C3%B3n
+[diqueseco]:      https://es.wikipedia.org/wiki/Dique_seco
+[ssgreatbritain]: https://es.wikipedia.org/wiki/SS_Great_Britain
+[flickr]:         https://www.flickr.com/photos/149690786@N07/albums/72157677325015356
+[atherstone]:     https://en.wikipedia.org/wiki/HMS_Atherstone_(M38)
+[stmary]:         /posts/st-mary-redcliffe
+[puente]:         /posts/el-puente-colgante-de-clifton
+[america]:        https://es.wikipedia.org/wiki/Asentamientos_vikingos_en_Am%C3%A9rica

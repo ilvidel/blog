@@ -52,8 +52,6 @@ interesante, mwhaahahahaaa…
 Tampoco hay mucho más que describir, la verdad. Lo mejor es ir a verlo
 en persona, pasear por los caminos entre las tumbas y los árboles, y
 disfrutarlo en persona. Os dejo un vídeo, y como siempre, algunas
-fotos en Flickr_.
-
-.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157673477840983"
+fotos en [Flickr][https://www.flickr.com/photos/149690786@N07/albums/72157673477840983"].
 
 {{< youtube Mkn8ieBKET4 >}}

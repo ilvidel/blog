@@ -1,5 +1,4 @@
 ---
-
 title: Emigrante
 slug: emigrante
 date: 2016-04-10

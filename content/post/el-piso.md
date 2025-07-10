@@ -1,5 +1,4 @@
 ---
-
 title: El Piso
 slug: el-piso
 date: 2016-04-19

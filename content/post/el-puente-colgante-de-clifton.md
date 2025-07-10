@@ -1,5 +1,4 @@
 ---
-
 title: El Puente Colgante de Clifton
 slug: puente
 date: 2016-05-01
@@ -11,19 +10,19 @@ thumbnail: "https://c7.staticflickr.com/6/5645/31052027870_30588722d7_z.jpg"
 ---
 
 Hoy he hecho una pequeña excursión: me he cogido un autobús y he ido a
-visitar el `puente colgante de Clifton`_. Fue inaugurado en 1864 para
-poder cruzar el desfiladero del río Avon, y unir el barrio de Clifton
-(Bristol) con el de Leigh Woods (North Somerset), y es uno de los
-símbolos de Bristol. Pero bueno, todos estos datos los podéis leer en
-la wikipedia_, yo os cuento mi excursión; que en realidad tiene 3
-partes: además del puente, allí me encontré con una cámara oscura y
-una cueva que se podía visitar. Así que, como dijo *Jack el
-Destripador*, vayamos por partes.
+visitar el [puente colgante de Clifton][puente]. Fue inaugurado en
+1864 para poder cruzar el desfiladero del río Avon, y unir el barrio
+de Clifton (Bristol) con el de Leigh Woods (North Somerset), y es uno
+de los símbolos de Bristol. Pero bueno, todos estos datos los podéis
+leer en la [wikipedia][wikipedia], yo os cuento mi excursión; que en
+realidad tiene 3 partes: además del puente, allí me encontré con una
+cámara oscura y una cueva que se podía visitar. Así que, como dijo
+*Jack el Destripador*, vayamos por partes.
 
 .. TEASER_END
 
-.. _puente colgante de Clifton: http://www.cliftonbridge.org.uk/visit
-.. _wikipedia: https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge
+[puente]: http://www.cliftonbridge.org.uk/visit
+[wikipedia]: https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge
 
 
 El Observatorio y el Puente
@@ -64,13 +63,13 @@ tamaño de las dos estructuras que hay a cada extremo (no sé el nombre
 técnico, que me perdonen los arquitectos e ingenieros de caminos),
 comparadas con los coches y la gente. Muy imponente. Uno de los
 principales impulsores del puente, además de su diseñador, fue un tal
-Brunel, que por aquí es una especie de héroe local. Hay muchas cosas
-que llevan su nombre, bien porque las construyera él, o en su
-honor. Claro que cuando te puedes ahorrar el dinero de la mano de obra
-siendo esclavista, la perspectiva cambia. Pero bueno, es lo que había
-por entonces.
+[Brunel][brunel], que por aquí es una especie de héroe local. Hay
+muchas cosas que llevan su nombre, bien porque las construyera él, o
+en su honor. Claro que cuando te puedes ahorrar el dinero de la mano
+de obra siendo esclavista, la perspectiva cambia. Pero bueno, es lo
+que había por entonces.
 
-.. _Brunel: https://es.wikipedia.org/wiki/Isambard_Kingdom_Brunel
+[brunel]: https://es.wikipedia.org/wiki/Isambard_Kingdom_Brunel
 
 .. raw:: html
 
@@ -82,14 +81,15 @@ La Cámara Obscura
 
 La construcción que os comentaba es un edificio de piedra que alberga
 el centro de visitantes, con su oficina de información, un bar y una
-pequeña torre en la que hay instalada una `cámara obscura`_. En lo alto
-de la torre hay una pequeña habitación, totalmente a oscuras. En el
-techo, hay un artilugio giratorio que tiene una lente de 13cm y un
-espejo. Lo instaló allí William West (un artistilla local)
-en 1829. Los artistas usaban la cámara obscura de forma habitual, para
-pintar de forma más realista. Vamos, lo que viene siendo calcar.
+pequeña torre en la que hay instalada una [cámara obscura][camara]. En
+lo alto de la torre hay una pequeña habitación, totalmente a
+oscuras. En el techo, hay un artilugio giratorio que tiene una lente
+de 13cm y un espejo. Lo instaló allí William West (un artistilla
+local) en 1829. Los artistas usaban la cámara obscura de forma
+habitual, para pintar de forma más realista. Vamos, lo que viene
+siendo calcar.
 
-.. _cámara obscura: https://es.wikipedia.org/wiki/C%C3%A1mara_oscura
+[camara]: https://es.wikipedia.org/wiki/C%C3%A1mara_oscura
 
 .. raw:: html
 
@@ -107,15 +107,15 @@ entorno.
 
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051881450/in/album-72157677325015386/" title="p3250092"><img src="https://c3.staticflickr.com/6/5545/31051881450_688b6c2b6e_z.jpg" width="640" height="480" alt="p3250092"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-La `Torre Tavira`_ en Cádiz, alberga una cámara obscura también, por
-si queréis visitarla. Hice un vídeo dentro de la cámara para
-enseñároslo, pero no se veía nada, sale todo negro. La luz que se
+La [Torre Tavira][tavira] en Cádiz, alberga una cámara obscura
+también, por si queréis visitarla. Hice un vídeo dentro de la cámara
+para enseñároslo, pero no se veía nada, sale todo negro. La luz que se
 proyecta en la tabla no es lo suficientemente brillante para las
-cámaras (para la mía, al menos). En la página del `observatorio de
-Clifton`_ hay más información.
+cámaras (para la mía, al menos). En la página del [observatorio de
+Clifton][observatorio] hay más información.
 
-.. _observatorio de Clifton: http://www.cliftonobservatory.com/
-.. _Torre Tavira: https://es.wikipedia.org/wiki/Torre_Tavira
+[observatorio]: http://www.cliftonobservatory.com/
+[tavira]: https://es.wikipedia.org/wiki/Torre_Tavira
 
 .. figure:: http://www.cliftonobservatory.com/wp-content/uploads/2015/05/count_christoph-Instagram.jpg
 
@@ -130,9 +130,9 @@ tiempo dos gigantes, llamados Goram y Ghyston, y su casa estaba en
 esta cueva. También estuvo ocupada durante el periodo romano, pues se
 han encontrado restos de cerámicas de la época, y en el siglo XVII
 (17, para los de la ESO / LOGSE) sirvió de refugio a un ermitaño (¿quizá
-el `pobre Miguel`_?)
+el [probe Miguel][probe]?)
 
-.. _pobre Miguel: https://youtu.be/p8OJX_IaE44?t=1m5s
+[probe]: https://youtu.be/p8OJX_IaE44?t=1m5s
 
 La cueva en realidad tampoco es gran cosa, al menos la parte que se
 puede visitar, creo recordar que había un camino cerrado. Desde el
@@ -148,9 +148,9 @@ visita. Os dejo un vídeo de la bajada.
 
 {{< youtube QKTGzJcGeB4 >}}
 
-Podéis ver más fotos en Flickr_:
+Podéis ver más fotos en [Flickr][flickr]:
 
-.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015386
+[flickr]: https://www.flickr.com/photos/149690786@N07/albums/72157677325015386
 
 .. raw:: html
 

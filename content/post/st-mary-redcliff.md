@@ -1,5 +1,4 @@
 ---
-
 title: St. Mary Redcliffe
 slug: st-mary-redcliffe
 date: 2016-04-17
@@ -39,18 +38,18 @@ la parte más alejada del altar. La iglesia no os la cuento,
 porque... bueno, pues es más o menos como todas las de su estilo. Del
 siglo XIV, estilo gótico, etc, etc. Podéis ver las fotos en
 Flickr_. Sí que tenía algunas cosas curiosas, como por ejemplo un
-`péndulo caótico`_, que es una cosa que normalmente encuentras en algún
-tipo de museo o exhibición científica, no en una iglesia.
+[péndulo caótico][caotico], que es una cosa que normalmente encuentras
+en algún tipo de museo o exhibición científica, no en una iglesia.
 
 Este, además, era bastante curioso. Para quien no lo sepa... bueno, un
-péndulo_ sabemos todos lo que es, ¿no?. Una de las propiedades de un
-péndulo es que es un sistema determinista; es decir, sabiendo las
-condiciones iniciales, se puede predecir cuál será su estado
-(posición) en cualquier momento dado, aplicando una serie de
+[péndulo][péndulo] sabemos todos lo que es, ¿no?. Una de las
+propiedades de un péndulo es que es un sistema determinista; es decir,
+sabiendo las condiciones iniciales, se puede predecir cuál será su
+estado (posición) en cualquier momento dado, aplicando una serie de
 ecuaciones. Por el contrario, un péndulo caótico, no es determinista,
 no se puede predecir cuál será su comportamiento. Un ejemplo de esto
-es el `péndulo doble`_, bastante sencillo e intuitivo. El que hay en
-la iglesia es un poco más complejo (ver vídeo).
+es el [péndulo doble][doble], bastante sencillo e intuitivo. El que
+hay en la iglesia es un poco más complejo (ver vídeo).
 
 {{< youtube jL0lZXQJvS0 >}}
 
@@ -79,13 +78,13 @@ cristal y las explosiones, no se llevan bien).
 
 Otra cosa bastante curiosa que había allí era un hueso de la mandíbula
 de una ballena. Una bastante pequeña, la verdad, pero bueno. En la
-iglesia hay una maqueta de un barco, el Matthew_, una carabela que
-viajó en 1497 desde Bristol hasta Terranova. Por lo visto en el puerto
-hay una réplica a tamaño real, me acercaré algún día a verla. Al
-parecer, un tal *John Cabot* quiso imitar Colón y llegar a Asia,
-viajando por el norte; pero se topó con América, claro. En el viaje de
-vuelta, el tipo se tajo de vuelta esta mandíbula de ballena. No sé qué
-pinta en la iglesia, no lo explican, pero ahí está.
+iglesia hay una maqueta de un barco, el [Matthew][matthew], una
+carabela que viajó en 1497 desde Bristol hasta Terranova. Por lo visto
+en el puerto hay una réplica a tamaño real, me acercaré algún día a
+verla. Al parecer, un tal *John Cabot* quiso imitar Colón y llegar a
+Asia, viajando por el norte; pero se topó con América, claro. En el
+viaje de vuelta, el tipo se tajo de vuelta esta mandíbula de
+ballena. No sé qué pinta en la iglesia, no lo explican, pero ahí está.
 
 .. raw:: html
 
@@ -109,8 +108,8 @@ recuerdo.
 
 .. _matthew: https://en.wikipedia.org/wiki/Matthew_(ship)
 .. _péndulo: https://es.wikipedia.org/wiki/P%C3%A9ndulo
-.. _péndulo doble: https://es.wikipedia.org/wiki/Doble_p%C3%A9ndulo
-.. _péndulo caótico: https://es.wikipedia.org/wiki/P%C3%A9ndulo_ca%C3%B3tico
+.. _doble: https://es.wikipedia.org/wiki/Doble_p%C3%A9ndulo
+.. _caotico: https://es.wikipedia.org/wiki/P%C3%A9ndulo_ca%C3%B3tico
 .. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015346
 
 

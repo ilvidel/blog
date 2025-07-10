@@ -1,5 +1,4 @@
 ---
-
 title: Cosillas de Bristol
 slug: cosillas-de-bristol
 date: 2016-04-13
@@ -115,7 +114,7 @@ del polo. Bueno, pues por la calle te podías encontrar a gente
 paseando en manga corta. Así juegan aquí.
 
 Los enchufes los tienen bastante bien estudiado (excepto dónde
-colocarlos, `como ya conté`_). Y a mí también me ha tocado estudiarlo,
+colocarlos, [como ya conté][piso]). Y a mí también me ha tocado estudiarlo,
 claro, para poder enchufar cosas españolas aquí. Todos los enchufes,
 absolutamente todos, tienen un interruptor. Si no le das al
 interruptor, se te queda cara de imbécil esperando que tu cacharro
@@ -126,7 +125,7 @@ toma de tierra, que es la clavija de arriba, la que está en
 vertical. Es un poco más larga que las otras dos, precisamente para
 eso, para abrir las pestañas de las otras dos clavijas.
 
-.. _como ya conté: /posts/el-piso
+[piso]: /posts/el-piso
 
 Bueno, perdonad el post tan desorganizado y desestructurado, pero eran
 muchas cosas sueltas, demasiado pequeñas para un post por sí mismas. Y

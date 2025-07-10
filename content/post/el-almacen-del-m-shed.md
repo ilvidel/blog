@@ -45,7 +45,7 @@ los años 1960, con todas las grúas en uso. Nos contó que las grúas aún
 funcionan, y de hecho las usan de vez en cuando, si tienen que mover
 algo del almacén (más adelante veremos un ejemplo). Si alguien no sabe
 a qué grúas me refiero, que eche un vistazo al post
-`Barcos Viejunos`_.
+[Barcos Viejunos][barcos viejunos].
 
 .. raw:: html
 
@@ -88,8 +88,8 @@ ser un prototipo-, pero la NASA sí que utilizó otras basadas en esta.
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276675542/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5836/31276675542_7333ec2cd5_z.jpg" width="640" height="360" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En la nave había un montón de restos del pasado industrial aeronáutico
-de Bristol, pero la más curiosa era esta rueda del `Bristol
-Brabazon`_, un avión gargantuesco construido en 1949 que venía a ser
+de Bristol, pero la más curiosa era esta rueda del [Bristol
+Brabazon][brabazon], un avión gargantuesco construido en 1949 que venía a ser
 algo así como el Titanic de la aviación: un tansatlántico de lujo con
 dos cubiertas que incluían gimnasio, cine y bar. A pesar de su tamaño,
 solo llevaría a 100 pasajeros, cada uno con 6m³ de espacio (8m³ para
@@ -103,10 +103,10 @@ generoso) es decir, menos de 1m³.
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276672902/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5493/31276672902_31d253c99f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 No voy a poner más cosas, porque podría estar escribiendo horas. En el
-álbum_ hay más fotos (iré poniendo comentarios, aún no he tenido
+[álbum][album] hay más fotos (iré poniendo comentarios, aún no he tenido
 tiempo). Seguramente volveré y haré más fotos y aprenderé cosas
 nuevas.
 
- .. _álbum: https://www.flickr.com/photos/149690786@N07/albums/72157677325015396/with/30599995824/
- .. _Bristol Brabazon: https://en.wikipedia.org/wiki/Bristol_Brabazon
- .. _Barcos Viejunos: /posts/barcos-viejunos/
+[album]:           https://www.flickr.com/photos/149690786@N07/albums/72157677325015396/with/30599995824/
+[brabazon]:        https://en.wikipedia.org/wiki/Bristol_Brabazon
+[barcos viejunos]: /posts/barcos-viejunos/

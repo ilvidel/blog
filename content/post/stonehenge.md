@@ -57,26 +57,26 @@ libras. Tela. Ya pueden estar bien los chinatos esos.
 
 Junto al centro de visitantes hay una reproducción de un pequeño
 poblado de la época. Puedes meterte en las casas a ver cómo eran por
-dentro, y tienen un menhir_ con un dinamómetro_ para que tires y veas
-lo flojeras que eres. Te dice cuántos como tú hacen falta para
-moverlo. Había un montón de cola para comprar la entrada, pero no ví
-que hubiera nada que me impidiera ir hacia las piedras -que están a 2
-Km del centro, ojo. Menos mal que hay autobuses. Mientras deambulaba
-por allí y decidía si ir directamente o comprar la entrada (que
-costaba £16, no te lo pierdas), se oyó una explosión. Giré rápidamente
-la cabeza hacia el origen del sonido, a tiempo para ver que uno de los
-neumáticos de un carrito de esos que usan los transportistas había
-reventado. No sé por qué, ya que estaba a la sombra. A saber. Todo el
-mundo se acercó, con cara de circunstancias, algunos con cara de
-miedo, los trabajadores y seguratas hablando con los walkie-talkies, y
-nadie comprendía nada. Al final, tuve que ser yo el que les dijera a
-todos que se calmaran, que sólo había sido el neumático, que había
-reventado. Todos se calmaron, algunos turistas pusieron cara de
-decepción, y una tipa del complejo me dio las gracias. Ya me podía
-haber dado una entrada gratis, leche.
+dentro, y tienen un [menhir][menhir] con un [dinamómetro][dinamometro]
+para que tires y veas lo flojeras que eres. Te dice cuántos como tú
+hacen falta para moverlo. Había un montón de cola para comprar la
+entrada, pero no ví que hubiera nada que me impidiera ir hacia las
+piedras -que están a 2 Km del centro, ojo. Menos mal que hay
+autobuses. Mientras deambulaba por allí y decidía si ir directamente o
+comprar la entrada (que costaba £16, no te lo pierdas), se oyó una
+explosión. Giré rápidamente la cabeza hacia el origen del sonido, a
+tiempo para ver que uno de los neumáticos de un carrito de esos que
+usan los transportistas había reventado. No sé por qué, ya que estaba
+a la sombra. A saber. Todo el mundo se acercó, con cara de
+circunstancias, algunos con cara de miedo, los trabajadores y
+seguratas hablando con los walkie-talkies, y nadie comprendía nada. Al
+final, tuve que ser yo el que les dijera a todos que se calmaran, que
+sólo había sido el neumático, que había reventado. Todos se calmaron,
+algunos turistas pusieron cara de decepción, y una tipa del complejo
+me dio las gracias. Ya me podía haber dado una entrada gratis, leche.
 
-.. _dinamómetro: https://es.wikipedia.org/wiki/Dinamómetro
-.. _menhir: https://es.wikipedia.org/wiki/Menhir
+[dinamometro]: https://es.wikipedia.org/wiki/Dinamómetro
+[menhir]: https://es.wikipedia.org/wiki/Menhir
 
 Bueno, pues me puse a hacer 20 minutazos de cola para comprar la
 entrada, me gasté las 16 libras (bueno, 11, porque te descuentan las
@@ -167,7 +167,7 @@ investigación astronómica.
    aéreas.
 
 El sol sale por el Este y se pone por el Oeste, pero eso no significa
-que salga por los 90° y se ponga en los 180° de azimut_. Resulta que
+que salga por los 90° y se ponga en los 180° de [azimut][azimut]. Resulta que
 eso ocurre sólo en los equinoccios. Ese punto se desplaza a lo largo
 del año, y también varía según la latitud del sitio en el que lo
 mires. Concretamente en Stonehenge, en el solsticio de verano, el sol
@@ -186,7 +186,7 @@ vía procesional, que daba entrada, junto con el altar y el círculo
 interior (herradura, más bien) se alineaban con el amanecer en el
 solsticio de verano.
 
-Muchas más fotos apasionantes de piedras, como siempre, en Flickr_.
+Muchas más fotos apasionantes de piedras, como siempre, en [Flickr][flickr].
 
-.. _Flickr: https://www.flickr.com/photos/149690786@N07/albums/72157677325015326
-.. _azimut: https://es.wikipedia.org/wiki/Acimut
+[Flickr]: https://www.flickr.com/photos/149690786@N07/albums/72157677325015326
+[azimut]: https://es.wikipedia.org/wiki/Acimut

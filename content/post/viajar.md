@@ -6,7 +6,7 @@ tags: ["viajar"]
 categories:
   - turismo
 description: Quejas y despotrique sobre viajes
-thumbnail:
+thumbnail: img/travel.jpg
 ---
 
 No nos engañemos: viajar es un rollo, una incomodidad, un
@@ -81,8 +81,8 @@ pringaos que pagaron extra por el _speedy boarding_ ni siquiera se han
 dado cuenta de la estafa. Pringaos.
 
 A las 14:42 ya estoy sentado en el avíón. Nos habla el
-conductor. Abordaje completado, pero que ha pasado _<cosa ininteligible
-gracias a la pobre calidad de los altavoces>_ y que vamos a estar
+conductor. Abordaje completado, pero que ha pasado _`cosa ininteligible
+gracias a la pobre calidad de los altavoces`_ y que vamos a estar
 paradicos, dentro de la lata de sardinas, al sol, durante al menos 15
 minutos. Tupendo.
 
@@ -120,8 +120,8 @@ que pasar el control de pasaporte de nuevo (no vaya a ser que se haya
 perdido alguien en el aire, supongo), ir a recoger la maleta, y buscar
 un medio de ir desde el aeropuerto a la estación de tren.
 
-Un chico checo con un polo que decía algo así como _"Personal de Ayuda
-del Aeropuerto"_ me dice que hay un bus _Airport Express_ que va
+Un chico checo con un polo que decía algo así como _`Personal de Ayuda
+del Aeropuerto`_ me dice que hay un bus _Airport Express_ que va
 directito a la estación. Perfecto, ¿dónde cojo el billete y el bus?
 Aquí, en esta máquina, mira pulsa aquí y aquí. Pum, 40 coronas
 después, billetito en mano y pa la dársena. En la dársena hay unos
@@ -180,8 +180,9 @@ pero eso lo entendí perfectamente.
 
 En fin. Ya casi estamos. Cuando llego a Brno son ya las 23:30 y me he
 leído casi la mitad del libro que traigo. Ahora me toca averiguar cómo
-llegar al hotel, pero tiro por la vía fácil: un tasi_. Bueno, rápida
-sí, pero fácil no. El tasi que toca, porque todos sabemos que hay un
+llegar al hotel, pero tiro por la vía fácil: un
+[tasi](https://www.youtube.com/watch?v=qw1Psmc8wAU). Bueno, rápida sí,
+pero fácil no. El tasi que toca, porque todos sabemos que hay un
 protocolo, pues… no habla inglés. Es un señor mayor ya, cerca de los
 60 sino los 70, y yo creo que con parkinson, porque se le mueve la
 cabeza como a los muñecos esos que se ponen en el salpicadero. Al
@@ -191,5 +192,3 @@ quiero ir y me lleva.
 Llego a la habitación a las 23:55. Cargado con la maleta, la mochila,
 y cargado en general, por haber salido de casa hace 11 horas y
 pico. Asco de viajes. A ver si inventan el teletransporte pronto.
-
-.. _tasi: https://www.youtube.com/watch?v=qw1Psmc8wAU

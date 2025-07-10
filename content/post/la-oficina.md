@@ -1,5 +1,4 @@
 ---
-
 title: La Oficina
 slug: la-oficina
 date: 2016-05-25

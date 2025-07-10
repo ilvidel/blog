@@ -1,5 +1,4 @@
 ---
-
 title: El Canal de Bristol
 slug: exclusas
 date: 2016-08-29

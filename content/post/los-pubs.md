@@ -29,21 +29,14 @@ estuvimos un buen rato hablando con el australiano. Un tipo bastante
 interesante y que, la verdad sea dicha, hablaba por los codos. Así es
 más fácil tener una conversación, jajaja.
 
-Otro pub que hay por aquí y que es bastante famoso, es el `Llandoger
-Trow`_. Es famoso no por su cerveza, si no por su historia, ya que ha
+Otro pub que hay por aquí y que es bastante famoso, es el [Llandoger
+Trow][llandoger]. Es famoso no por su cerveza, si no por su historia, ya que ha
 sido punto de alcoholización de dos escritores famosos. Al parecer,
-`Daniel Defoe`_ conoció aquí a `Alexander Selkirk`_, quien le serviría
-de inspiración para crear el personaje de Robinson Crusoe. También se
-dejaba ver por allí, aunque unos 2 siglos más tarde, `Robert Louis
-Stevenson`_, quien se inspiró en él (el pub) para la posada Almirante
-Belbow de su novela `La Isla del Tesoro`_.
-
-.. _Daniel Defoe: https://es.wikipedia.org/wiki/Daniel_Defoe
-.. _Robert Louis Stevenson: https://es.wikipedia.org/wiki/Robert_Louis_Stevenson
-.. _La Isla del Tesoro: https://es.wikipedia.org/wiki/La_isla_del_tesoro
-.. _Robinson Crusoe: https://es.wikipedia.org/wiki/Robinson_Crusoe
-.. _Alexander Selkirk: https://es.wikipedia.org/wiki/Alexander_Selkirk
-.. _Llandoger Trow: https://en.wikipedia.org/wiki/Llandoger_Trow
+[Daniel Defoe][defoe] conoció aquí a [Alexander Selkirk][selkirk], quien le serviría
+de inspiración para crear el personaje de [Robinson Crusoe][crusoe]. También se
+dejaba ver por allí, aunque unos 2 siglos más tarde, [Robert Louis
+Stevenson][stevenson], quien se inspiró en él (el pub) para la posada Almirante
+Belbow de su novela [La Isla del Tesoro[isla del tesoro].
 
 Por cierto, muy graciosa la palabra pub. Resulta que viene de acortar
 el nombre original "PUBlic House". Que no es que fueran casas
@@ -56,7 +49,7 @@ significa porque no tengo ni idea), y me gusta mucho porque es como
 varias chozas de madera unidas, y en cada una hay una estufa en el
 centro. Está todo hecho en madera y es bastante chulo y muy
 acogedor. Aparte de bebercio por lo visto también sirven comida
-(bueno, como en todos los pubs), y creo que preparan `buenos desayunos`_
+(bueno, como en todos los pubs), y creo que preparan [buenos desayunos][desayunos]
 continentales. Me tendré que acercar un día a desayunar aquí (lo llevo
 pensando ya tiempo, pero siempre me da mucha pereza salir de casa sin
 desayunar ni ná. Y temprano, claro, porque a las 10 o las 11 aquí no son
@@ -67,4 +60,11 @@ horas de desayunar. Me tocará ir un día de diario).
 
    El *Yurt Lush*, que parece una cabaña
 
-.. _buenos desayunos: https://eatdrinkbristolfashion.co.uk/yurt-lush/menus
+
+[crusoe]: https://es.wikipedia.org/wiki/Robinson_Crusoe
+[defoe]: https://es.wikipedia.org/wiki/Daniel_Defoe
+[desayunos]: https://eatdrinkbristolfashion.co.uk/yurt-lush/menus
+[isla del tesoro]: https://es.wikipedia.org/wiki/La_isla_del_tesoro
+[llandoger]: https://en.wikipedia.org/wiki/Llandoger_Trow
+[selkirk]: https://es.wikipedia.org/wiki/Alexander_Selkirk
+[stevenson]: https://es.wikipedia.org/wiki/Robert_Louis_Stevenson

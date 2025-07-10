@@ -9,26 +9,25 @@ description: Un vistazo a la celebración de la noche de Guy Fawkes
 thumbnail: /img/guy-fawkes-mask.png
 ---
 
-::
-
+```
   Remember, remember
   the fifth of November,
   Gunpowder, treason and plot.
   We see no reason
   Why gunpowder treason
   Should ever be forgot!
-
+```
 .. TEASER_END
 
-Estos versos, que sin duda conoceréis por la película `V de
-Vendetta`_, son el comienzo de un poema popular británico sobre *la
+Estos versos, que sin duda conoceréis por la película [V de
+Vendetta][vendetta], son el comienzo de un poema popular británico sobre *la
 conspiración de la pólvora*. En la noche del 5 de Noviembre de 1605 un
 grupo de trece católicos quiso asesinar al rey protestante Jaime I de
 Inglaterra, y reemplazarlo por su hija, la princesa Isabel (la del
 atún claro). La idea era hacer volar el Parlamento precisamente
 durante el acto de inauguración.
 
-.. _V de Vendetta: http://www.imdb.com/title/tt0434409/
+[vendetta]: http://www.imdb.com/title/tt0434409/
 
 La conspiración se tramó durante más de un año, ya que al parecer, los
 cinco principales malandrines empezaron a reunirse en diversos pubs de
