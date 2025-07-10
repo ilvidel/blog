@@ -1,17 +1,17 @@
-baseurl = "https://ilvidel.github.io/"
-languageCode = "es"
+baseurl = "http://ilvidel.github.io/"
+languageCode = "es-es"
 title = "Viviendo en Bristol"
 paginate = "10" # Number of posts per page
-#theme = "mainroad"
+theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "UA-56289011-2" # Enable Google Analytics by entering your tracking id
 
-[Author]
+[author]
     name = "Ignacio Díez"
     bio = "Un tonto viviendo en Bristol. Y encima, lo cuenta."
     avatar = "img/avatar.png"
 
-[Params]
+[params]
     subtitle = "Turismo y Tonterías" # Subtitle of your site
     description = "Curiosidades y otras memeces sobre mi vida en Bristol" # Description of your site
     opengraph = true
@@ -19,8 +19,19 @@ googleAnalytics = "UA-56289011-2" # Enable Google Analytics by entering your tra
     authorbox = true
     post_navigation = true
 
-[Params.widgets]
+[params.widgets]
     search = false # Enable "Search" widget
     recent_articles = true # Enable "Recent arcticles" widget
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^rst2html.py$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
