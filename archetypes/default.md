@@ -1,0 +1,4 @@
++++
+tags = ["bristol"]
+categories = ["turismo"]
++++
