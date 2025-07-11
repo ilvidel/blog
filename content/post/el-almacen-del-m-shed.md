@@ -23,7 +23,7 @@ que, por una razón u otra, no están expuestos al público. ¿Un montón
 de trastos viejos y "secretos"? Tenía que ir. Así que nos organizamos
 un día y nos acercamos a verlo.
 
-.. TEASER_END
+
 
 Las visitas las realizan voluntarios, y son una forma de dar a conocer
 todos esos objetos que, de otra forma, permanecerían ocultos para

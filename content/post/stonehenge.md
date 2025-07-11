@@ -17,7 +17,7 @@ que opté por coger un coche. Fue bastante interesante eso de tener el
 volante a la derecha y conducir por el carril izquierdo, con las
 rotondas en sentido horario, etc.
 
-.. TEASER_END
+
 
 Al final fue una de las mejores cosas del viaje, la verdad. Tardé una
 hora y media en llegar, que para 70 Km es una barbaridad, pero claro…

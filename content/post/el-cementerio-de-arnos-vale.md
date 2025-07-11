@@ -14,7 +14,7 @@ en casa. Era un domingo por la tarde, de esos que no te apetece hacer
 nada, ni hay nada interesante que ver ni hacer; así que cogí la cámara
 y me decicí a visitar el cementerio de Arnos Vale.
 
-.. TEASER_END
+
 
 Arnos Vale es un barrio, o distrito, o algo así, no sé muy bien cómo
 se organizan. El caso es que ví el cementerio una vez desde el

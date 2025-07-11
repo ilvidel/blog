@@ -19,7 +19,7 @@ realidad tiene 3 partes: además del puente, allí me encontré con una
 cámara oscura y una cueva que se podía visitar. Así que, como dijo
 *Jack el Destripador*, vayamos por partes.
 
-.. TEASER_END
+
 
 [puente]: http://www.cliftonbridge.org.uk/visit
 [wikipedia]: https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge

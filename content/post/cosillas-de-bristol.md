@@ -24,7 +24,7 @@ verjita delantera, su ventanal como el de los Simpsons… Todo muy
 victoriano. De hecho, la mayoría de las casas son de esa época, súper
 viejunas, con los suelos de madera y todo.
 
-.. TEASER_END
+
 
 En la época victoriana (finales del siglo XVIII y principios del XIX,
 para quien no lo sepa) no existía la calefacción como la conocemos hoy

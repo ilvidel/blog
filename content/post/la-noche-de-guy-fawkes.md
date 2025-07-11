@@ -17,7 +17,7 @@ thumbnail: /img/guy-fawkes-mask.png
   Why gunpowder treason
   Should ever be forgot!
 ```
-.. TEASER_END
+
 
 Estos versos, que sin duda conoceréis por la película [V de
 Vendetta][vendetta], son el comienzo de un poema popular británico sobre *la

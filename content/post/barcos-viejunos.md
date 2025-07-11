@@ -15,7 +15,7 @@ nacido hace 150 años, cuando todo era nuevo y había innovaciones cada
 semana. En fin, cuando consiga hacer funcionar mi máquina del tiempo
 seré feliz.
 
-.. TEASER_END
+
 
 El caso es que me he ido a dar una vuelta por el puerto de Bristol. Es
 un puerto fluvial, como el de Sevilla, y es que el río Avon es

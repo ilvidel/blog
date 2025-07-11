@@ -15,7 +15,7 @@ hay en Bristol, pero cuando he llegado estaban en misa. He esperado un
 rato fuera, pero tardaban mucho, así que he pensado que para esperar
 fuera, pues esperaba dentro.
 
-.. TEASER_END
+
 
 He entrado y me he sentado en la parte de atrás, y he observado cómo
 era la misa. Ha sido curioso porque la mayor parte del tiempo se la

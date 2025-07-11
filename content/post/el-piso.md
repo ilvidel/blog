@@ -16,7 +16,7 @@ que no son buenos. No es que esté penando, ni mucho menos, pero son
 cosas que incomodan, y que no te das cuenta de ellas hasta que entras
 a vivir.
 
-.. TEASER_END
+
 
 Por ejemplo, una de las cosas que no noté cuando lo vi antes de
 firmar, es que ni la cocina ni el baño tienen radiadores. Por la
