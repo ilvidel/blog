@@ -6,7 +6,7 @@ tags: ["ola", "marea", "bristol", "rio"]
 categories:
   - turismo
 description:
-thumbnail: http://jamiecooperphotography.co.uk/wp-content/uploads/galleries/post-1047/full/01%20bore.jpg
+thumbnail: http://i.dailymail.co.uk/i/pix/2014/03/03/article-0-1BFEF0A400000578-800_964x994.jpg
 ---
 
 Hoy he ido a trabajar por el camino que bordea el río. No sé si anoche
@@ -16,10 +16,7 @@ es por la marea, y que hay una cosa bastante chula que se llama *ola
 de marea*. Aquí lo llaman *the Severn bore* (lo de Severn es por el
 río). Veréis cómo va la cosa:
 
-.. TEASER_END
-
-.. figure:: /img/bristol-channel.png
-   :width: 100%
+![](/img/bristol-channel.jpg)
 
 Si miráis el mapa de Inglaterra, veréis un gran canal en el
 suroeste. Ese es el río Severn. Cuando sube la marea, la corriente va
@@ -28,8 +25,7 @@ se forma una ola. Al ir estrechándose, el agua no se puede comprimir,
 así que va hacia donde tiene sitio: para arriba. De esa forma, poco a
 poco se va formando una ola. Es una única ola, que remonta el río.
 
-.. figure:: http://i.dailymail.co.uk/i/pix/2014/03/03/article-0-1BFEF0A400000578-800_964x994.jpg
-   :width: 100%
+![](http://i.dailymail.co.uk/i/pix/2014/03/03/article-0-1BFEF0A400000578-800_964x994.jpg)
 
 Como las mareas no son todas iguales, la ola es unas veces más alta y
 otras más baja. Hay algunas páginas web en las que se puede ver la
