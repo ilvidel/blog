@@ -23,11 +23,8 @@ y tal. Pero claro, eso no es el viaje. Tienes que salir de casa y
 llegar a un hotel. De puerta a puerta, fueron nada menos que *11
 horazas*.
 
-.. TEASER_END
-
-
 Lo primero es ir al aeropuerto. Como era día de diario y en horas de
-oficina, no podía engañar a nade para llevarme, así que cogí el bus
+oficina, no podía engañar a nadie para llevarme, así que cogí el bus
 del aeropuerto. Salgo de casa a las 11:45. Por suerte la parada está
 cerca, así que no tengo que andar mucho bajo la solanera. A las 12:03
 me subo al bus. Mi vuelo no era hasta las 15:00, pero claro, el
@@ -52,7 +49,7 @@ estás mirando que no haya algún avispao que se lleve lo que no es
 suyo.
 
 O no. Quizá está todavía en la máquina de rayos X porque llevas una
-bolsa de mentos dentro y ellos han decidido que esas sombras redondas
+bolsa de Mentos dentro y ellos han decidido que esas sombras redondas
 son sospechosas y te van a hacer abrirla y enseñar los calzoncillos de
 repuesto a todo el que esté por allí cerca.
 
@@ -104,7 +101,7 @@ preocupes, porque es el momento de que el encargado de cabina (azafato
 jefe) suba el volumen al 12 para dar un mensaje de 7 minutos sobre la
 cantidad de cosas que puedes comprar a bordo y cómo puedes pagar, y
 las revistas que puedes leer y los descuentos que puedes tener. Lo
-cuál no te importa una mierda, porque estás en una avión, no en un
+cuál no te importa una mierda, porque estás en un avión, no en un
 centro comercial. Pero la línea aérea ya ha pensado en todo, para
 cobrarte extra por poder comer a 30000 pies.
 
@@ -146,7 +143,7 @@ andenes) está todo bajo tierra. Consigo encontrar, después de
 preguntar a 3 personas distintas, un billete para Brno. Que sale
 dentro de ¡1 hora! A volver a esperar. Qué coñazo.
 
-Por supesto, los de la estación de tren ya han pensado en eso, y la
+Por supuesto, los de la estación de tren ya han pensado en eso, y la
 han llenado de restaurantes, tiendas, etc. Pero lo primero es lo
 primero. Mear. Y tengo que pagar la extorsión, o no meo. Y todo esto
 con la maleta y la mochila a cuestas, y con un calor de copón. O frío
