@@ -4,7 +4,7 @@ title = "Viviendo en Bristol"
 # paginate = "5" # Number of posts per page
 theme = "mainroad"
 # disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-56289011-2" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "G-481WDDBSRV" # Enable Google Analytics by entering your tracking id
 
 [author]
     name = "Ignacio Díez"
