@@ -37,7 +37,7 @@ theme = "mainroad"
 [Params.logo]
 	subtitle = "Turismo y Tonterías"
 	# image = "img/placeholder.jpg" # Logo image. Path relative to "static"
- 	title = "Mainroad" # Logo title, otherwise will use site title
+ 	# title = "" # Logo title, otherwise will use site title
 
 [Params.style.vars]
   highlightColor = "#e22d30" # Override highlight color
