@@ -66,3 +66,8 @@ theme = "mainroad"
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+	  unsafe = true

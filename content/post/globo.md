@@ -10,7 +10,11 @@ description: Paseo en globo aerostático sobre Bristol
 thumbnail: "img/balloon.jpg"
 ---
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/40823368203/in/dateposted-public/" title="Stuart the Minion Balloon"><img src="https://live.staticflickr.com/65535/40823368203_a753d7d598_z.jpg" width="640" height="400" alt="Stuart the Minion Balloon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/40823368203/in/dateposted-public/" title="Stuart the Minion Balloon">
+	<img src="https://live.staticflickr.com/65535/40823368203_a753d7d598_z.jpg" width="640" height="400" alt="Stuart the Minion Balloon">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">
+</script>
 
 Una de las cosas que tenía pendientes por hacer en Bristol era montar
 en globo. Todos los años en verano, a principios de Agosto, se
@@ -33,7 +37,11 @@ y probar, hasta que lo consigas. Y lo malo es que no vas a tener
 confirmación hasta pocas horas antes, así que no puedes planificar
 el día.
 
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/149690786@N07/47736297822/in/album-72157678111626387/" title="Sin título"><img src="https://live.staticflickr.com/65535/47736297822_b1bc8350f8_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/149690786@N07/47736297822/in/album-72157678111626387/" title="Sin título">
+<img src="https://live.staticflickr.com/65535/47736297822_b1bc8350f8_z.jpg" width="640" height="480" alt="Sin título">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">
+</script>
 
 Una vez que por fin te dicen que sí, que vas a volar, tienes que ir al
 sitio del despuegue, claro. En Bristol se hace desde el mismo sitio
@@ -61,7 +69,11 @@ rato, lo suficiente para empezar a preguntarnos qué pasa si no vuelve
 a soplar. Más que nada porque ya no estábamos encima de la zona de
 despegue, sino sobre el cañón del río.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/47788554211/in/album-72157678111626387/" title="Dársena"><img src="https://live.staticflickr.com/65535/47788554211_350ef2ff75_z.jpg" width="640" height="400" alt="Dársena"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/47788554211/in/album-72157678111626387/" title="Dársena">
+<img src="https://live.staticflickr.com/65535/47788554211_350ef2ff75_z.jpg" width="640" height="400" alt="Dársena">
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">
+</script>
 
 Por suerte --y como era de esperar-- el viento volvió a soplar y
 empezamos a viajar en dirección noreste. Pudimos ver muchas cosas
@@ -90,7 +102,13 @@ suerte, no volcamos.
 
 Como siempre, aquí os dejo el álbum de fotos, y algunos vídeos.
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/149690786@N07/32845124747/in/album-72157678111626387/" title="SS Great Britain"><img src="https://live.staticflickr.com/65535/32845124747_b0842b74f7_z.jpg" width="640" height="400" alt="SS Great Britain"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/149690786@N07/albums/72157678111626387" title="Vuelo en globo">
+<img src="https://live.staticflickr.com/65535/32845124747_b0842b74f7_b.jpg" alt="Vuelo en globo"/>
+</a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8">
+</script>
+
+
 
 [fiesta]: http://bristolballoonfiesta.co.uk/
 [ciervos]: ../ciervos
