@@ -2,7 +2,7 @@
 title: El Voleibol en UK
 slug: voleibol-en-uk
 date: 2017-11-26
-tags: ["voleibol", "volley"]
+tags: ["voleibol"]
 categories:
   - ocio
 description: Comparación del voleibol en Inglaterra con el de España
@@ -33,7 +33,7 @@ El nivel del voleibol aquí no es gran cosa (tampoco es que en España
 sea espectacular, pero es más alto, y más... _serio_); sin embargo, lo
 que he notado es que hay **mucho** voleibol. Además de las ligas
 nacionales, se organizan ligas locales, regionales, torneos de todo
-tipo... Eso sí, la mayoría de los participantes son en su gran -gran-
+tipo… Eso sí, la mayoría de los participantes son en su gran -gran-
 mayoría, senior. No hay casi deporte de base, al menos por mis
 alrededores.
 
@@ -66,12 +66,11 @@ _open_, por lo que se puede apuntar cualquier equipo (tanto federado
 como no federado; es decir no es requisito participar en la NVL para
 competir en la National Cup).
 
-Lo de «Cup and Shield» es porque hay ronda de perdedores. Se juega una
-primera ronda, que comienza en Octubre; los equipos que hayan perdido
-sus partidos pasan a la _Shield_. A partir de aquí, ambas
-competiciones (la _Cup_ y la _Shield_) discurren paralelas, y se
-juegan las jornadas de octavos, los cuartos y semifinales repartidas
-durante la temporada, hasta Abril, cuando se juegan las finales.
+Lo de «Cup and Shield» es porque hay 2 divisiones: los equipos que
+jueguen en Superliga y División 1, juegan **La Copa** y los de
+División 2, División 3 y otros, el **Shield**. Ambas competiciones
+suelen empezar en Octubre, y luego se juegan todas las finales en
+Abril, junto con las finales de otras competiciones (sub19, sub16, etc).
 
 ## Ligas no federadas
 
