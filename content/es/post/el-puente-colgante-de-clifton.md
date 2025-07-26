@@ -25,8 +25,7 @@ cámara oscura y una cueva que se podía visitar. Así que, como dijo
 [wikipedia]: https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge
 
 
-El Observatorio y el Puente
----------------------------
+# El Observatorio y el Puente
 
 Cogí un autobús y como buen turista pardillo, me subí a la planta de
 arriba, a sentarme en el ventanal, en primera fila (sí, aquí también
@@ -71,13 +70,10 @@ que había por entonces.
 
 [brunel]: https://es.wikipedia.org/wiki/Isambard_Kingdom_Brunel
 
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051827610/in/album-72157677325015386/" title="p3250099"><img src="https://c3.staticflickr.com/6/5515/31051827610_bcca9bf4cf_z.jpg" width="640" height="480" alt="p3250099"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051827610/in/album-72157677325015386/" title="p3250099"><img src="https://c3.staticflickr.com/6/5515/31051827610_bcca9bf4cf_z.jpg" width="640" height="480" alt="p3250099"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-La Cámara Obscura
------------------
+# La Cámara Obscura
 
 La construcción que os comentaba es un edificio de piedra que alberga
 el centro de visitantes, con su oficina de información, un bar y una
@@ -91,8 +87,6 @@ siendo calcar.
 
 [camara]: https://es.wikipedia.org/wiki/C%C3%A1mara_oscura
 
-.. raw:: html
-
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30599858784/in/album-72157677325015386/" title="p3250076"><img src="https://c1.staticflickr.com/6/5589/30599858784_43b0b00659_z.jpg" width="640" height="480" alt="p3250076"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 La luz entra por la lente y el espejo la redirige y la proyecta sobre
@@ -102,8 +96,6 @@ ver los alrededores proyectados en la tabla. Es el principio de las
 cámaras de fotos. El aparato tiene una manivela que puedes ir girando
 para apuntar a uno u otro lado, de forma que puedes ver todo el
 entorno.
-
-.. raw:: html
 
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051881450/in/album-72157677325015386/" title="p3250092"><img src="https://c3.staticflickr.com/6/5545/31051881450_688b6c2b6e_z.jpg" width="640" height="480" alt="p3250092"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -117,12 +109,13 @@ Clifton][observatorio] hay más información.
 [observatorio]: http://www.cliftonobservatory.com/
 [tavira]: https://es.wikipedia.org/wiki/Torre_Tavira
 
-.. figure:: http://www.cliftonobservatory.com/wp-content/uploads/2015/05/count_christoph-Instagram.jpg
+<center>
+<img src="https://cliftonobservatory.com/wp-content/uploads/2025/04/IMG_8971-scaled.jpg"/>
+<p>Imagen proyectada sobre la mesa de la cámara obscura.</p>
+</center>
 
-   Imagen proyectada sobre la mesa de la cámara obscura.
 
-La Cueva de los Gigantes
-------------------------
+# La Cueva de los Gigantes
 
 Dentro del observatorio también se encuentra la entrada a «La Cueva
 de los Gigantes». Según el folclore popular, en Bristol vivieron hace
@@ -144,14 +137,14 @@ cabía. Al final llegas a un mirador que da a uno de los lados del
 desfiladero.  Después te toca volver a subir, gateando por las
 escaleras y rezando para que no baje nadie mientras tú subes. Cuando
 por fin sales tienes agujetas en las piernas. Es parte de la
-visita. Os dejo un vídeo de la bajada.
+visita. Os dejo un vídeo de la bajada. Podéis ver más fotos en
+[Flickr][flickr].
+
 
 {{< youtube QKTGzJcGeB4 >}}
 
-Podéis ver más fotos en [Flickr][flickr]:
 
 [flickr]: https://www.flickr.com/photos/149690786@N07/albums/72157677325015386
 
-.. raw:: html
 
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/albums/72157677325015386" title="Suspension Bridge"><img src="https://c2.staticflickr.com/6/5631/30614043433_200d4f7886_z.jpg" width="640" height="480" alt="Suspension Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
