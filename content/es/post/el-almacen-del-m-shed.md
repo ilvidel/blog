@@ -1,5 +1,4 @@
 ---
-type: index
 title: El Almacén del M-Shed
 slug: m-shed
 date: 2016-12-04
@@ -23,8 +22,6 @@ que, por una razón u otra, no están expuestos al público. ¿Un montón
 de trastos viejos y "secretos"? Tenía que ir. Así que nos organizamos
 un día y nos acercamos a verlo.
 
-
-
 Las visitas las realizan voluntarios, y son una forma de dar a conocer
 todos esos objetos que, de otra forma, permanecerían ocultos para
 siempre, puesto que no tienen lugar donde exhibirlos. Una de las
@@ -40,6 +37,8 @@ todo, restos del pasado industrial de Bristol de finales del siglo
 XIX, maquetas de barcos -tanto antiguos como nuevos-, engranajes de 2
 metros de diámetro, ordenadores de los años 60/70…
 
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276712642/in/album-72157677325015396/" title="PB240300"><img src="https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_z.jpg" width="640" height="361" alt="PB240300"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Empezamos viendo una foto del puerto y las naves de almacenamiento en
 los años 1960, con todas las grúas en uso. Nos contó que las grúas aún
 funcionan, y de hecho las usan de vez en cuando, si tienen que mover
@@ -47,19 +46,13 @@ algo del almacén (más adelante veremos un ejemplo). Si alguien no sabe
 a qué grúas me refiero, que eche un vistazo al post
 [Barcos Viejunos][barcos viejunos].
 
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276712642/in/album-72157677325015396/" title="PB240300"><img src="https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_z.jpg" width="640" height="361" alt="PB240300"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Vimos también un montón de bicis y motocicletas antiguas. Algunas en
 un estado aceptable, otras sólo en el chasis. Al parecer, había una
 fábrica de motos, la Douglas, que se hizo muy famosa durante la
 primera guerra mundial, ya que fabricó miles de motos para el
 ejército.
 
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276712642/in/album-72157677325015396/" title="PB240300"><img src="https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_z.jpg" width="640" height="361" alt="PB240300"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30599983814/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5708/30599983814_98f2c1fba1_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Esto es una calesa utilizada en actos oficiales por el Alcalde, o por
 algún mandatario de más alto rango, si se tercia. Se dice que la
@@ -74,18 +67,14 @@ falta. Para sacarla, utilizan las grúas del puerto. El ayuntamiento ya
 no posee cuadras ni caballos y si alguna vez necesitan usarla,
 alquilan los caballos.
 
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30599983814/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5708/30599983814_98f2c1fba1_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276675542/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5836/31276675542_7333ec2cd5_z.jpg" width="640" height="360" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Otra de las curiosidades más llamativas es esta pequeña sonda. Se
 fabricó aquí, en la Universidad de Bristol, y es un prototipo de sonda
 para medir rayos cósmicos. Esta en concreto no llegó a utilizarse -por
 ser un prototipo-, pero la NASA sí que utilizó otras basadas en esta.
 
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276675542/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5836/31276675542_7333ec2cd5_z.jpg" width="640" height="360" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276672902/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5493/31276672902_31d253c99f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 En la nave había un montón de restos del pasado industrial aeronáutico
 de Bristol, pero la más curiosa era esta rueda del [Bristol
@@ -97,10 +86,6 @@ la clase fetén). Para haceros una idea, 8m³ es como estar dentro de un
 cubo de 2 metros de lado (2x2x2). Cuando viajo a España con EasyJet mi
 espacio debe de ser, a ojo, algo así como 0.6x0.8x1.8 (y eso siendo
 generoso) es decir, menos de 1m³.
-
-.. raw:: html
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276672902/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5493/31276672902_31d253c99f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 No voy a poner más cosas, porque podría estar escribiendo horas. En el
 [álbum][album] hay más fotos (iré poniendo comentarios, aún no he tenido
