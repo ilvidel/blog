@@ -30,7 +30,7 @@ de [Volleyball England][ve], que es la federación de Inglaterra.
 # Competiciones y Ligas
 
 El nivel del voleibol aquí no es gran cosa (tampoco es que en España
-sea espectacular, pero es más alto, y más... _serio_); sin embargo, lo
+sea espectacular, pero es más alto, y más… _serio_); sin embargo, lo
 que he notado es que hay **mucho** voleibol. Además de las ligas
 nacionales, se organizan ligas locales, regionales, torneos de todo
 tipo… Eso sí, la mayoría de los participantes son en su gran -gran-

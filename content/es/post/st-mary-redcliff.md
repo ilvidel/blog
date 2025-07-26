@@ -21,7 +21,7 @@ He entrado y me he sentado en la parte de atrás, y he observado cómo
 era la misa. Ha sido curioso porque la mayor parte del tiempo se la
 han pasado cantando. En España he visitado muchas iglesias y
 catedrales antiguas como esta, de la Edad Media, y todas son iguales:
-planta en forma de cruz, atril, púlpito, coro, altar... Algunas, como
+planta en forma de cruz, atril, púlpito, coro, altar… Algunas, como
 esta, tienen órgano. Lo curioso es que en la mayoría de ellas ya no se
 usa casi ninguna de estas cosas. Pues aquí sí. El coro se usa, y los
 *coristas* (bueno, mejor llamémoslos «miembros del coro») se sientan
@@ -35,13 +35,13 @@ Una vez que ha terminado la ceremonia, he cogido una guía y me he dado
 una vuelta por la iglesia. Saben que es un lugar turístico, así que
 tienen una especie de centro de información y tienda de recuerdos en
 la parte más alejada del altar. La iglesia no os la cuento,
-porque... bueno, pues es más o menos como todas las de su estilo. Del
+porque… bueno, pues es más o menos como todas las de su estilo. Del
 siglo XIV, estilo gótico, etc, etc. Podéis ver las fotos en
 Flickr_. Sí que tenía algunas cosas curiosas, como por ejemplo un
 [péndulo caótico][caotico], que es una cosa que normalmente encuentras
 en algún tipo de museo o exhibición científica, no en una iglesia.
 
-Este, además, era bastante curioso. Para quien no lo sepa... bueno, un
+Este, además, era bastante curioso. Para quien no lo sepa… bueno, un
 [péndulo][péndulo] sabemos todos lo que es, ¿no?. Una de las
 propiedades de un péndulo es que es un sistema determinista; es decir,
 sabiendo las condiciones iniciales, se puede predecir cuál será su

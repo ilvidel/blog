@@ -18,7 +18,7 @@ puedo hacer fotos de dentro de la oficina.
 El lugar en sí mola bastante. Es un espacio abierto con un montón de
 puestos de trabajo, pero sin «cajoneras» de esas que no te dejan ver
 al compañero. Estamos agrupados normalmente de 6 en 6 (tres en frente
-y tres a la espalda. Mmmm... no sé si se entiende, pero no se me ocurre
+y tres a la espalda. Mmmm… no sé si se entiende, pero no se me ocurre
 cómo explicarlo mejor. Es un edificio de esos con todo ventanal, sin
 pared exterior, así que entra mucha luz y tiene unas vistas muy
 chulas. Justo enfrente tenemos la estación de tren, y me gusta ver los
@@ -61,17 +61,17 @@ trataba de qué hacer cuando vas a esquiar y hay una avalancha. El tipo
 por lo visto va bastante a esquiar (claro, es suizo) y preparó una
 charla súper interesante sobre qué equipo llevar, cómo saber si hay
 riesgo de avalancha, qué hacer si te ves envuelto en una, cómo sacar a
-alguien de la nieve... Muy muy interesante. Y si tenemos mucha suerte,
+alguien de la nieve… Muy muy interesante. Y si tenemos mucha suerte,
 es posible que después nos inviten a pizza para comer!
 
 {{< figure src="https://www.scoffable.com/static/vendors/1586/2/logo.svg" width="50%" align="center" >}}
 
-Y bueno, en cuanto al trabajo... me toca hacer un poco de todo. Estoy
+Y bueno, en cuanto al trabajo… me toca hacer un poco de todo. Estoy
 en el equipo de Infraestructura, así que nos encargamos del
 mantenimiento de toda la logística que tenemos para ofrecer el
-servicio (servidores, bases de datos, red...) pero también hago un
+servicio (servidores, bases de datos, red…) pero también hago un
 poco de *IT guy* para el resto de gente de la empresa: dar de
-alta/baja usuarios, asignar permisos... Y por si fuera poco,
+alta/baja usuarios, asignar permisos… Y por si fuera poco,
 intentamos desarrollar nuestras propias herramientas, para poder hacer
 todas estas cosas un poco más automáticamente y menos manual.
 

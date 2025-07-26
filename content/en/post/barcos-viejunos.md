@@ -68,7 +68,7 @@ earlier][america] (although, being so brute, they didn't stop and
 write history or make maps, so it's not very clear).
 
 They let you wander around almost the entire ship, go down to the
-hold, see where they sleep, how the rudder works... Very cool. There
+hold, see where they sleep, how the rudder works… Very cool. There
 are several documents that explain how things worked on the ship in
 the 15th/16th century. There are even small cannons that I don't know
 if they're real, or if they've just put them on the replica for
@@ -181,7 +181,7 @@ By the way, those gentlemen you see in the photos are dolls. The ship
 is not only restored, but also decorated as if it were on a
 voyage. There are several mannequins scattered throughout the ship,
 representing passengers, crew, the doctor, the barber, the
-captain... On this deck, you can also see part of the engine working,
+captain… On this deck, you can also see part of the engine working,
 the "toilets," and several suitcases scattered about haphazardly.
 
 Further down is the second deck. In the stern area, under the cabins,

@@ -59,7 +59,7 @@ muchas cosas curiosas y que no se aprenden en el colegio. Por ejemplo,
 sorprende ver lo pequeño que es el barco. Es un barco de madera, de
 unos 20 metros de eslora y no tendrá más de 5 o 6 metros de
 manga. Cuando uno piensa en cruzar el océano en un barco, suele pensar
-en un barco... hermoso. Grandote. Robusto. Y este es un barquito, un
+en un barco… hermoso. Grandote. Robusto. Y este es un barquito, un
 cascarón de nuez que se balanceaba con el poco movimiento del agua
 tranquila del río. Y aún así, cruza el océano en 50 días. A vela. No
 sé, es bastante impresionante pensar eso y verlo en persona. Cuando
@@ -73,7 +73,7 @@ tan brutos, no se pararon a escribir la historia ni hacer mapas, así
 que no está muy claro).
 
 Te permiten deambular por -casi- todo el barco, bajar a la bodega, ver
-dónde duermen, cómo funciona el timón... Muy chulo. Hay varios
+dónde duermen, cómo funciona el timón… Muy chulo. Hay varios
 documentos que explican cómo funcionaban las cosas en el barco en el
 siglo XV/XVI. Hay incluso pequeños cañones que no sé si serán de
 verdad, o los han puesto ahora en la réplica en plan decorativo/para
@@ -187,7 +187,7 @@ Por cierto, esos señores que se ven en las fotos son muñecos. El barco
 no sólo está restaurado, sino también ambientado como si estuviera en
 un viaje. Hay varios maniquíes repartidos por todo el barco,
 representando pasajeros, tripulación, el médico, el barbero, el
-capitán... En esta cubierta también se puede ver parte del motor
+capitán… En esta cubierta también se puede ver parte del motor
 funcionando, los «aseos» y varias maletas repartidas sin ton ni son.
 
 Más abajo está la segunda cubierta. En la zona de popa, bajo los
