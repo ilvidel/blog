@@ -119,25 +119,22 @@ en la casa y esté también haciendo ofertas, claro. Pero tú no sabes lo
 que ofrecen los otros, ni te lo dicen. Todo a ciegas. Lo cual es
 estúpido. Conversación real:
 
--- Buenas, que ofrezco 200K
--- Pues es que te puedo decir que eso lo van a rechazar, porque
-hay gente que ha ofrecido más y lo rechazaron.
--- Ah, y ¿cuánto es lo máximo que han rechazado? ¿En cuánto está la
-puja?
--- No lo puedo decir.
--- Vaya. Bueno, pues ¿qué tal si ofrezco 203K?
--- Lo van a rechazar
--- 204K
--- Lo mismo
--- ¿Ves a dónde voy, no?
--- Sí
--- ¿Ves que al final voy a averiguar el precio?
--- Sí
--- ¿No tiene sentido, verdad?
--- No
--- ¿Y por qué no dejas de perder el tiempo, hacerme perder el mio, y
-me lo dices?
--- Es lo que hay
+<p style="margin: 0">-- Buenas, que ofrezco 200K</p>
+<p style="margin: 0">-- Pues es que te puedo decir que eso lo van a rechazar, porque hay gente que ha ofrecido más y lo rechazaron.</p>
+<p style="margin: 0">-- Ah, y ¿cuánto es lo máximo que han rechazado? ¿En cuánto está la puja?</p>
+<p style="margin: 0">-- No lo puedo decir.</p>
+<p style="margin: 0">-- Vaya. Bueno, pues ¿qué tal si ofrezco 203K?</p>
+<p style="margin: 0">-- Lo van a rechazar</p>
+<p style="margin: 0">-- 204K</p>
+<p style="margin: 0">-- Lo mismo</p>
+<p style="margin: 0">-- ¿Ves a dónde voy, no?</p>
+<p style="margin: 0">-- Sí</p>
+<p style="margin: 0">-- ¿Ves que al final voy a averiguar el precio?</p>
+<p style="margin: 0">-- Sí</p>
+<p style="margin: 0">-- ¿No tiene sentido, verdad?</p>
+<p style="margin: 0">-- No</p>
+<p style="margin: 0">-- ¿Y por qué no dejas de perder el tiempo, hacerme perder el mio, y me lo dices?</p>
+<p>-- Es lo que hay</p>
 
 [comment]: <> (insertar imagen fuuuuu o facepalm)
 
@@ -252,7 +249,7 @@ hasta cuadra. Es básicamente un tipo que se va a pasear durante un par
 de horas por toda la casa, fisgando, y te va a decir los problemas que
 tiene. O no. Porque claro, en este mundo de abogados nadie, nunca, te
 va a decir que la casa no tiene ningún problema. Casi todo te lo va a
-complementar con _«...pero es posible que no sea visible porque
+complementar con _«…pero es posible que no sea visible porque
 <INSERTE AQUÍ SU EXCUSA FAVORITA>, así que nosotros lo escribimos aquí
 para cubrirnos el culo y que no nos denuncies si no lo hemos
 visto»_. Con otras palabras más bonitas, pero básicamente es eso. Todo

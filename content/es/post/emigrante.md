@@ -5,7 +5,6 @@ date: 2016-04-10
 tags: ["emigrante"]
 categories:
   - personal
-description: Post inicial del blog
 thumbnail: /img/embarque.jpg
 ---
 

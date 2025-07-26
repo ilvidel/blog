@@ -5,7 +5,6 @@ date: 2016-04-19
 tags: ["bristol", "piso"]
 categories:
   - personal
-description: Mi primer piso en Bristol
 ---
 
 El piso que he cogido quizá no haya sido de los mejores que podía

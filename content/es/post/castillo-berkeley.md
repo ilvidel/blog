@@ -5,9 +5,7 @@ date: 2019-08-31
 tags:
   - castillo
 categories:
-  - ocio
   - turismo
-description: Visita al Castillo de Berkeley
 thumbnail: "img/berkeley.jpg"
 ---
 
@@ -21,7 +19,7 @@ mano de obra eran principalmente esclavos.
 El caso es que he visitado el [Castillo de Berkeley][wiki]. Lleva en la
 familia Berkely prácticamente desde su construcción en el siglo XI
 (haciéndolo contemporáneo de los Castillos de Calatrava en Ciudad
-Real. Sólo que éste no está en ruinas), y la familia aún lo
+Real; solo que éste no está en ruinas), y la familia aún lo
 habita. Esto lo convierte en uno de los pocos castillos que han estado
 continuamente (y siguen) habitados en Inglaterrra, y es el tercero más
 antiguo de ellos.

@@ -59,7 +59,7 @@ theme = "mainroad"
 [security]
   enableInlineShortcodes = false
   [security.exec]
-    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', 'rst2html.py']
     osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
   [security.funcs]
     getenv = ['^HUGO_', '^CI$']
@@ -71,3 +71,14 @@ theme = "mainroad"
   [markup.goldmark]
     [markup.goldmark.renderer]
 	  unsafe = true
+
+defaultContentLanguage = 'es'
+[languages]
+  [languages.es]
+    contentDir = 'content/es'
+    languageName = 'Español'
+    weight = 10
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 20

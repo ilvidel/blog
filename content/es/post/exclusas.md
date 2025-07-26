@@ -1,11 +1,10 @@
 ---
-title: El Canal de Bristol
+title: Exclusas del Canal de Bristol
 slug: exclusas
 date: 2016-08-29
-tags: ["exclusas", "barcos"]
+tags: ["exclusas", "barcos", "canal"]
 categories:
   - turismo
-description: Funcionamiento de las exclusas del canal
 thumbnail: /img/mapa-exclusas.png
 ---
 

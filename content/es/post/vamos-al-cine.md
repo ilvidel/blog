@@ -10,14 +10,12 @@ thumbnail: /img/odeon_screen.jpg
 ---
 
 Hoy he ido al cine por primera vez en Bristol. A ver una película en
-versión original, claro -y sin subtítulos-. La peli era Deadpool, y
+versión original, claro -y sin subtítulos-. La peli era *Deadpool*, y
 aunque de la peli en sí me he enterado (tampoco es que tenga un
 argumento muy complejo), sí que me he perdido muchos chistes. Algunos
 porque no comprendía el chiste (referencias a cosas
 americanas/inglesas que no conozco), y otros porque directamente no
 entendía una mierda de lo que decía.
-
-
 
 Pero bueno, eso no es el tema. A lo que iba es al cine en sí, a la
 experiencia. Aquí no es como en España, que hay un oligopolio y todas
@@ -42,11 +40,12 @@ restricciones y la burocracia inglesas, *(esto ya no es así, lo
 escribí hace tiempo)* no pude comprar la entrada por interné, así que
 fui a la taquilla. El pase comenzaba a las 20:45, y llegué sobre las
 20:40. No calculé bien lo que tardaría en llegar, y ya estaba pensando
-que me iba a perder los tráilers y el Movirecord. Qué iluso. Ahora os
-cuento. El tipo de la taquilla -el taquillero para sus amigos- me dijo
-que podía elegir asiento, que dónde lo quería. «Y yo qué coño sé,
-muchacho, si no me conozco la sala», pensé yo pa dentro. En inglés,
-claro.
+que me iba a perder los tráilers y el
+[Movirecord](https://www.youtube.com/watch?v=C6_th-5HJwA). Qué
+iluso. Ahora os cuento. El tipo de la taquilla -el taquillero para sus
+amigos- me dijo que podía elegir asiento, que dónde lo quería. «Y yo
+qué coño sé, muchacho, si no me conozco la sala», pensé yo pa
+dentro. En inglés, claro.
 
 - Pasillo, por favor. - le contesté. Al fin y al cabo es lo que elijo
   siempre, para poder estirar las piernas por un lado si no hay sitio.
@@ -61,10 +60,10 @@ el D14, a la tenue luz que había en la sala. Habría unas 10 personas
 en toda la sala, y curiosamente todas apelotonadas en la misma
 zona. Voy a mi fila y veo que el asiento del pasillo (el mío) está
 ocupado por unos abrigos, y hay una señora caucásica y un hombre de
-color (de color negro, esto tendrá relevancia más adelante). Me quedo
-pensando unos instantes, valorando si no molestarlos y sentarme en
-otro lado, ya que hay tanto sitio libre. Total, la peli debe de estar
-a punto de comenzar…
+color (de color negro, concretamente, esto tendrá relevancia más
+adelante). Me quedo pensando unos instantes, valorando si no
+molestarlos y sentarme en otro lado, ya que hay tanto sitio
+libre. Total, la peli debe de estar a punto de comenzar…
 
 .. figure:: /img/odeon_screen.jpg
    :width: 100%
@@ -116,4 +115,4 @@ follón porque son incapaces de encontrar su asiento en el sistema
 cartesiano más simple y encima te hacen levantarte para pasar a buscar
 su asiento, tirándote sus palomitas y/o su refresco; que es lo que
 pasa en España. Que son los menos, eso sí. La mayoría de la gente
-llega a su hora. Pero son los que más joden.
+llega a su hora. Pero los menos son los que más joden.

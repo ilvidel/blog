@@ -39,7 +39,7 @@ no exagero. No es como en España que, no solo no hay tantas marcas, si
 no que en un bar tienes Mahou y en otro Cruzcampo, y pare usted de
 contar. Nos repartimos la clientela y vamos a llevarnos bien. No. Aquí
 en cada pub tienes un porrón de marcas a elegir, rubias, negras, más
-tostadas, más frutales, con más gas, con menos gas...
+tostadas, más frutales, con más gas, con menos gas…
 
 Otra cosa curiosa es el pescado. Aparte del archiconocido *fish and
 chips*, que tampoco he visto muchos, no hay mucho pescado. En los
@@ -49,7 +49,7 @@ visto de Bristol, tan sólo he visto una pescadería. Raro.
 
 Lo que sí hay, y mucho, son establecimientos de comida. Bocadillos,
 hamburguesas, dulces, comida rápida, comida basura, oriental,
-pakistaní, sudamericana... a porrillo. De lo que más hay, sin
+pakistaní, sudamericana… a porrillo. De lo que más hay, sin
 duda. Comida y ropa. Y en cualquier supermercado que vayas, ya sea
 gran superficie tipo Eroski, mediano como Mercadona o pequeño como los
 badulaques Tesco, la cantidad de estanterías dedicadas a bollería y
@@ -57,7 +57,7 @@ chocolate es ridículamente exagerada. Puede ser perfectamente entre el
 10% y el 20% del establecimiento dedicado a chocolate (a manjorrás) y
 bollos. Y un montón de refrescos, también. Con un montón de sabores,
 cosa que está bien; no es el típico naranja-cola-limón de España. Hay
-refrescos de fresa, de grosellas, de mango, de cereza... Y están
+refrescos de fresa, de grosellas, de mango, de cereza… Y están
 ricos.
 
 Pero lo que más me gusta es el mercadillo de los jueves. Es un mercado
