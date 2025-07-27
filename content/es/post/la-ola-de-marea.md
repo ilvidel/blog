@@ -2,30 +2,34 @@
 title: La Ola de Marea
 slug: la-ola-de-marea
 date: 2016-04-26
-tags: ["ola", "marea", "bristol", "rio"]
+tags: 
+  - ola
+  - marea
+  - bristol
+  - rio
 categories:
   - turismo
-description:
 thumbnail: http://i.dailymail.co.uk/i/pix/2014/03/03/article-0-1BFEF0A400000578-800_964x994.jpg
 ---
 
 Hoy he ido a trabajar por el camino que bordea el río. No sé si anoche
 llovió río arriba o qué ha pasado, pero el río venia llenico,
 llenico. Lo he comentado en el trabajo y un compañero me ha dicho que
-es por la marea, y que hay una cosa bastante chula que se llama *ola
-de marea*. Aquí lo llaman *the Severn bore* (lo de Severn es por el
+es por la marea, y que hay una cosa bastante chula que se llama [ola
+de marea][macareo]. Aquí lo llaman *the Severn bore* (lo de Severn es por el
 río). Veréis cómo va la cosa:
+
+[macareo]: https://es.wikipedia.org/wiki/Macareo_(f%C3%ADsica)
 
 ![](/img/bristol-channel.jpg)
 
 Si miráis el mapa de Inglaterra, veréis un gran canal en el
-suroeste. Ese es el río Severn. Cuando sube la marea, la corriente va
-al revés, río arriba, y como el canal tiene esa forma de cuña/embudo,
-se forma una ola. Al ir estrechándose, el agua no se puede comprimir,
-así que va hacia donde tiene sitio: para arriba. De esa forma, poco a
-poco se va formando una ola. Es una única ola, que remonta el río.
-
-![](http://i.dailymail.co.uk/i/pix/2014/03/03/article-0-1BFEF0A400000578-800_964x994.jpg)
+suroeste. Ese es el Canal de Bristol y el río Severn. Cuando sube la
+marea, la corriente va al revés, río arriba, y como el canal tiene esa
+forma de cuña/embudo, se forma una ola. Al ir estrechándose, el agua
+no se puede comprimir, así que va hacia donde tiene sitio: para
+arriba. De esa forma, poco a poco se va formando una ola. Es una única
+ola, que remonta el río.
 
 Como las mareas no son todas iguales, la ola es unas veces más alta y
 otras más baja. Hay algunas páginas web en las que se puede ver la
