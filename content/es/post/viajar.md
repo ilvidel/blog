@@ -5,7 +5,6 @@ date: 2025-07-04
 tags: ["viajar"]
 categories:
   - turismo
-description: Quejas y despotrique sobre viajes
 thumbnail: img/travel.jpg
 ---
 
