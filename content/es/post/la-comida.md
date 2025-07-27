@@ -16,22 +16,19 @@ aquí: se levantan con el sol, se hacen un buen desayuno, de los de
 ponerse hasta el corvejón, y hala, al trabajo/colegio. La verdad es
 que no he desayunado con nadie, así que no sé en qué consiste ese
 desayuno *diario*. Enfatizo lo de *diario* porque luego está el
-desayuno continental clásico, que se suele tomar el fin de semana, que
+desayuno inglés clásico, que se suele tomar el fin de semana, que
 tienes más tiempo. A veces, incluso fuera de casa, por darte un
 capricho o para no cocinar.
-
-
 
 Durante la jornada laboral no suelen comer mucho. La mayoría suele
 hacerse con una cosa bastante popular llamada **meal deal**. Es una
 especie de oferta 3x2 o algo así: consiste en que puedes elegir un
 sándwich (a veces tienen más cosas, como *tuppers* de pasta o *wraps*
-de ensalada), un refresco (aunque no todos) y una bolsa de patatas
-fritas (de nuevo, no valen todas); las tres cosas por £3.00. Esto se
-lo toman sobre las doce o la una, y ya con eso aguantan hasta la cena,
-que suele ser entorno a las seis o siete de la tarde/noche. Ah, antes
-de eso, se toman una pinta o dos al salir del curro --a las 17:00. Con
-el estómago vacío.
+de ensalada), un refresco y una bolsa de patatas fritas o un
+chocolate; las tres cosas por £3.00. Esto se lo toman sobre las doce,
+y ya con eso aguantan hasta la cena, que suele ser entorno a las seis
+o siete de la tarde/noche, si no antes. Ah, antes de eso, se toman una
+pinta o dos al salir del curro --a las 17:00. Con el estómago vacío.
 
 Ya que menciono las pintas, hablemos de cerveza. En cada pub al que
 vayas tienes, como mínimo, 10 marcas distintas de cerveza y/o sidra. Y
@@ -69,8 +66,6 @@ puesto distinto. De momento tengo dos favoritos: uno que preparan
 hamburguesas rústicas de venado en pan *brioche*, y otro que hacen
 *wraps* vegetarianos de falafel.
 
-.. figure:: /img/market1.jpg
-   :width: 80%
-
-.. figure:: /img/market2.jpg
-   :width: 80%
+<center>
+<img src="/img/market2.jpg" width="80%"/>
+</center>
