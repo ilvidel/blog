@@ -2,10 +2,11 @@
 title: Stonehenge
 slug: stonehenge
 date: 2016-06-07
-tags: ["stonehenge", "piedras"]
+tags: 
+- stonehenge
+- piedras
 categories:
   - turismo
-description: Excursión a Stonehenge, uno de esos sitios que hay que visitar.
 thumbnail: "https://c5.staticflickr.com/6/5647/31050069100_f6739fb212_z.jpg"
 ---
 
@@ -16,8 +17,6 @@ alquilar un coche. El transporte público tarda 3 horas en llegar, así
 que opté por coger un coche. Fue bastante interesante eso de tener el
 volante a la derecha y conducir por el carril izquierdo, con las
 rotondas en sentido horario, etc.
-
-
 
 Al final fue una de las mejores cosas del viaje, la verdad. Tardé una
 hora y media en llegar, que para 70 Km es una barbaridad, pero claro…
@@ -48,10 +47,8 @@ de visitantes, donde hay un «restaurante», tienda de regalos, una
 exposición, etc. Lo de las comillas del restaurante es porque sólo
 tienen comidas frías, ya precocinadas, en plan sándwiches y trozos de
 pastel. Que, por cierto, como tenía hambre y no había echado nada para
-comer, compré algo: un sándwich, una bebida y un postre, 9
-libras. Tela. Ya pueden estar bien los chinatos esos.
-
-.. raw:: html
+comer, compré algo: un sándwich, una bebida y un postre, £9. Tela. Ya
+pueden estar bien los chinatos esos.
 
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051513260/in/album-72157677325015326/" title="Sin título"><img src="https://c5.staticflickr.com/6/5331/31051513260_89129cb1f5_z.jpg" width="640" height="400" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -73,7 +70,7 @@ seguratas hablando con los walkie-talkies, y nadie comprendía nada. Al
 final, tuve que ser yo el que les dijera a todos que se calmaran, que
 sólo había sido el neumático, que había reventado. Todos se calmaron,
 algunos turistas pusieron cara de decepción, y una tipa del complejo
-me dio las gracias. Ya me podía haber dado una entrada gratis, leche.
+me dio las gracias. Ya me podía haber dado una entrada gratis, leches.
 
 [dinamometro]: https://es.wikipedia.org/wiki/Dinamómetro
 [menhir]: https://es.wikipedia.org/wiki/Menhir
@@ -83,8 +80,6 @@ entrada, me gasté las 16 libras (bueno, 11, porque te descuentan las
 £5 que pagas por usar el parking), cogí los mapas y esas cosas que te
 dan, y me dispuse a ir andando hacia los peñascos. Total, no tenía
 prisa y hacía buen tiempo.
-
-.. raw:: html
 
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31304755271/in/album-72157677325015326/" title="Sin título"><img src="https://c8.staticflickr.com/6/5473/31304755271_93298ddb9f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -99,8 +94,6 @@ patatas. Todo el parque está lleno de cosas así, cartelitos que dicen
 no lo puedes ver sin helicóptero. Pero buenos dineros nos has pagao
 por la entrada». Decepcionante.
 
-.. raw:: html
-
    <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276147722/in/album-72157677325015326/" title="Sin título"><img src="https://c3.staticflickr.com/6/5793/31276147722_9b7473e419_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Bueno, en realidad para «ver» esas cosas no hace falta la
@@ -110,7 +103,7 @@ entrada, puedes ir y rodear el cordón que hay alrededor, y luego
 acercarte hasta unos 10 metros, pero no puedes pasear entre ellas. Por
 lo visto, el único día que permiten el acceso es en el solsticio de
 verano, que se monta allí una buena fiesta. Os dejo un vídeo. En el
-pueblo de al lado, Salisbury, tienen una s̶̶e̶c̶t̶a̶ grupo de druidas y
+pueblo de al lado, Salisbury, tienen una ~secta~ grupo de druidas y
 todo. Chalaos. Os dejo un vídeo que he encontrado de un amanecer en el
 solsticio (avanzad hasta el minuto 4:15).
 
@@ -147,8 +140,7 @@ estaban los palos.
 .. figure:: /img/woodhenge-expectativa.jpg
    :width: 100%
 
-Un poco de astronomía
----------------------
+Un Poco de Astronomía
 
 Voy a intentar describiros lo que queda del monumento, y cómo está
 alineado con el sol. Si miras el plano de Stonehenge, lo primero que
