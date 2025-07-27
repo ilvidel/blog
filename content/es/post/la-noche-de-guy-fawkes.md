@@ -2,21 +2,22 @@
 title: La Noche de Guy Fawkes
 slug: la-noche-de-guy-fawkes
 date: 2016-11-05
-tags: ["guy fawkes", "fuegos artificiales", "fiesta"]
+tags: 
+  - guy fawkes
+  - fuegos artificiales
+  - fiesta
 categories:
   - turismo
-description: Un vistazo a la celebración de la noche de Guy Fawkes
 thumbnail: /img/guy-fawkes-mask.png
 ---
 
-```
-  Remember, remember
-  the fifth of November,
-  Gunpowder, treason and plot.
-  We see no reason
-  Why gunpowder treason
-  Should ever be forgot!
-```
+    Remember, remember
+    the fifth of November,
+    Gunpowder, treason and plot.
+    We see no reason
+    Why gunpowder treason
+    Should ever be forgot!
+  
 
 
 Estos versos, que sin duda conoceréis por la película [V de
@@ -31,7 +32,7 @@ durante el acto de inauguración.
 
 La conspiración se tramó durante más de un año, ya que al parecer, los
 cinco principales malandrines empezaron a reunirse en diversos pubs de
-Londres ya en mayo de 1604 para urdir el plan. Uno de ellos, Thomas
+Londres ya en Mayo de 1604 para urdir el plan. Uno de ellos, Thomas
 Percy, consiguió infiltrarse en *Her Majesty's Bodyguard of the
 Honourable Corps of Gentlemen at Arms*, una especie de guardaespaldas
 del rey, lo que les proporcionó acceso al edificio. Guy Fawkes se hizo
@@ -51,36 +52,36 @@ El 26 de Octubre, unos diez días antes del *explotío*, sir William
 Parker, 4º barón de Monteagle, recibió una carta anónima que rezaba lo
 siguiente:
 
-    My Lord, out of the love I bear to some of your friends, I have a
-    care of your preservation. Therefore I would advise you, as you
-    tender your life, to devise some excuse to shift your attendance
-    at this parliament; for God and man hath concurred to punish the
-    wickedness of this time. And think not slightly of this
-    advertisement, but retire yourself into your country where you may
-    expect the event in safety. For though there be no appearance of
-    any stir, yet I say they shall receive a terrible blow this
-    Parliament; and yet they shall not see who hurts them. This
-    counsel is not to be condemned because it may do you good and can
-    do you no harm; for the danger is passed as soon as you have burnt
-    the letter. And I hope God will give you the grace to make good
-    use of it, to whose holy protection I commend you.
+> My Lord, out of the love I bear to some of your friends, I have a
+> care of your preservation. Therefore I would advise you, as you
+> tender your life, to devise some excuse to shift your attendance
+> at this parliament; for God and man hath concurred to punish the
+> wickedness of this time. And think not slightly of this
+> advertisement, but retire yourself into your country where you may
+> expect the event in safety. For though there be no appearance of
+> any stir, yet I say they shall receive a terrible blow this
+> Parliament; and yet they shall not see who hurts them. This
+> counsel is not to be condemned because it may do you good and can
+> do you no harm; for the danger is passed as soon as you have burnt
+> the letter. And I hope God will give you the grace to make good
+> use of it, to whose holy protection I commend you.
 
 Traducido libremente, con mis escasos conocimientos de inglés y
 castellano antiguos, viene a ser algo así:
 
-	Mi Señor, por el aprecio que guardo a algunos de sus amigos, tengo
-	que darle un consejo para su salvaguarda. Por lo tanto, le
-	recomiendo que, si valora en algo su vida, presente alguna excusa
-	para ausentarse del parlamento; ya que Dios y el hombre han
-	acordado castigar los males de estos tiempos. No tome este aviso a
-	la ligera, y retírese a su villa, donde podrá contemplar todo a
-	salvo. Pues aunque no haya señales de ningún tipo, le aseguro que
-	el parlamento recibirá gran castigo, y no verán quién los
-	daña. Este consejo no debe ser desestimado, porque le beneficiará
-	y no puede causarle ningún mal; el peligro pasará cuando haya
-	quemado esta carta. Espero que Dios, a quien cuya sagrada
-	protección os encomiendo, os otorgue la gracia para hacer buen uso
-	de este aviso.
+> Mi Señor, por el aprecio que guardo a algunos de sus amigos, tengo
+> que darle un consejo para su salvaguarda. Por lo tanto, le
+> recomiendo que, si valora en algo su vida, presente alguna excusa
+> para ausentarse del parlamento; ya que Dios y el hombre han
+> acordado castigar los males de estos tiempos. No tome este aviso a
+> la ligera, y retírese a su villa, donde podrá contemplar todo a
+> salvo. Pues aunque no haya señales de ningún tipo, le aseguro que
+> el parlamento recibirá gran castigo, y no verán quién los
+> daña. Este consejo no debe ser desestimado, porque le beneficiará
+> y no puede causarle ningún mal; el peligro pasará cuando haya
+> quemado esta carta. Espero que Dios, a quien cuya sagrada
+> protección os encomiendo, os otorgue la gracia para hacer buen uso
+> de este aviso.
 
 
 El barón alertó a otros barones y nobles, aunque decidieron no
@@ -107,8 +108,7 @@ aquello de que ya estaban muertos, pero aún así sus cuerpos fueron
 exhumados y decapitados, y sus cabezas clavadas en picas y exhibidas
 en público frente a la Casa de los Lores.
 
-Celebración
------------
+# Celebración
 
 Hoy en día, se conmemora el hecho de que los cogieran y el rey salvara
 la vida (ya sabemos que los británicos son bastante monárquicos, en
