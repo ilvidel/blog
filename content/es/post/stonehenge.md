@@ -2,7 +2,7 @@
 title: Stonehenge
 slug: stonehenge
 date: 2016-06-07
-tags: 
+tags:
 - stonehenge
 - piedras
 categories:
@@ -109,19 +109,14 @@ solsticio (avanzad hasta el minuto 4:15).
 
 {{< youtube rgKJpDDnECI >}}
 
-.. figure:: http://www1.pictures.zimbio.com/gi/Druids+Celebrate+Winter+Solstice+Stonehenge+_U01Wts24JLl.jpg
-   :width: 100%
+<center>
 
-   El druida *Peinadomodernix* diciendo que, para ser verano, todavía
-   hace fresco.
+<img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05A4/production/_91444410_gettyimages-457530919.jpg" width="80%"/>
+<p>El druida <em>Peinadomodernix</em> diciendo que, para ser verano, todavía hace fresco.</p>
 
-.. figure:: https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg
-   :width: 100%
-
-   Un juicio por herejía. Al parecer, el pecador fue a cagar entre
-   unos arbustos y se fue sin darle las gracias al matojo por las
-   hojas para limpiarse.
-
+<img src="https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg" width="80%"/>
+<p>Un juicio por herejía. Al parecer, el pecador fue a cagar entre unos arbustos y se fue sin darle las gracias al matojo por las hojas para limpiarse.</p>
+</center>
 
 Una vez llegas allí y enseñas la entrada para que te dejen acercarte,
 puedes entretenerte un rato leyendo los cartelitos, y dando vueltas
@@ -137,10 +132,11 @@ absoluto, para variar. Ahora ni siquiera están los palos (o unas
 reproducciones), sólo hay unos tochos de cemento para marcar dónde
 estaban los palos.
 
-.. figure:: /img/woodhenge-expectativa.jpg
-   :width: 100%
+<center>
+<img src="/img/woodhenge-expectativa.jpg"  width="80%"/>
+</center>
 
-Un Poco de Astronomía
+# Un Poco de Astronomía
 
 Voy a intentar describiros lo que queda del monumento, y cómo está
 alineado con el sol. Si miras el plano de Stonehenge, lo primero que
@@ -150,13 +146,14 @@ entrada, ni las rocas de las estaciones, ni el altar, nada. Estuve allí un
 rato pensándolo y no lo veía. Así que he estado haciendo un poco de
 investigación astronómica.
 
-.. figure:: /img/stonehenge-plano.jpg
-   :width: 100%
-
-   En azul, el lugar que ocupa ahora el camino (como véis, el túmulo
+<center>
+<img src="/img/stonehenge-plano.jpg" width="80%"/>
+<p>En azul, el lugar que ocupa ahora el camino (como véis, el túmulo
    norte se lo han cargado). Se supone que hay una avenida que sale
    desde las piedras hacia la *Heel Stone*, pero solo se ve en fotos
    aéreas.
+</p>
+</center>
 
 El sol sale por el Este y se pone por el Oeste, pero eso no significa
 que salga por los 90° y se ponga en los 180° de [azimut][azimut]. Resulta que
@@ -165,11 +162,12 @@ del año, y también varía según la latitud del sitio en el que lo
 mires. Concretamente en Stonehenge, en el solsticio de verano, el sol
 sale a unos 50°. Claro, ahora entiendo el temario:
 
-.. figure:: /img/stonehenge-solsticios.jpg
-   :width: 100%
-
-   Las piedras en negro son las que aún están en pie. El resto están
+<center>
+<img src="/img/stonehenge-solsticios.jpg" width="80%"/>
+<p> Las piedras en negro son las que aún están en pie. El resto están
    caídas o, en su mayoría, desaparecidas en combate.
+</p>
+</center>
 
 Efectivamente, las *Piedras de Estación* están alineadas con las
 estaciones: la del noroeste, con el anochecer del solsticio de verano, y

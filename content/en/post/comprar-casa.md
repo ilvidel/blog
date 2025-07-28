@@ -1,5 +1,5 @@
 ---
-title: The Odyssey of buying a house in England
+title: The odyssey of buying a house in England
 slug: comprar-casa
 date: 2020-11-30
 tags:

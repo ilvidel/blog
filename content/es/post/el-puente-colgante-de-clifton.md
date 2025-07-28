@@ -20,7 +20,6 @@ cámara oscura y una cueva que se podía visitar. Así que, como dijo
 *Jack el Destripador*, vayamos por partes.
 
 
-
 [puente]: http://www.cliftonbridge.org.uk/visit
 [wikipedia]: https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge
 
@@ -42,9 +41,10 @@ no encontré quién la estaba haciendo. Es curioso que les dejen hacer
 barbacoas en el parque, pero claro, como viven en la humedad y la
 lluvia… También me encontré ¡una furgoneta de los helados!
 
-.. figure:: /galleries/clifton-bridge/ice-cream-wagon.jpg
-
-   El carrito de los helados, en mitad del parque.
+<center>
+<img src="/galleries/clifton-bridge/ice-cream-wagon.jpg"/>
+<p>El carrito de los helados, en mitad del parque.</p>
+</center>
 
 Bueno, por fin llegué al observatorio, que como todo buen
 observatorio, está en la cima de una colina. Por lo visto, allí arriba
@@ -145,6 +145,3 @@ visita. Os dejo un vídeo de la bajada. Podéis ver más fotos en
 
 
 [flickr]: https://www.flickr.com/photos/149690786@N07/albums/72157677325015386
-
-
-

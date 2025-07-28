@@ -2,7 +2,7 @@
 Title: Stonehenge
 Slug: stonehenge
 Date: 2016-06-07
-Tags: 
+Tags:
 - stonehenge
 - stones
 Categories:
@@ -108,18 +108,17 @@ everything. Crazy. Here's a video I found of a sunrise on the solstice
 
 {{<youtube rgkjpddneci>}}
 
-.. figure :: http://www1.partures.zimbio.com/gi/druids+cebrate+winter+Solstice+stonehenge+_U01WTS24JLL.jpg
-   : Width: 100%
+<center>
+<img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05A4/production/_91444410_gettyimages-457530919.jpg" Width="80%"/>
+<p><em>Hairdonemodernix</em> the Druid, considering that it's still chilly, for summer</p>
 
-   The Druid * comb
-   It makes fresh.
 
-.. figure :: https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg
-   : Width: 100%
-
-   A trial for heresy. Apparently, the sinner went to shit between
-   some bushes and left without thanking the Matojo for the
+<img src="https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg" width="80%"/>
+<p> A trial for heresy. Apparently, the sinner went to poop between
+   some bushes and left without thanking the bush for the
    leaves to clean.
+</p>
+</center>
 
 Once you get there and show the ticket so they can let you in, you
 can spend a while reading the signs and wandering around the
@@ -134,8 +133,10 @@ course, no one knows what they were for, or anything at all, for a
 change. Now, not even the poles (or some reproductions) are there;
 there are just some cement blocks to mark where the poles once were.
 
-.. figure :: /img/woodhenge-expectiva.jpg
-   : Width: 100%
+<center>
+<img src="/img/woodhenge-expectiva.jpg" width="80%"/>
+</center>
+
 
 # A Little Astronomy
 
@@ -147,7 +148,8 @@ the entrance way, not the station stones, not the altar, nothing. I
 stood there for a while thinking about it and couldn't see it. So I've
 been doing some astronomical research.
 
-.. figure:: /img/stonehenge-plano.jpg
+<center>
+<img src="/img/stonehenge-plano.jpg
 :width: 100%
 
 In blue, the place where the road now stands (as you can see, the
@@ -162,7 +164,8 @@ year, and also varies depending on the latitude of the location from
 which you look.  Specifically, at Stonehenge, on the summer solstice,
 the sun rises at about 50°. Of course, now I get the point:
 
-.. figure:: /img/stonehenge-solsticios.jpg
+<center>
+<img src="/img/stonehenge-solsticios.jpg
 :width: 100%
 
 The stones in black are those still standing. The rest have

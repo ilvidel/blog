@@ -2,7 +2,7 @@
 title: Los Pubs
 slug: los-pubs
 date: 2016-05-03
-tags: 
+tags:
  - bristol
  - pubs
  - pintas
@@ -37,7 +37,7 @@ sido punto de alcoholización de dos escritores famosos. Al parecer,
 de inspiración para crear el personaje de [Robinson Crusoe][crusoe]. También se
 dejaba ver por allí, aunque unos 2 siglos más tarde, [Robert Louis
 Stevenson][stevenson], quien se inspiró en él (el pub) para la *Posada Almirante
-Belbow* de su novela [La Isla del Tesoro[isla del tesoro].
+Belbow* de su novela [La Isla del Tesoro][isla del tesoro].
 
 Por cierto, muy graciosa la palabra pub. Resulta que viene de acortar
 el nombre original "Public House". Que no es que fueran casas

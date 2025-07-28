@@ -11,7 +11,7 @@ theme = "mainroad"
     id = 'G-HQTBSWTJSB'
 
 [author]
-    name = "Ignacio Díez"
+    name = "Nacho"
     bio = "Un tonto viviendo en Bristol. Y encima, lo cuenta."
     avatar = "img/avatar.png"
 
@@ -54,7 +54,7 @@ theme = "mainroad"
   single = false # Configure layout for single pages
   # Enable widgets in given order
   # widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-  widgets = ["search", "recent", "categories", "social", "languages"]
+  widgets = ["recent", "categories", "social", "languages"]
 
 [security]
   enableInlineShortcodes = false

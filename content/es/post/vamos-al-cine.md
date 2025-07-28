@@ -65,8 +65,9 @@ adelante). Me quedo pensando unos instantes, valorando si no
 molestarlos y sentarme en otro lado, ya que hay tanto sitio
 libre. Total, la peli debe de estar a punto de comenzar…
 
-.. figure:: /img/odeon_screen.jpg
-   :width: 100%
+<center>
+<img src="/img/odeon_screen.jpg"/>
+</center>
 
 Ambos se debieron percatar de que mi sitio estaba por ahí, y la mujer
 recogió los abrigos, mientras el hombre se levantaba y me preguntaba
