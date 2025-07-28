@@ -15,18 +15,18 @@ voleibol. Tan sólo había cuatro partidos: las dos semifinales el
 sábado por la tarde, y las dos finales el domingo por la tarde; así
 que tenía tiempo de visitar la ciudad.
 
-.. TEASER_END
+Las notas sobre el [viaje][viajar] las podéis leer en el post
+anterior. Brno (como quiera que se pronuncie, porque he oído al menos
+3 formas distintas) no es que sea una ciudad impresionante, la
+verdad. El centro es más o menos bonito, muy pequeño. Pero si sales de
+ahí, no hay nada. Por no haber, no hay ni gente. Las calles y
+edificios me recordaban a España en los años 80, es una arquitectura
+brutalista, típica soviética (aunque no fuera nunca parte de la
+URSS). Todo estaba muy descuidado, como abandonado: maleza, grietas,
+desconchones, grafitti… Y desolado. Ni un alma por las calles, todo en
+silencio, casi sin tráfico.
 
-Las notas sobre el viaje_ las podéis leer en el post anterior. Brno
-(como quiera que se pronuncie, porque he oído al menos 3 formas
-distintas) no es que sea una ciudad impresionante, la verdad. El
-centro es más o menos bonito, muy pequeño. Pero si sales de ahí, no
-hay nada. Por no haber, no hay ni gente. Las calles y edificios me
-recordaban a España en los años 80, es una arquitectura brutalista,
-típica soviética (aunque no fuera nunca parte de la URSS). Todo estaba
-muy descuidado, como abandonado: maleza, grietas, desconchones,
-grafitti… Y desolado. Ni un alma por las calles, todo en silencio,
-casi sin tráfico.
+{{< picture src="https://static.tildacdn.com/tild3436-3061-4131-b864-663030663633/photo.jpg" footer="Esto, aunque no lo parezca, es un reloj" >}}
 
 El centro es otra historia, lleno de turistas, tranvías, trolebuses, y
 repartidores de comida rápida en monociclos eléctricos haciendo
@@ -35,10 +35,10 @@ incompatibles con la salud.
 
 Lo primero que visité fue la catedral de San Pedro y San Pablo que,
 como catedral, debo decir que es bantante decepcionante. Muy pequeña,
-muy simple por dentro. Por {{ 40 | lang.FormatAccounting 2 "CZK" }}  te dejan subir los 109 escalones que
+muy simple por dentro. Por 40CZK te dejan subir los 109 escalones que
 coducen a unos balcones que hay como a media altura de la torre y…
-bueno, pues unos balconcillos pequeños y unas vistas de la ciudad bastante
-normalitas.
+bueno, pues unos balconcillos pequeños y unas vistas de la ciudad
+bastante normalitas.
 
 El sábado por la mañana me encontré de pura casualidad con el museo de
 Mendel, el de los guisantes y la genética. Resulta que vivía aquí en
@@ -95,6 +95,4 @@ cargar con ellos durante la visita. Eso está bien.
 
 
 
-
-
-.. _viaje: /posts/viajar
+[viajar]: /posts/viajar
