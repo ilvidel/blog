@@ -26,7 +26,7 @@ URSS). Todo estaba muy descuidado, como abandonado: maleza, grietas,
 desconchones, grafitti… Y desolado. Ni un alma por las calles, todo en
 silencio, casi sin tráfico.
 
-{{< picture src="https://static.tildacdn.com/tild3436-3061-4131-b864-663030663633/photo.jpg" footer="Esto, aunque no lo parezca, es un reloj" >}}
+{{< figure src="https://static.tildacdn.com/tild3436-3061-4131-b864-663030663633/photo.jpg" footer="Esto, aunque no lo parezca, es un reloj" >}}
 
 El centro es otra historia, lleno de turistas, tranvías, trolebuses, y
 repartidores de comida rápida en monociclos eléctricos haciendo

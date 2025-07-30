@@ -1,8 +1,9 @@
 ---
 title: The odyssey of buying a house in England
-slug: comprar-casa
+slug: buying-a-house
 date: 2020-11-30
 tags:
+  - house
 categories:
   - personal
 thumbnail: "img/for-sale.jpg"
@@ -15,7 +16,7 @@ in Spain, because I've never bought a house before—this is my
 first—but I'm going to tell you about the hassle of buying a house
 here. Let's start at the beginning:
 
-## The Search
+# The Search
 
 The first thing you have to do, obviously, is find a house you
 like. Well, prepare yourself psychologically. You're going to want a
@@ -93,7 +94,7 @@ looking and seeing houses; and if you really want something (a garden,
 a garage, whatever), don't give up and try to get it. Better to delay
 a little longer than to regret it later.
 
-## The Purchase
+# The Purchase
 
 Congratulations! After spending months looking at listings daily and
 knowing the real estate market better than the agents themselves,
@@ -148,7 +149,7 @@ people get so much cash?), so there were no banks, mortgages, or other
 such crap to wait for. I guess the owner's eyes were drawn to the
 drawings with the dollar sign. Or the pound, in this case.
 
-## The Chain
+# The Chain
 
 Okay, after many months, many visits to haunted houses, and much
 frustration, you've managed to make an offer on a house you like, and
@@ -177,7 +178,7 @@ traitor to find another house, or they can decide they're tired of
 waiting for that person and look for something else. And so on, until
 the first in the chain.
 
-## The Investigations
+# The Investigations
 
 Well, after your offer is accepted (and you're in the chain), the
 messy business begins. Find a specialized lawyer, because there are
@@ -234,7 +235,7 @@ pay. As far as I know, that's not the case in Spain, at least not for
 residential land. You buy the house and the plot. And if it's in an
 apartment building, you own the corresponding percentage.
 
-## The Inspection
+# The Inspection
 
 Everyone also recommends that you hire a technical inspection of the
 house, carried out by an independent company. Like the MOT (Technical
@@ -264,7 +265,7 @@ whatever, then they'll give you a discount on what it's going to
 cost. Maybe they'll give you a discount, or maybe they won't, of
 course.
 
-## The Exchange
+# The Exchange
 
 After all this, and signing more papers than a watermelon has atoms,
 all you have to do is wait. And wait. And wait. Wait for the others to

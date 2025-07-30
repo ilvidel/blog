@@ -1,8 +1,12 @@
 ---
-Title: Things about Bristol 
-Slug: Cosillas-de-Bristol
+Title: Things about UK 
+Slug: uk-stuff
 Date: 2016-04-13
-Tags: ["Bristol", "Chimneys", "Gaviotas", "Food"]
+Tags:  
+  - Bristol
+  - Chimneys
+  - Gaviotas
+  - Food
 Categories:
   - personal
 Thumbnail: "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2007/07/24/plug_sillitoe_2.jpg"
@@ -20,7 +24,7 @@ enormous. Huge. Since all the houses are single-family, the population
 is spread out, like butter on toast. They are very pretty houses, yes,
 with their little front fence, their Simpsons-style windows… All
 very Victorian. In fact, most of the houses are from that period,
-super old, with wooden floors and everything.
+ancient, with wooden floors and everything.
 
 In Victorian times (late 18th and early 19th centuries, for those who
 don't know), heating as we know it today didn't exist. The only way to
@@ -32,7 +36,7 @@ the issue, and all chimneys are either completely bricked up or
 rendered unusable, with a small decorative gap left.
 
 I haven't looked into this, but I'm sure it's by law. Not in the "wall
-up your chimney or we'll fine you" sense; but here, all houses have
+up your chimney, or we'll fine you" sense; but here, all houses have
 something called an EPC (Energy Performance Certificate). It's a
 rating they give a house based on how well or poorly it's thermally
 insulated. That is, how quickly it loses heat. And of course, a
@@ -103,7 +107,7 @@ airport, I noticed it. Quite a chill. Polo liquor. Well, on the street
 you could find people walking around in short sleeves. That's how they
 play here.
 
-The plugs are pretty well thought out (except where to put them, [as I
+The plugs are pretty well-thought-out (except where to put them, [as I
 already mentioned][flat]). And I've had to study it too, of course,
 so I can plug in Spanish things here. All the plugs, absolutely all of
 them, have a switch. If you don't flip the switch, you'll look like an

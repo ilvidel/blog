@@ -1,12 +1,18 @@
 ---
 Title: The M-Shed Warehouse
-Slug: M-Shed
+Slug: m-shed
 Date: 2016-12-04
-Tags: ["Warehouse", "Museum", "shed"]
+Tags: 
+  - museum
+  - shed
+  - warehouse
 Categories:
   - tourism
 Thumbnail: "https://media-cdn.tripadvisor.com/media/photo-s/06/a6/b7/e8/m-shed.jpg"
 ---
+
+{{< figure src="https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_z.jpg" 
+footer="Picture of the Bristol harbour in the 60s" >}}
 
 *M-Shed* is the name of a museum/gallery in the Port of Bristol. The
 museum is located in several of the port's former cargo storage sheds,
@@ -33,7 +39,8 @@ everything: remnants of Bristol's industrial past in the late 19th
 century, ship models—both old and new—gear measuring 2 meters in
 diameter, computers from the 1960s and 1970s...
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276712642/in/album-72157677325015396/" title="PB240300"><img src="https://c3.staticflickr.com/6/5480/31276712642_32e626f4a3_z.jpg" width="640" height="361" alt="PB240300"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< figure src="https://c7.staticflickr.com/6/5708/30599983814_98f2c1fba1_z.jpg"
+footer="Official Carriage" >}}
 
 We started by looking at a photo of the port and the storage sheds in
 the 1960s, with all the cranes in use. He told us that the cranes are
@@ -47,27 +54,22 @@ condition, others were only in working order. Apparently, there was a
 motorcycle factory, Douglas, that became very famous during the First
 World War, as it manufactured thousands of motorcycles for the army.
 
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/30599983814/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5708/30599983814_98f2c1fba1_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 This is a carriage used for official functions by the Mayor, or by a
 higher-ranking official, if necessary. It is said that Queen Victoria
 used it on a visit to Bristol, although this is unconfirmed. The use
 of carriages declined over time, and not merely for technological
 reasons: whoever was elected mayor had to bear the maintenance costs
 not only of the carriage itself, but also of the horses, stables, etc.
-
 It is in very good condition and can be used if necessary. To remove
 it, they use the port cranes. The city council no longer owns stables
 or horses, and if they ever need to use it, they hire the horses.
 
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276675542/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5836/31276675542_7333ec2cd5_z.jpg" width="640" height="360" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< figure src="https://live.staticflickr.com/5836/31276675542_7333ec2cd5_b.jpg" footer="Space probe prototype" >}}
 
 Another of the most striking curiosities is this small probe. It was
 manufactured here at the University of Bristol and is a prototype
 probe for measuring cosmic rays. This particular probe was never
 used—because it was a prototype—but NASA did use others based on it.
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276672902/in/album-72157677325015396/" title="Sin título"><img src="https://c7.staticflickr.com/6/5493/31276672902_31d253c99f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In the shed, there were a lot of remains from Bristol's aeronautical
 industrial past, but the most curious was this wheel from the [Bristol
@@ -84,6 +86,8 @@ I'm not going to add more things, because I could be writing for
 hours. In the [album][album] there are more pictures (I'll make
 comments, I haven't had time yet). I will surely come back and take
 more photos and learn new things.
+
+{{< big-figure src="https://c7.staticflickr.com/6/5493/31276672902_31d253c99f_z.jpg" footer="Wheel from the _Bristol Brabazon_" >}}
 
 [album]: https://www.flickr.com/photos/149690786@n07/albums/7215767325015396/with/30599995824/
 [Brabazon]: https://en.wikipedia.org/wiki/bristol_brabazon

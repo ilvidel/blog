@@ -1,6 +1,9 @@
+.hugo_build.lock
+.idea/
 .doit.db
 *.pyc
 *.aux
 *~
 makefile
 public/
+themes/*

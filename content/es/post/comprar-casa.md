@@ -3,6 +3,7 @@ title: La Odisea de Comprar una Casa en Inglaterra
 slug: comprar-casa
 date: 2020-11-30
 tags:
+  - casa
 categories:
   - personal
 description: Comprar una casa en Inglaterra
@@ -16,7 +17,7 @@ baladí. No sé cómo será en España, porque nunca me he comprado una
 casa --esta es la primera--, pero os voy a contar el cansineo que
 supone comprarse una casa aquí. Empecemos por el principio:
 
-## La Búsqueda
+# La Búsqueda
 
 Lo primero que hay que hacer, obviamente es buscar una casa que te
 guste. Bueno, pues prepárate psicológicamente. Vas a querer una casa
@@ -92,7 +93,7 @@ viendo casas; y si de verdad quieres que tenga algo (jardín, garaje,
 lo que sea), no te des por vencido e intenta conseguirlo. Mejor tardar
 un poco más que arrepentirte luego.
 
-## La Compra
+# La Compra
 
 ¡Enhorabuena! Después de pasarte meses mirando las ofertas a diario y
 conocerte el mercado inmobiliario mejor que los propios agentes, has
@@ -148,7 +149,7 @@ ojos como a los dibujos, con el símbolo del dólar. O de la libra, en
 este caso.
 
 
-## La Cadena
+# La Cadena
 
 Bien, tras muchos meses, muchas visitas a casas del terror y mucha
 frustración, has conseguido hacer una oferta por una casa que te
@@ -177,7 +178,7 @@ esperar a ese y buscar algo más. Y así todos hasta el primero de la
 cadena.
 
 
-## Las Pesquisas
+# Las Pesquisas
 
 Bueno, después de que te acepten la oferta (y estés en la cadena),
 empiezan los papelotes. Búscate un abogado especializado, porque hay
@@ -240,7 +241,7 @@ si es en un bloque de pisos, eres dueño del porcentaje
 correspondiente.
 
 
-## La Inspección
+# La Inspección
 
 Todo el mundo te recomienda además, que contrates una inspección
 técnica de la casa, hecha por una empresa independiente. Como la ITV
@@ -268,7 +269,7 @@ precio: si ves que tienes que aplicar un tratamiento a la madera, o
 hacer una obra, o lo que sea, pues que te rebajen lo que te va a
 costar. Que a lo mejor te lo rebajan, o a lo mejor no, claro.
 
-## El Intercambio
+# El Intercambio
 
 Después de todo esto, y de firmar más papeles que átomos tiene una
 sandía, sólo te queda esperar. Y esperar. Y esperar. Esperar a que los
