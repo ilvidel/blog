@@ -48,7 +48,7 @@ since I was hungry and hadn't brought anything to eat, I bought
 something: a sandwich, a drink, and dessert, £9. Gosh. Those rocks
 better be good.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051513260/in/album-72157677325015326/" title="Sin título"><img src="https://c5.staticflickr.com/6/5331/31051513260_89129cb1f5_z.jpg" width="640" height="400" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< figure src="https://c5.staticflickr.com/6/5331/31051513260_89129cb1f5_z.jpg" footer="Chalé adosado de la época">}}
 
 Next to the visitor center, there's a reproduction of a small village
 from that period. You can go inside the houses to see what they were
@@ -79,7 +79,7 @@ lot), grabbed the maps and all the other stuff they gave you, and set
 off to walk toward the rocks. Anyway, I wasn't in a hurry, and the
 weather was good.
 
-<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31304755271/in/album-72157677325015326/" title="Sin título"><img src="https://c8.staticflickr.com/6/5473/31304755271_93298ddb9f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< figure src="https://c8.staticflickr.com/6/5473/31304755271_93298ddb9f_z.jpg" footer="John Nieve vigilando que nadie se ponga tonto" >}}
 
 I started walking through the field and came to a little sign that
 told you that there was something there. Something they call the "Long
@@ -92,8 +92,6 @@ like that, little signs that say "there's something here, but we don't
 know what it is or what it was used for, and besides, you can't see it
 without a helicopter. But you paid us good money for the entrance."
 Disappointing.
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276147722/in/album-72157677325015326/" title="Sin título"><img src="https://c3.staticflickr.com/6/5793/31276147722_9b7473e419_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Well, actually, to "see" these things, you don't need a ticket. You
 only need it to get close to the stones. If you don't have a ticket,
@@ -108,17 +106,9 @@ everything. Crazy. Here's a video I found of a sunrise on the solstice
 
 {{<youtube rgkjpddneci>}}
 
-<center>
-<img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05A4/production/_91444410_gettyimages-457530919.jpg" Width="80%"/>
-<p><em>Hairdonemodernix</em> the Druid, considering that it's still chilly, for summer</p>
+<!-- {{< figure src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05A4/production/_91444410_gettyimages-457530919.jpg" footer="El druida *Peinadomodernix* diciendo que, para ser verano, todavia hace fresco" >}} -->
 
-
-<img src="https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg" width="80%"/>
-<p> A trial for heresy. Apparently, the sinner went to poop between
-   some bushes and left without thanking the bush for the
-   leaves to clean.
-</p>
-</center>
+<!-- {{< figure src="https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg" footer="Un juicio por herejía. Al parecer, el pecador fue a cagar entre unos arbustos y se fue sin darle las gracias al matojo por las hojas para limpiarse" >}} -->
 
 Once you get there and show the ticket so they can let you in, you
 can spend a while reading the signs and wandering around the
@@ -133,10 +123,7 @@ course, no one knows what they were for, or anything at all, for a
 change. Now, not even the poles (or some reproductions) are there;
 there are just some cement blocks to mark where the poles once were.
 
-<center>
-<img src="/img/woodhenge-expectiva.jpg" width="80%"/>
-</center>
-
+{{< big-figure src="/img/woodhenge-expectativa.jpg" width="100%" >}}
 
 # A Little Astronomy
 
@@ -148,9 +135,7 @@ the entrance way, not the station stones, not the altar, nothing. I
 stood there for a while thinking about it and couldn't see it. So I've
 been doing some astronomical research.
 
-<center>
-<img src="/img/stonehenge-plano.jpg
-:width: 100%
+{{< figure src="/img/stonehenge-plano.jpg" footer="En azul, el lugar que ocupa ahora el camino (como véis, el túmulo norte se lo han cargado). Se supone que hay una avenida que sale desde las piedras hacia la *Heel Stone*, pero solo se ve en fotos aéreas." >}}
 
 In blue, the place where the road now stands (as you can see, the
 northern barrow has been destroyed). There is supposedly an avenue
@@ -164,9 +149,7 @@ year, and also varies depending on the latitude of the location from
 which you look.  Specifically, at Stonehenge, on the summer solstice,
 the sun rises at about 50°. Of course, now I get the point:
 
-<center>
-<img src="/img/stonehenge-solsticios.jpg
-:width: 100%
+{{< big-figure src="/img/stonehenge-solsticios.jpg" footer="Las piedras en negro son las que aún están en pie. El resto están caídas o, en su mayoría, desaparecidas en combate." >}}
 
 The stones in black are those still standing. The rest have
 fallen or, for the most part, gone missing in action.

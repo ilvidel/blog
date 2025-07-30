@@ -50,7 +50,8 @@ pastel. Que, por cierto, como tenía hambre y no había echado nada para
 comer, compré algo: un sándwich, una bebida y un postre, £9. Tela. Ya
 pueden estar bien los chinatos esos.
 
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051513260/in/album-72157677325015326/" title="Sin título"><img src="https://c5.staticflickr.com/6/5331/31051513260_89129cb1f5_z.jpg" width="640" height="400" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< figure src="https://c5.staticflickr.com/6/5331/31051513260_89129cb1f5_z.jpg" footer="Chalé adosado de la época">}}
+<!--a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31051513260/in/album-72157677325015326/" title="Sin título"><img src="https://c5.staticflickr.com/6/5331/31051513260_89129cb1f5_z.jpg" width="640" height="400" ></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script-->
 
 Junto al centro de visitantes hay una reproducción de un pequeño
 poblado de la época. Puedes meterte en las casas a ver cómo eran por
@@ -81,7 +82,8 @@ entrada, me gasté las 16 libras (bueno, 11, porque te descuentan las
 dan, y me dispuse a ir andando hacia los peñascos. Total, no tenía
 prisa y hacía buen tiempo.
 
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31304755271/in/album-72157677325015326/" title="Sin título"><img src="https://c8.staticflickr.com/6/5473/31304755271_93298ddb9f_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+{{< figure src="https://c8.staticflickr.com/6/5473/31304755271_93298ddb9f_z.jpg" footer="John Nieve vigilando que nadie se ponga tonto" >}}
+<!--a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31304755271/in/album-72157677325015326/"><img src="https://c8.staticflickr.com/6/5473/31304755271_93298ddb9f_z.jpg" width="640" height="480"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script-->
 
 Me puse a andar por el campo, y llegué a un cartelito que te contaba
 que allí había algo. Una cosa que llaman el «Long Cursus», una zanja
@@ -93,8 +95,6 @@ patatas. Todo el parque está lleno de cosas así, cartelitos que dicen
 «aquí hay algo, pero ni sabemos qué es ni para qué se usaba, y además
 no lo puedes ver sin helicóptero. Pero buenos dineros nos has pagao
 por la entrada». Decepcionante.
-
-   <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/149690786@N07/31276147722/in/album-72157677325015326/" title="Sin título"><img src="https://c3.staticflickr.com/6/5793/31276147722_9b7473e419_z.jpg" width="640" height="480" alt="Sin título"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Bueno, en realidad para «ver» esas cosas no hace falta la
 entrada. Sólo es para acercarte a las piedras. Si no tienes entrada,
@@ -109,14 +109,9 @@ solsticio (avanzad hasta el minuto 4:15).
 
 {{< youtube rgKJpDDnECI >}}
 
-<center>
+<!-- {{< figure src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05A4/production/_91444410_gettyimages-457530919.jpg" footer="El druida *Peinadomodernix* diciendo que, para ser verano, todavia hace fresco" >}} -->
 
-<img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/05A4/production/_91444410_gettyimages-457530919.jpg" width="80%"/>
-<p>El druida <em>Peinadomodernix</em> diciendo que, para ser verano, todavía hace fresco.</p>
-
-<img src="https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg" width="80%"/>
-<p>Un juicio por herejía. Al parecer, el pecador fue a cagar entre unos arbustos y se fue sin darle las gracias al matojo por las hojas para limpiarse.</p>
-</center>
+<!-- {{< figure src="https://stonehengenews.files.wordpress.com/2009/12/druids_stonehenge.jpg" footer="Un juicio por herejía. Al parecer, el pecador fue a cagar entre unos arbustos y se fue sin darle las gracias al matojo por las hojas para limpiarse" >}} -->
 
 Una vez llegas allí y enseñas la entrada para que te dejen acercarte,
 puedes entretenerte un rato leyendo los cartelitos, y dando vueltas
@@ -132,11 +127,11 @@ absoluto, para variar. Ahora ni siquiera están los palos (o unas
 reproducciones), sólo hay unos tochos de cemento para marcar dónde
 estaban los palos.
 
-<center>
-<img src="/img/woodhenge-expectativa.jpg"  width="80%"/>
-</center>
+{{< big-figure src="/img/woodhenge-expectativa.jpg" width="100%" >}}
 
 # Un Poco de Astronomía
+
+{{< figure src="/img/stonehenge-plano.jpg" footer="En azul, el lugar que ocupa ahora el camino (como véis, el túmulo norte se lo han cargado). Se supone que hay una avenida que sale desde las piedras hacia la *Heel Stone*, pero solo se ve en fotos aéreas." >}}
 
 Voy a intentar describiros lo que queda del monumento, y cómo está
 alineado con el sol. Si miras el plano de Stonehenge, lo primero que
@@ -146,15 +141,6 @@ entrada, ni las rocas de las estaciones, ni el altar, nada. Estuve allí un
 rato pensándolo y no lo veía. Así que he estado haciendo un poco de
 investigación astronómica.
 
-<center>
-<img src="/img/stonehenge-plano.jpg" width="80%"/>
-<p>En azul, el lugar que ocupa ahora el camino (como véis, el túmulo
-   norte se lo han cargado). Se supone que hay una avenida que sale
-   desde las piedras hacia la *Heel Stone*, pero solo se ve en fotos
-   aéreas.
-</p>
-</center>
-
 El sol sale por el Este y se pone por el Oeste, pero eso no significa
 que salga por los 90° y se ponga en los 180° de [azimut][azimut]. Resulta que
 eso ocurre sólo en los equinoccios. Ese punto se desplaza a lo largo
@@ -162,12 +148,7 @@ del año, y también varía según la latitud del sitio en el que lo
 mires. Concretamente en Stonehenge, en el solsticio de verano, el sol
 sale a unos 50°. Claro, ahora entiendo el temario:
 
-<center>
-<img src="/img/stonehenge-solsticios.jpg" width="80%"/>
-<p> Las piedras en negro son las que aún están en pie. El resto están
-   caídas o, en su mayoría, desaparecidas en combate.
-</p>
-</center>
+{{< big-figure src="/img/stonehenge-solsticios.jpg" footer="Las piedras en negro son las que aún están en pie. El resto están caídas o, en su mayoría, desaparecidas en combate." >}}
 
 Efectivamente, las *Piedras de Estación* están alineadas con las
 estaciones: la del noroeste, con el anochecer del solsticio de verano, y

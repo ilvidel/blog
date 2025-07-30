@@ -1,0 +1,9 @@
+{{- $src := .Get "src" -}}
+{{- $footer := .Get "footer" -}}
+{{- $width := .Get "width" | default "40%" -}}
+<figure style="width: {{ $width }}; float: right; margin: 0 0 1em 1em;">
+  <img src="{{ $src | relURL }}" alt="{{ $footer }}" style="display: block;" />
+  {{- if $footer -}}
+  <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em; text-align: center;">{{ $footer | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

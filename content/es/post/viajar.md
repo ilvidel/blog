@@ -19,8 +19,10 @@ hasta Brno (República Checa). Lo "gordo" del viaje, es decir, el vuelo
 a Praga y el tren hasta Brno son 2 horas y 2 horas y media
 respectivamente; en total unas 5 horas contando con un poco de retraso
 y tal. Pero claro, eso no es el viaje. Tienes que salir de casa y
-llegar a un hotel. De puerta a puerta, fueron nada menos que *11
-horazas*.
+llegar a un hotel. De puerta a puerta, fueron nada menos que **11
+horazas**.
+
+# Aeropuerto
 
 Lo primero es ir al aeropuerto. Como era día de diario y en horas de
 oficina, no podía engañar a nadie para llevarme, así que cogí el bus
@@ -70,6 +72,8 @@ todo (menos en tí) y han alquilado el espacio a bares, restaurantes,
 puestos de comida, de dulces, etc. Todo al doble de precio de lo
 normal, claro. Faltaría más.
 
+# El Vuelo
+
 Bueno, por fin llega la hora de embarcar. Los de embarque prioritario
 por aquí, los plebeyos por allá… y al final llegamos las dos colas a
 subirnos al mismo minibús que nos lleva de la terminal al avión. Los
@@ -82,7 +86,7 @@ gracias a la pobre calidad de los altavoces`_ y que vamos a estar
 paradicos, dentro de la lata de sardinas, al sol, durante al menos 15
 minutos. Tupendo.
 
-Nos habla de nuevo el capitán. Que la "cosa" no ha mejorado, pero que
+Nos habla de nuevo el capitán. Que la `cosa` no ha mejorado, pero que
 ya salimos. Ah, pues muy bien. ¿No lo podías haber hecho antes,
 entonces? Son ya las 15:35.
 
@@ -92,7 +96,7 @@ con lo cual el resto de la humanidad estamos jodidos. Nos estamos
 sentando mal, que diría Steve Jobs. Luego, siempre, SIEMPRE, te toca o
 bien una despedida de soltero, que se creen que van solos o que a
 todos nos importan mucho las mamarrachadas que dicen, o un par de
-niños llorones con futuro en la ópera.
+niños llorones con un futuro prometedor en la ópera.
 
 Si aún así has conseguido encontrar una postura en la que no se te
 pulvericen las rótulas y estás consiguiendo dormir un poco, no te
@@ -110,6 +114,8 @@ tiempo, la hora, el condensador de fluzo y otro montón de mierdas que
 te dan absolutamente igual porque tú lo que quieres es que te dejen
 dormir de una vez para que al despertar ya estés en tierra y no tener
 que sufrir sus nimiedades.
+
+# El Otro Aeropuerto
 
 Al final, en algún momento de las 18:10 hora local, aterrizas. Tienes
 que pasar el control de pasaporte de nuevo (no vaya a ser que se haya
@@ -134,6 +140,8 @@ del chico checo, que ese billete no me vale, que ese es para los
 trolebuses, tranvías y autobuses normales, que este autobús es un
 billete de 100 coronas. Para ser personal de ayuda del aeropuerto,
 ayudó más bien poco, el papanatas. Pues nada, a comprar otro billete.
+
+# El Tren
 
 Al final llego a la estación de tren de Praga. Mu bonita. Por
 fuera. Por dentro es fea como Atocha, o incluso más. Resulta que el
@@ -173,6 +181,8 @@ como si fueran un rastrillo de un jardín zen, se le entendía poco. Y
 creo que le pasaba lo mismo en checo, porque había un grupo de
 chavales que se burlaban de él cada vez que hablaba. No hablo checho,
 pero eso lo entendí perfectamente.
+
+# Destino Final
 
 En fin. Ya casi estamos. Cuando llego a Brno son ya las 23:30 y me he
 leído casi la mitad del libro que traigo. Ahora me toca averiguar cómo

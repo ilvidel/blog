@@ -54,7 +54,7 @@ theme = "mainroad"
   single = false # Configure layout for single pages
   # Enable widgets in given order
   # widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
-  widgets = ["recent", "categories", "social", "languages"]
+  widgets = ["recent", "categories", "social", "languages", "taglist"]
 
 [security]
   enableInlineShortcodes = false
