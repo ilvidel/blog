@@ -2,7 +2,8 @@
 title: Emigrante
 slug: emigrante
 date: 2016-04-10
-tags: ["emigrante"]
+tags: 
+  - emigrante
 categories:
   - personal
 thumbnail: /img/embarque.jpg

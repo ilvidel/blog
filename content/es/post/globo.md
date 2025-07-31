@@ -2,7 +2,9 @@
 title: Paseo en globo
 slug: paseo-en-globo
 date: 2019-04-30
-tags: ["globo", "bristol"]
+tags: 
+  - globo
+  - bristol
 categories:
   - ocio
   - turismo

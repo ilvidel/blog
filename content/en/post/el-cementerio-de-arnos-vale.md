@@ -2,7 +2,10 @@
 Title: The Arnos Vale Cemetery
 Slug: el-cementerio-de-arnos-vale
 Date: 2016-05-29
-Tags: ["Cemetery", "Arnos Vale", "Bristol"]
+Tags: 
+  - Cemetery
+  - Arnos Vale
+  - Bristol
 Categories:
   - tourism
 Thumbnail: "https://c1.staticflickr.com/6/5737/31046574680_9482a9f548_z.jpg"

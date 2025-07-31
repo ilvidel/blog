@@ -2,7 +2,8 @@
 Title: Volleyball in UK
 Slug: voleibol-en-uk
 DATE: 2017-11-26
-Tags: ["volleyball"]
+Tags: 
+  - volleyball
 Categories:
   - leisure
 Thumbnail: "/img/volleyball.jpg"

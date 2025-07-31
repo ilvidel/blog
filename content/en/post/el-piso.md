@@ -2,7 +2,9 @@
 title: The Flat
 slug: el-piso
 date: 2016-04-19
-tags: ["bristol", "flat"]
+tags: 
+  - bristol
+  - flat
 categories:
   - personal
 ---

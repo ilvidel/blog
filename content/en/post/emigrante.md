@@ -2,9 +2,10 @@
 Title: emigrant
 Slug: emigrant
 Date: 2016-04-10
-Tags: ["emigrant"]
+Tags: 
+  - emigrant
 Categories:
-  - staff
+  - personal
 thumbnail: /img/embarque.jpg
 ---
 

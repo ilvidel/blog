@@ -2,7 +2,10 @@
 title: Museo Herschel de Astronomía
 slug: museo-herschel
 date: 2017-08-20
-tags: ["museo", "herschel", "astronomía"]
+tags: 
+  - museo
+  - herschel
+  - astronomía
 categories:
   - turismo
 thumbnail: "https://farm5.staticflickr.com/4376/36527664322_fa3cc652f7_z.jpg"

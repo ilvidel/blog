@@ -2,7 +2,8 @@
 title: Viajar
 slug: viajar
 date: 2025-07-04
-tags: ["viajar"]
+tags: 
+  - viajar
 categories:
   - turismo
 thumbnail: img/travel.jpg

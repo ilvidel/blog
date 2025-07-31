@@ -2,7 +2,8 @@
 title: El Voleibol en UK
 slug: voleibol-en-uk
 date: 2017-11-26
-tags: ["voleibol"]
+tags: 
+  - voleibol
 categories:
   - ocio
 description: Comparación del voleibol en Inglaterra con el de España

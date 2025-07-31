@@ -8,7 +8,7 @@ tags:
   - ships
   - ss great britain
 categories:
-  - turismo
+  - tourism
 thumbnail: "https://c4.staticflickr.com/1/591/32051319211_380cbca0e9_z.jpg"
 ---
 
@@ -26,7 +26,8 @@ Atherstone][atherstone], a minesweeper that just spent three years in
 the Persian Gulf and returned in December. It normally docks in
 Portsmouth, but is now in Bristol—I don't know why.
 
-{{< figure src="https://c8.staticflickr.com/6/5670/31420058495_a3e74cdd4c_z.jpg" footer="Sightseeing harbour train" >}}
+{{< figure src="https://c8.staticflickr.com/6/5670/31420058495_a3e74cdd4c_z.jpg"
+footer="Harbour sightseeing train" >}}
 
 The port is a very cool place to walk. It is quite old, and you can
 imagine what it was like in its golden age. In the header image of

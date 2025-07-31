@@ -2,7 +2,9 @@
 title: El Piso
 slug: el-piso
 date: 2016-04-19
-tags: ["bristol", "piso"]
+tags: 
+  - bristol
+  - piso
 categories:
   - personal
 ---

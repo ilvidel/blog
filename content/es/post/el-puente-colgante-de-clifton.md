@@ -2,7 +2,10 @@
 title: El Puente Colgante de Clifton
 slug: puente
 date: 2016-05-01
-tags: ["puente", "cámara oscura", "cueva"]
+tags: 
+  - puente
+  - cámara oscura
+  - cueva
 categories:
   - turismo
 description: Excursión al Puente Colgante de Clifton

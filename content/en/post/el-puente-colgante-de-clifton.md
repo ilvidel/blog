@@ -2,7 +2,10 @@
 Title: Clifton's Suspension Bridge
 Slug: Bridge
 Date: 2016-05-01
-Tags: ["bridge", "camera obscura", "cave"]
+Tags: 
+  - bridge
+  - camera obscura
+  - cave
 Categories:
   - tourism
 Thumbnail: "https://c7.staticflickr.com/6/5645/31052027870_30588722d7_z.jpg"

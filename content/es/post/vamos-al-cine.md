@@ -2,7 +2,9 @@
 title: Vamos al Cine
 slug: vamos-al-cine
 date: 2016-05-21
-tags: [ "cine", "bristol" ]
+tags: 
+  - cine
+  - bristol
 categories:
   - ocio
 description: La experiencia de ir al cine por primera vez en Bristol.

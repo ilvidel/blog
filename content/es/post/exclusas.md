@@ -2,7 +2,10 @@
 title: Exclusas del Canal de Bristol
 slug: exclusas
 date: 2016-08-29
-tags: ["exclusas", "barcos", "canal"]
+tags: 
+  - exclusas
+  - barcos
+  - canal
 categories:
   - turismo
 thumbnail: /img/mapa-exclusas.png

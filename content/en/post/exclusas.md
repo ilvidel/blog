@@ -2,7 +2,10 @@
 Title: Bristol Canal Locks
 Slug: Excludes
 DATE: 2016-08-29
-Tags: ["locks", "ships", "canal"]
+Tags: 
+  - locks
+  - ships
+  - canal
 Categories:
   - tourism
 thumbnail: /img/mapa-exclusas.png

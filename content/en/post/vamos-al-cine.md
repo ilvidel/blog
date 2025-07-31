@@ -2,7 +2,9 @@
 Title: Let's go to the cinema
 Slug: Vamos-al-Cine
 DATE: 2016-05-21
-Tags: ["cinema", "Bristol"]
+Tags: 
+  - cinema
+  - Bristol
 Categories:
   - leisure
 Description: The experience of going to the cinema for the first time in Bristol.

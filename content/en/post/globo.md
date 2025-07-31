@@ -2,7 +2,9 @@
 Title: Balloon Ride
 Slug: paseo-en-globo
 Date: 2019-04-30
-Tags: ["balloon", "bristol"]
+Tags: 
+  - balloon
+  - bristol
 Categories:
   - leisure
   - tourism
